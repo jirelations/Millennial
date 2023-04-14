@@ -2,14 +2,23 @@
 layout: default
 ---
 
+{% assign sessions = site.data.sessions | where: "session",page.session | first %}
+
+<!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
+{% assign title = sessions.title | default: page.title %}
+{% assign image = page.image | default: sessions.image %}
+{% assign zotero-tag = page.zotero-tag | default: sessions.zotero-tag %}
+{% assign pad-slug = page.pad-slug | default: sessions.pad-slug %}
+{% assign objective = page.objective | default: sessions.objective %}
+
 <div class="post-content">
   <h1>
-    {{ page.title }}
+    {{ title }}
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
   {% endif %}
-  {% if page.image %}
+  {% if image %}
     <div class="featured-image">
       <figure>
         <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
@@ -27,17 +36,17 @@ layout: default
   {% endif %}
   <article>
     
-    <a href="{{ site.data.settings.zotero-base }}/tags/{{ page.zotero-tag }}/library" class="menu-link">
+    <a href="{{ site.data.settings.zotero-base }}/tags/{{ zotero-tag }}/library" class="menu-link">
       <i class="fa-solid fa-book" aria-hidden="true"></i>
     </a>
-    <a href="{{ site.data.settings.zotero-base }}/tags/{{ page.zotero-tag }}/library" class="menu-link">
+    <a href="{{ site.data.settings.zotero-base }}/tags/{{ zotero-tag }}/library" class="menu-link">
       Readings
     </a>
 
-    <a href="{{ site.data.settings.pad-base }}{{ page.pad-slug }}" class="menu-link">
+    <a href="{{ site.data.settings.pad-base }}{{ pad-slug }}" class="menu-link">
       <i class="fa-solid fa-clipboard" aria-hidden="true"></i>
     </a>
-    <a href="{{ site.data.settings.pad-base }}{{ page.pad-slug }}" class="menu-link">
+    <a href="{{ site.data.settings.pad-base }}{{ pad-slug }}" class="menu-link">
       Shared workspace
     </a>
 
