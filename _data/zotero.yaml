@@ -39,6 +39,23 @@ references:
   type: book
   URL: http://ebookcentral.proquest.com/lib/ub-lmu/detail.action?docID=4338457
 
+- id: berryComputationalTurnThinking2011
+  author:
+    - family: Berry
+      given: Dave M
+  citation-key: berryComputationalTurnThinking2011
+  container-title: Culture Machine
+  issued:
+    - year: 2011
+  language: en
+  page: 1-22
+  source: Zotero
+  title: 'The Computational Turn: Thinking About the Digital Humanities'
+  type: article-journal
+  URL: >-
+    https://culturemachine.net/wp-content/uploads/2019/01/10-Computational-Turn-440-893-1-PB.pdf
+  volume: '12'
+
 - id: goldDebatesDigitalHumanities2012b
   abstract: >-
     *Debates in the Digital Humanities* brings together leading figures in the

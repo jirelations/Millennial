@@ -1,65 +1,65 @@
 ﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tools,tags,contents
-,1,2023-04-14,2023-04-14-1.md,Introduction,Goals & Rationale,1. Goals & Rationale,1,stained-glass-laptop.png,1-Goals-Rationale,,Set goals for your learning in the course.,,[1],"---
+,1,14.04,2023-04-14-1.md,Introduction,Goals & Rationale,1. Goals & Rationale,1,stained-glass-laptop.png,1-Goals-Rationale,,Set goals for your learning in the course.,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,2023-04-14,2023-04-14-2.md,Picking Data,Sources & Biases,2. Sources & Biases,2,stained-glass-cocoa-tree.png,2-Sources-Biases,,"Begin critically questioning the origins, scope, and biases of data sets.",,[2],"---
+,2,14.04,2023-04-14-2.md,Picking Data,Sources & Biases,2. Sources & Biases,2,stained-glass-cocoa-tree.png,2-Sources-Biases,,"Begin critically questioning the origins, scope, and biases of data sets.",,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,2023-05-12,2023-05-12-3.md,Preparing Data,Storing & Versioning,3. Storing & Versioning,3,stained-glass-cocoa-pods-group.png,3-Storing-Versioning,,"Grasp the basics of storing your data in a transparent way (note the ""FAIR"" acronym).","git, OCR",[3],"---
+,3,12.05,2023-05-12-3.md,Preparing Data,Storing & Versioning,3. Storing & Versioning,3,stained-glass-cocoa-pods-group.png,3-Storing-Versioning,berryComputationalTurnThinking2011,"Grasp the basics of storing your data in a transparent way (note the ""FAIR"" acronym).","git, OCR",[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,2023-05-12,2023-05-12-4.md,Preparing Data,Cleaning & Structuring,4. Cleaning & Structuring,4,stained-glass-cocoa-pod-2.png,4-Cleaning-Structuring,,Practice cleaning and formatting data using a variety of tools.,"Google Sheets, OpenRefine, Airtable",[4],"---
+,4,12.05,2023-05-12-4.md,Preparing Data,Cleaning & Structuring,4. Cleaning & Structuring,4,stained-glass-cocoa-pod-2.png,4-Cleaning-Structuring,,Practice cleaning and formatting data using a variety of tools.,"Google Sheets, OpenRefine, Airtable",[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,2023-05-13,2023-05-13-5.md,Preparing Data,Enriching,5. Enriching,5,stained-glass-cocoa-beans.png,5-Enriching,,Explore some ways to enrich your data with markup.,"XML, VSCode, Recogito, TEI Publisher",[5],"---
+,5,13.05,2023-05-13-5.md,Preparing Data,Enriching,5. Enriching,5,stained-glass-cocoa-beans.png,5-Enriching,,Explore some ways to enrich your data with markup.,"XML, VSCode, Recogito, TEI Publisher",[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,2023-05-13,2023-05-13-6.md,Processing Data,Text & Image Analysis,6. Text & Image Analysis,6,stained-glass-mortar.png,6-Text-Image-Analysis,,Practice applying a research question to text and visual data using off-the-shelf tools.,Voyant,[6],"---
+,6,13.05,2023-05-13-6.md,Processing Data,Text & Image Analysis,6. Text & Image Analysis,6,stained-glass-mortar.png,6-Text-Image-Analysis,,Practice applying a research question to text and visual data using off-the-shelf tools.,Voyant,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,2023-06-09,2023-06-09-7.md,Processing Data,Quantitative & Network Analysis,7. Quantitative & Network Analysis,7,stained-glass-baker.png,7-Quantitative-Network-Analysis,,Practice applying a research question to quantitative and network data.,"Gephi, Cytoscape, Google Sheets, maps",[7],"---
+,7,09.06,2023-06-09-7.md,Processing Data,Quantitative & Network Analysis,7. Quantitative & Network Analysis,7,stained-glass-baker.png,7-Quantitative-Network-Analysis,,Practice applying a research question to quantitative and network data.,"Gephi, Cytoscape, Google Sheets, maps",[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,2023-06-09,2023-06-09-8.md,Processing Data,Analysis Critique,8. Analysis Critique,8,stained-glass-tasting.png,8-Analysis-Critique,,Begin critically examining the strengths and limitations of different kinds of data analysis.,,[8],"---
+,8,09.06,2023-06-09-8.md,Processing Data,Analysis Critique,8. Analysis Critique,8,stained-glass-tasting.png,8-Analysis-Critique,,Begin critically examining the strengths and limitations of different kinds of data analysis.,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,2023-06-10,2023-06-10-9.md,Packaging Results,Publishing to a Website,9. Publishing to a Website,9,stained-glass-wrapping.png,9-Publishing-to-a-Website,,Learn some basic ways to put your research online.,"static sites, WordPress",[9],"---
+,9,10.06,2023-06-10-9.md,Packaging Results,Publishing to a Website,9. Publishing to a Website,9,stained-glass-wrapping.png,9-Publishing-to-a-Website,,Learn some basic ways to put your research online.,"static sites, WordPress",[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,2023-06-10,2023-06-10-10.md,Packaging Results,Interactive Visualizations,10. Interactive Visualizations,10,stained-glass-chocolate-1.png,10-Interactive-Visualizations,,Practice advanced techniques for visualizing your research.,"TEI publisher, D3JS",[10],"---
+,10,10.06,2023-06-10-10.md,Packaging Results,Interactive Visualizations,10. Interactive Visualizations,10,stained-glass-chocolate-1.png,10-Interactive-Visualizations,,Practice advanced techniques for visualizing your research.,"TEI publisher, D3JS",[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,2023-07-07,2023-07-07-11.md,Conclusion,Gallery & Reflections,11. Gallery & Reflections,11,stained-glass-thinker-1.png,11-Gallery-Reflections,,Reflect on the practical skills and critical inquiry you learned during the course.,,[11],"---
+,11,07.07,2023-07-07-11.md,Conclusion,Gallery & Reflections,11. Gallery & Reflections,11,stained-glass-thinker-1.png,11-Gallery-Reflections,,Reflect on the practical skills and critical inquiry you learned during the course.,,[11],"---
 layout: post
 session: 11
 tags: [11]

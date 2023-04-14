@@ -1,8 +1,8 @@
-{% if page.zotero-readings %}
+{% if zotero-readings %}
     <div class="readings">
         <h2>Readings</h2>
         <ul>
-            {% for reading in page.zotero-readings %}
+            {% for reading in zotero-readings %}
                 {% assign bibl = site.data.zotero.references | where:"id",reading %}
                 <li>
                     <a href="{{ bibl[0].URL }}">
