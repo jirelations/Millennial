@@ -1,3 +1,137 @@
 ---
 references:
+- id: bachmann-medickCulturalTurnsNew2016a
+  abstract: >-
+    The contemporary fields of the study of culture, the humanities and the
+    social sciences are unfolding in a dynamic constellation of cultural turns.
+    This book provides a comprehensive overview of these theoretically and
+    methodologically groundbreaking reorientations. It discusses the value of
+    the new focuses and their analytical categories for the work of a wide range
+    of disciplines. In addition to chapters on the interpretive, performative,
+    reflexive, postcolonial, translational, spatial and iconic turns, it
+    discusses emerging directions of research. Drawing on a wealth of
+    international research, this book maps central topics and approaches in the
+    study of culture and thus provides systematic impetus for changed
+    disciplinary and transdisciplinary research in the humanities and beyond -
+    e.g., in the fields of sociology, economics and the study of religion. This
+    work is the English translation by Adam Blauhut of an influential German
+    book that has now been completely revised. It is a stimulating example of a
+    cross-cultural translation between different theoretical cultures and also
+    the first critical synthesis of cultural turns in the English-speaking
+    world.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 18
+  author:
+    - family: Bachmann-Medick
+      given: Doris
+  citation-key: bachmann-medickCulturalTurnsNew2016a
+  event-place: Berlin
+  ISBN: 978-3-11-040298-8
+  issued:
+    - year: 2016
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: ProQuest Ebook Central
+  title: 'Cultural Turns: New Orientations in the Study of Culture'
+  title-short: Cultural Turns
+  type: book
+  URL: http://ebookcentral.proquest.com/lib/ub-lmu/detail.action?docID=4338457
+
+- id: goldDebatesDigitalHumanities2012b
+  abstract: >-
+    *Debates in the Digital Humanities* brings together leading figures in the
+    field to explore its theories, methods, and practices and to clarify its
+    multiple possibilities and tensions. Together, the essays suggest that the
+    digital humanities is uniquely positioned to contribute to the revival of
+    the humanities and academic life.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  author:
+    - family: Gold
+      given: Matthew K.
+  citation-key: goldDebatesDigitalHumanities2012b
+  event-place: Minneapolis
+  issued:
+    - year: 2012
+  language: en-US
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: Debates in the Digital Humanities
+  type: book
+  URL: https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities
+
+- id: goldDebatesDigitalHumanities2016a
+  abstract: >-
+    *Debates in the Digital Humanities* 2019 collects a broad array of
+    important, thought-provoking perspectives on the field’s many sides. With a
+    wide range of subjects including gender-based assumptions made by
+    algorithms, the place of the digital humanities within art history, and
+    data-based methods for exhuming forgotten histories, it assembles a who’s
+    who of the field in more than thirty impactful essays.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  citation-key: goldDebatesDigitalHumanities2016a
+  editor:
+    - family: Gold
+      given: Matthew K.
+    - family: Klein
+      given: Lauren F.
+  event-place: Minneapolis
+  issued:
+    - year: 2016
+  language: en-US
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: Debates in the Digital Humanities 2016
+  type: book
+  URL: >-
+    https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016
+
+- id: goldDebatesDigitalHumanities2019a
+  abstract: >-
+    *Debates in the Digital Humanities* 2019 collects a broad array of
+    important, thought-provoking perspectives on the field’s many sides. With a
+    wide range of subjects including gender-based assumptions made by
+    algorithms, the place of the digital humanities within art history, and
+    data-based methods for exhuming forgotten histories, it assembles a who’s
+    who of the field in more than thirty impactful essays.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  citation-key: goldDebatesDigitalHumanities2019a
+  editor:
+    - family: Gold
+      given: Matthew K.
+    - family: Klein
+      given: Lauren F.
+  event-place: Minneapolis
+  issued:
+    - year: 2019
+  language: en-US
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: Debates in the Digital Humanities 2019
+  type: book
+  URL: >-
+    https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019
+
+- id: ProgrammingHistorian2008a
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  citation-key: ProgrammingHistorian2008a
+  issued:
+    - year: 2008
+    - year: 0
+  title: The Programming Historian
+  type: book
+  URL: https://programminghistorian.org/en/
 ...
