@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% assign sorted-posts = paginator.posts | sort: 'date' %}
+{% assign sorted-posts = paginator.posts | sort: 'slug' %}
 {% for post in sorted-posts %}
 {% assign sessions = site.data.sessions | where: "session",post.session | first %}
 {% assign custom_title = sessions.title | default: post.title %}
