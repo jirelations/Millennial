@@ -36,7 +36,7 @@ layout: default
   {% endif %}
   <article>
     
-    <a href="{{ site.data.settings.zotero-base }}/tags/{{ zotero-tag }}/library" class="menu-link">
+    <!-- <a href="{{ site.data.settings.zotero-base }}/tags/{{ zotero-tag }}/library" class="menu-link">
       <i class="fa-solid fa-book" aria-hidden="true"></i>
     </a>
     <a href="{{ site.data.settings.zotero-base }}/tags/{{ zotero-tag }}/library" class="menu-link">
@@ -48,11 +48,11 @@ layout: default
     </a>
     <a href="{{ site.data.settings.pad-base }}{{ pad-slug }}" class="menu-link">
       Shared workspace
-    </a>
+    </a> -->
 
-    {% if page.objective %}
+    {% if objective %}
       <h2>Learning objective</h2>
-      {{ page.objective }}
+      {{ objective }}
     {% endif %}
 
     {% include readings.html %}

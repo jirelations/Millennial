@@ -1,13 +1,15 @@
-<div class="readings">
-    <h2>Readings</h2>
-    <ul>
-        {% for reading in page.zotero-readings %}
-            {% assign bibl = site.data.zotero.references | where:"id",reading %}
-            <li>
-                <a href="{{ bibl[0].URL }}">
-                {{ bibl[0].author[0].family }}, {{ bibl[0].title }} ({{ bibl[0].issued[0].year }})
-                </a>
-            </li>
-        {% endfor %}
-    </ul>    
-</div>
+{% if page.zotero-readings %}
+    <div class="readings">
+        <h2>Readings</h2>
+        <ul>
+            {% for reading in page.zotero-readings %}
+                {% assign bibl = site.data.zotero.references | where:"id",reading %}
+                <li>
+                    <a href="{{ bibl[0].URL }}">
+                    {{ bibl[0].author[0].family }}, {{ bibl[0].title }} ({{ bibl[0].issued[0].year }})
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>    
+    </div>
+{% endif %}
