@@ -12,7 +12,11 @@
       Reveal.initialize({
         hash: true,
         center: false,
-        controls: false,
+        // Display presentation control arrows
+        controls: true,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
         transition: 'fade',
         width: '100%',
         /* height: '100%', */ /* This line causes InternalError: too much recursion  */
