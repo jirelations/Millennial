@@ -101,6 +101,20 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
 
+- id: cohenCrescentCrossJews1994
+  author:
+    - family: Cohen
+      given: Mark R.
+  citation-key: cohenCrescentCrossJews1994
+  ISBN: 978-0-691-03378-5
+  issued:
+    - year: 1994
+  publisher: Princeton Univ. Press
+  title: 'Under crescent and cross : the Jews in the middle ages'
+  title-short: Under crescent and cross
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB032150482
+
 - id: collinsKingMessiahSon2011a
   accessed:
     - year: 2023
@@ -203,6 +217,22 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
+
+- id: griffithChurchShadowMosque2010
+  author:
+    - family: Griffith
+      given: Sidney Harrison
+  citation-key: griffithChurchShadowMosque2010
+  ISBN: 978-0-691-14628-7
+  issued:
+    - year: 2010
+  publisher: Princeton Univ. Press
+  title: >-
+    The Church in the shadow of the Mosque : Christians and Muslims in the world
+    of Islam
+  title-short: The Church in the shadow of the Mosque
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB262072386
 
 - id: langMonotheismus1998a
   author:
@@ -356,6 +386,7 @@ references:
   source: Google Books
   title: 'Whose Bible Is It?: A Short History of the Scriptures'
   type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB363455582
 
 - id: pongratz-leistenNewAgendaStudy2011a
   accessed:
