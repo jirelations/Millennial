@@ -40,6 +40,11 @@ module Jekyll
               element.remove_attribute(attribute_name)
             end
           end
+          
+          if element.matches? "h1,h2,h3,blockquote"
+            # attempt to add class r-fit-text
+            element.set_attribute('class', 'r-fit-text')
+          end
 
           # add the element to the current <section> (i.e. the current slide)
           # unless it's just an <hr> (which are used for splitting only)
