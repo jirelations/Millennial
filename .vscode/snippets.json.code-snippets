@@ -23,4 +23,12 @@
 		],
 		"description": "Add div containing row of images"
 	}
+	"citation": {
+		/* "scope": "Markdown", */
+		"prefix": "cit",
+		"body": [
+			"> ${1:ref} (${2:version}): ${3:text}\n{: .r-fit-text}"
+		],
+		"description": "Add block citation with class r-fit-text"
+	}
 }
