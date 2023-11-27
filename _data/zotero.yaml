@@ -265,6 +265,43 @@ references:
     https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
   volume: '4'
 
+- id: marcusBirkatHaMinimRevisited2009
+  abstract: >-
+    J. Louis Martyn and others have argued that a decision by late first-century
+    rabbis to introduce a liturgical curse against heretics (Birkat Ha-Minim)
+    provides the background for early Christian passages about Christians being
+    excluded from and cursed in synagogues. More recent scholars, however, have
+    challenged the assumption that the earliest form of Birkat Ha-Minim referred
+    to Christians and that the rabbis controlled the synagogues. The present
+    article defends the basics of Martyn's reconstruction while nuancing the
+    extent of rabbinic control in the early Christian centuries. It also
+    suggests, however, that the original of Birkat Ha-Minim may have been a
+    Qumranian curse on the Romans.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 27
+  author:
+    - family: Marcus
+      given: Joel
+  citation-key: marcusBirkatHaMinimRevisited2009
+  container-title: New Testament Studies
+  DOI: 10.1017/S0028688509990063
+  ISSN: 1469-8145, 0028-6885
+  issue: '4'
+  issued:
+    - year: 2009
+      month: 10
+  language: en
+  page: 523-551
+  publisher: Cambridge University Press
+  source: Cambridge University Press
+  title: Birkat Ha-Minim Revisited
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/journals/new-testament-studies/article/birkat-haminim-revisited/A76D00E3A7C23F26D3B747EF143C8468
+  volume: '55'
+
 - id: markschiesPriceMonotheismNew2010a
   accessed:
     - year: 2023
