@@ -1,84 +1,85 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
+blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
+,1,2023/10/16,2023-10-16-1.md,,Introduction,"1. Introduction",1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
 2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,,"Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,2023/10/23,2023-10-23-2.md,,Monotheism,"2. Monotheism",2,stars.jpg,2-Monotheism,,"Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,"Trace the concept of revelation (prophecy and scripture) in its development in Judaism, Christianity, and Islam.",[3],"---
+,3,2023/10/30,2023-10-30-3.md,,"Scripture & Prophets","3. Scripture & Prophets",3,isaiah.jpg,3-Scripture-Prophets,,"Trace the concept of revelation (prophecy and scripture) in its development in Judaism, Christianity, and Islam.",[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Scripture II,4. Scripture II,4,isaiah.jpg,4-Scripture-II,,"Trace the concept of revelation (prophecy and scripture) in its development in Judaism, Christianity, and Islam.",[4],"---
+,4,2023/11/06,2023-11-06-4.md,,"Scripture II","4. Scripture II",4,isaiah.jpg,4-Scripture-II,,"Trace the concept of revelation (prophecy and scripture) in its development in Judaism, Christianity, and Islam.",[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,20.11,2023-11-20-5.md,,Messiah & Covenant,5. Messiah & Covenant,5,palm.jpg,5-Messiah-Covenant,,Relate the early Jesus movement to Messianic ideas in Second-Temple Judaism.,[5],"---
+,5,2023/11/20,2023-11-20-5.md,,"Messiah & Covenant","5. Messiah & Covenant",5,palm.jpg,5-Messiah-Covenant,,"Relate the early Jesus movement to Messianic ideas in Second-Temple Judaism.",[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,27.11,2023-11-27-6.md,,Parting of the Ways,6. Parting of the Ways,6,stone.jpg,6-Parting-of-the-Ways,,,[6],"---
+,6,2023/11/27,2023-11-27-6.md,,"Parting of the Ways","6. Parting of the Ways",6,stone.jpg,6-Parting-of-the-Ways,,"Explain how (1) the text of the New Testament, (2) theological disputes between religious authorities, and (3) lived religion should be taken into account in the process of Judaism and Christianity becoming distinct religions.",[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,04.12,2023-12-04-7.md,,Martyrs/East & West,7. Martyrs/East & West,7,fire-pebble-beach.jpg,7-Martyrs/East-West,,,[7],"---
+,7,2023/12/04,2023-12-04-7.md,,"Martyrs/East & West","7. Martyrs/East & West",7,fire-pebble-beach.jpg,7-Martyrs/East-West,,"1. Describe what martyrs contributed to the ideology of late antique religion.
+2. Give some examples of political, cultural, and religious differences between eastern and western Christian and Jewish communities.",[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,11.12,2023-12-11-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,2023/12/11,2023-12-11-8.md,,Rabbis,"8. Rabbis",8,tallit.jpg,8-Rabbis,,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,18.12,2023-12-18-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,2023/12/18,2023-12-18-9.md,,"A New Prophet","9. A New Prophet",9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,08.01,2024-01-08-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,2024/01/08,2024-01-08-10.md,,"A New Community","10. A New Community",10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,15.01,2024-01-15-11.md,,Rules & Rulers/Tradition,11. Rules & Rulers/Tradition,11,palace-ceiling.jpg,11-Rules-Rulers/Tradition,,,[11],"---
+,11,2024/01/15,2024-01-15-11.md,,"Rules & Rulers/Tradition","11. Rules & Rulers/Tradition",11,palace-ceiling.jpg,11-Rules-Rulers/Tradition,,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,22.01,2024-01-22-12.md,,A Common Language,12. A Common Language,12,ox-bodl-laud-or-258-fol-10b.jpg,12-A-Common-Language,,,[12],"---
+,12,2024/01/22,2024-01-22-12.md,,"A Common Language","12. A Common Language",12,ox-bodl-laud-or-258-fol-10b.jpg,12-A-Common-Language,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,29.01,2024-01-29-13.md,,Converted Conquerors,13. Converted Conquerors,13,horse.jpg,13-Converted-Conquerors,,,[13],"---
+,13,2024/01/29,2024-01-29-13.md,,"Converted Conquerors","13. Converted Conquerors",13,horse.jpg,13-Converted-Conquerors,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,05.02,2024-02-05-14.md,,Perceptions,14. Perceptions,14,carpet_ed.jpg,14-Perceptions,,,[14],"---
+,14,2024/02/05,2024-02-05-14.md,,Perceptions,"14. Perceptions",14,carpet_ed.jpg,14-Perceptions,,,[14],"---
 layout: post
 session: 14
 tags: [14]
