@@ -218,6 +218,23 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
 
+- id: goodmanOxfordHandbookJewish2002b
+  author:
+    - family: Goodman
+      given: Martin
+  citation-key: goodmanOxfordHandbookJewish2002b
+  event-place: Oxford
+  ISBN: 978-0-19-829996-7
+  issued:
+    - year: 2002
+  number-of-pages: XIV, 1037 S.
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The Oxford handbook of Jewish studies
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fdx.doi.org%2F10.1093%2Foxfordhb%2F9780199280322.001.0001
+
 - id: griffithChurchShadowMosque2010
   author:
     - family: Griffith
@@ -233,6 +250,48 @@ references:
   title-short: The Church in the shadow of the Mosque
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB262072386
+
+- id: hezserClassicalRabbinicLiterature2004a
+  abstract: >-
+    Classical rabbinic literature comprises all those ancient Jewish literary
+    compilations which transmit the traditions of tannaitic (70–200 ce) and
+    amoraic (third-to fifth-century ce) rabbis in Palestine and Babylonia: the
+    Mishnah, the Tosefta, the Palestinian and the Babylonian Talmud, and various
+    midrashim. Accordingly, rabbinic literature must be seen as a collective
+    rather than an authorial literature, transmitting a wide variety of partly
+    divergent and contradictory views and teachings rather than providing a
+    linear systematic outline of a particular individual's point of view. The
+    critical study of rabbinic literature began in the nineteenth century with
+    the so-called Wissenschaft des Judentums (Science of Judaism), whose
+    representatives began to apply to rabbinic texts historical and philological
+    methods which were also used in other fields of the humanities. The
+    application of methods and theories from related fields such as literary
+    theory allows one to see the texts from a new perspective.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Hezser
+      given: Catherine
+  citation-key: hezserClassicalRabbinicLiterature2004a
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0006
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  page: 115–140
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Classical Rabbinic Literature
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0006
 
 - id: langMonotheismus1998a
   author:
@@ -503,6 +562,76 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
 
+- id: schwartzHistoriographyJewsTalmudic2004a
+  abstract: >-
+    This article presents a narrative history of the Jews between the
+    destruction of the Second Temple (70 ce) and the Arab conquest of Palestine
+    (c.640 ce). After the destruction, Palestine was made into a standard Roman
+    province in a way which at least curtailed the Jews' traditional autonomy.
+    Nevertheless, the Jews rebelled again, with disastrous results. The Diaspora
+    Revolt (115–17 ce) seems to have ended in the decimation or destruction of
+    the Jewish settlements in Egypt, Libya, and several other places, while the
+    Bar Kokhba Revolt (132–5) brought an end to the Jews' hopes for the
+    restoration of Jerusalem and the Temple and, more tangibly, to Jewish
+    settlement in the district of Judaea. The historiography of the past sixty
+    years on the Jews in the ‘Talmud period’ can be divided into two very broad
+    tendencies, which may be designated Israeli and non-Israeli.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 3
+  author:
+    - family: Schwartz
+      given: Seth
+  citation-key: schwartzHistoriographyJewsTalmudic2004a
+  container-title: The Oxford Handbook of Jewish Studies
+  DOI: 10.1093/oxfordhb/9780199280322.013.0005
+  editor:
+    - family: Goodman
+      given: Martin
+  ISBN: 978-0-19-928032-2
+  issued:
+    - year: 2004
+      month: 12
+      day: 16
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Historiography on the Jews in the ‘Talmudic Period’ (70–640 ce)
+  type: chapter
+  URL: >-
+    https://academic-oup-com.proxy.ub.uni-frankfurt.de/edited-volume/38625/chapter/335224773
+
+- id: schwartzPoliticalGeographyRabbinic2007a
+  accessed:
+    - year: 2023
+      month: 4
+      day: 4
+  author:
+    - family: Schwartz
+      given: Seth
+  citation-key: schwartzPoliticalGeographyRabbinic2007a
+  container-title: The Cambridge Companion to the Talmud and Rabbinic Literature
+  DOI: 10.1017/CCOL0521843901.005
+  edition: '1'
+  editor:
+    - family: Fonrobert
+      given: Charlotte Elisheva
+    - family: Jaffee
+      given: Martin S.
+  ISBN: 978-0-521-84390-4 978-0-521-60508-3 978-1-139-00151-9
+  issued:
+    - year: 2007
+      month: 5
+      day: 28
+  language: en
+  page: 75-96
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: The Political Geography of Rabbinic Texts
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/political-geography-of-rabbinic-texts/BB835D094EFADC8F100B061D8A7B7C6A
+
 - id: stroumsaIdeaSemiticMonotheism2021a
   abstract: |-
     In this work, a sequel to my
@@ -571,6 +700,11 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
+
+- id: Tags
+  citation-key: Tags
+  title: Tags
+  type: document
 
 - id: triggMonotheismReligiousDiversity2020a
   abstract: >-

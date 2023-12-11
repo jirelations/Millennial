@@ -7,6 +7,10 @@ article h2 {
     margin-top: 2.5rem;
 }
 
+.emphasis strong {
+    color: white;
+}
+
 /*********************************************
  * REVEAL SLIDE THEME CUSTOMIZATION
  *********************************************/
@@ -21,6 +25,10 @@ article h2 {
 child elements to have specified height.  */
 .present {
     height: 100%;
+}
+
+blockquote {
+    text-align: left;
 }
 
 /* Container for a row of images in slide that 
