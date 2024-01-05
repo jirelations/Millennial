@@ -1,28 +1,28 @@
-<!doctype html>
- <html>
-   {% include head.html %}
-   <body>
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
     {{ content | revealify }}
     <script src="{{site.baseurl}}/assets/reveal.js/dist/reveal.js"></script>
     <script src="{{site.baseurl}}/assets/reveal.js/plugin/notes/notes.js"></script>
     <script src="{{site.baseurl}}/assets/reveal.js/plugin/markdown/markdown.js"></script>
     <script src="{{site.baseurl}}/assets/reveal.js/plugin/highlight/highlight.js"></script>
     <script>
-    // this is the reveal config
+      // this is the reveal config
       Reveal.initialize({
         hash: true,
         center: false,
         controls: false,
-        transition: 'fade',
-        width: '960',
-        height: '700',
+        transition: "fade",
+        width: "960",
+        height: "700",
         margin: 0.05,
         history: true,
         slideNumber: true,
-        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
-        parallaxBackgroundImage: '{{ page.parallaxBackgroundImage }}',
-        parallaxBackgroundSize: 'cover',
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+        parallaxBackgroundImage: "{{ page.parallaxBackgroundImage }}",
+        parallaxBackgroundSize: "cover",
       });
-    </script>  
-   </body>
- </html>
+    </script>
+  </body>
+</html>

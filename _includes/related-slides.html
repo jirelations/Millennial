@@ -1,26 +1,28 @@
 <div class="related">
   <ul class="related-posts">
-    {% for tag in page.tags %}
-      {% for slides in site.tags[tag] %}
-        {% if slides.tags contains "slides" %}
-            <li>
-              <h2><i class="fa-solid fa-person-chalkboard"></i> <a href="{{ site.github.url }}{{ slides.url }}">Slides</a></h2>
-              <h3>
-              <a href="{{ site.github.url }}{{ slides.url }}">
-                  <div class="related-thumbnail">
-                  {% if slides.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ slides.image }}">
-                  {% endif %}
-                  </div>
-                  <div class="related-title">
-                  {{ slides.title }}
-                  </div>
-                  <!--<small>{{ slides.date | date: "%B %-d, %Y" }}</small>-->
-              </a>
-              </h3>
-            </li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
+    {% for tag in page.tags %} {% for slides in site.tags[tag] %} {% if
+    slides.tags contains "slides" %}
+    <li>
+      <h2>
+        <i class="fa-solid fa-person-chalkboard"></i>
+        <a href="{{ site.github.url }}{{ slides.url }}" target="_blank"
+          >Slides</a
+        >
+      </h2>
+      <h3>
+        <a href="{{ site.github.url }}{{ slides.url }}">
+          <div class="related-thumbnail">
+            {% if slides.image %}
+            <img
+              src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ slides.image }}"
+            />
+            {% endif %}
+          </div>
+          <div class="related-title">{{ slides.title }}</div>
+          <!--<small>{{ slides.date | date: "%B %-d, %Y" }}</small>-->
+        </a>
+      </h3>
+    </li>
+    {% endif %} {% endfor %} {% endfor %}
   </ul>
 </div>
