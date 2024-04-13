@@ -63,3 +63,10 @@ automatically flex and fill row. */
 .row-12 {
     height: calc(100% * 12/12);
 }
+
+/* Slide Menu */
+
+.slide-menu-custom-panel li {
+    font-weight: bold;
+    font-size: 25px;
+}
