@@ -3,9 +3,12 @@
 
 <!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
 {% assign zotero-tag = page.zotero-tag |
-default: sessions.zotero-tag %} {% assign zotero-readings = page.zotero-readings
-| default: sessions.zotero-readings %} {% assign pad-slug = page.pad-slug |
+default: sessions.zotero-tag %} {% assign poll-slug = page.poll-slug |
+  default: zotero-tag %} {% assign pad-slug = page.pad-slug |
 default: sessions.pad-slug %}
+
+<!-- Captures the menu links as a variable so filters can be used on them later -->
+{% capture menu-links %}{% include menu-links.html %}{% endcapture %}
 
 <!DOCTYPE html>
 <html>
@@ -139,7 +142,7 @@ default: sessions.pad-slug %}
               title: "Links",
               icon: '<i class="fa fa-external-link">',
               content:
-                '<li><a style="font-weight:bold; font-size: 25px" href="{{ site.data.settings.menu[0].url }}" target="_blank">{{ site.data.settings.menu[0].name }}</a></li> <li><a style="font-weight:bold; font-size: 25px" href="https://etherpad.studiumdigitale.uni-frankfurt.de/p/23entangled/{{ pad-slug }}" target="_blank">Etherpad</a></li>',
+                '{{ menu-links | markdownify | strip_newlines }}',
             },
             {
               title: "About",

@@ -8,7 +8,8 @@ layout: default
 <!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
 {% assign title = sessions.title | default: page.title %} {% assign image =
 page.image | default: sessions.image %} {% assign zotero-tag = page.zotero-tag |
-default: sessions.zotero-tag %} {% assign zotero-readings = page.zotero-readings
+default: sessions.zotero-tag %} {% assign poll-slug = page.poll-slug |
+  default: zotero-tag %} {% assign zotero-readings = page.zotero-readings
 | default: sessions.zotero-readings %} {% assign pad-slug = page.pad-slug |
 default: sessions.pad-slug %} {% assign objective = page.objective | default:
 sessions.objective %}
