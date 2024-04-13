@@ -1,6 +1,8 @@
 [submodule "reveal.js"]
 	path = assets/reveal.js
-	url = https://github.com/hakimel/reveal.js
+	url = https://github.com/jirelations/reveal.js
 [submodule "course-website-tools"]
 	path = assets/course-website-tools
 	url = https://github.com/jirelations/course-website-tools.git
+[submodule "assets/reveal.js"]
+	url = https://github.com/jirelations/reveal.js

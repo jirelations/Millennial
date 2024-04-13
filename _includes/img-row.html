@@ -1,8 +1,6 @@
 <div class="img-row {{include.class | default: 'r-stretch'}}">
-    {% assign images = include.images | split: "," %}
-
-    {% for image in images %}
-        <!-- <div style="background-image: url({{ image }});"/> -->
-        <img src="{{ image }}"/>
-    {% endfor %}    
+  {% assign images = include.images | split: "," %} {% for image in images %}
+  <!-- <div style="background-image: url({{ image }});"/> -->
+  <img src="{{ image }}" />
+  {% endfor %}
 </div>
