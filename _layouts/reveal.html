@@ -1,3 +1,12 @@
+{% assign sessions = site.data.sessions | where: "session",page.session | first
+%}
+
+<!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
+{% assign zotero-tag = page.zotero-tag |
+default: sessions.zotero-tag %} {% assign zotero-readings = page.zotero-readings
+| default: sessions.zotero-readings %} {% assign pad-slug = page.pad-slug |
+default: sessions.pad-slug %}
+
 <!DOCTYPE html>
 <html>
   {% include head.html %}
@@ -36,7 +45,7 @@
 
           // Add slide numbers to the titles in the slide list.
           // Use 'true' or format string (same as reveal.js slide numbers)
-          numbers: false,
+          numbers: true,
 
           // Specifies which slide elements will be used for generating
           // the slide titles in the menu. The default selects the first
@@ -130,7 +139,7 @@
               title: "Links",
               icon: '<i class="fa fa-external-link">',
               content:
-                '<li><a style="font-weight:bold; font-size: 25px" href="https://www.zotero.org/groups/5227670/23entangled/tags/1-Introduction,_further-reading/library/" target="_blank">Zotero</a></li> <li><a style="font-weight:bold; font-size: 25px" href="https://etherpad.studiumdigitale.uni-frankfurt.de/p/23entangled" target="_blank">Etherpad</a></li>',
+                '<li><a style="font-weight:bold; font-size: 25px" href="{{ site.data.settings.menu[0].url }}" target="_blank">{{ site.data.settings.menu[0].name }}</a></li> <li><a style="font-weight:bold; font-size: 25px" href="https://etherpad.studiumdigitale.uni-frankfurt.de/p/23entangled/{{ pad-slug }}" target="_blank">Etherpad</a></li>',
             },
             {
               title: "About",
