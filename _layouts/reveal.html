@@ -23,18 +23,22 @@ default: sessions.pad-slug %}
     <script>
       // this is the reveal config
       Reveal.initialize({
+        // view: "scroll",
         hash: true,
         center: false,
-        controls: false,
-        transition: "fade",
-        width: "960",
-        height: "700",
-        margin: 0.05,
-        history: true,
+        controls: true,
+        controlsTutorial: true,
+        transition: "slide",
+        width: "1600",
+        height: "900",
+        margin: 0.25,
+        history: false,
         slideNumber: true,
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu],
         parallaxBackgroundImage: "{{ page.parallaxBackgroundImage }}",
-        parallaxBackgroundSize: "cover",
+        parallaxBackgroundSize: "2100px 900px",
+        parallaxBackgroundHorizontal: 200,
+        parallaxBackgroundVertical: 50,
         menu: {
           // Specifies which side of the presentation the menu will
           // be shown. Use 'left' or 'right'.

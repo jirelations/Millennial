@@ -13,8 +13,12 @@ article h2 {
 
  /* Translucent box to highlight the slide content 
  area and make it readable on a photo background.  */
- .slides {
+ /* .slides {
 	box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .5);
+} */
+
+.reveal .backgrounds {
+    opacity: .3;
 }
 
 /* Height must be set on this parent element to allow 
