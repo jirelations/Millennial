@@ -1878,6 +1878,53 @@ references:
   URL: https://academic.oup.com/socrel/article-lookup/doi/10.2307/4153097
   volume: '66'
 
+- id: pewresearchcenterBeingChristianWestern2018
+  abstract: >-
+    The majority of Europe’s Christians are non-practicing, but they differ from
+    religiously unaffiliated people in their views on God, attitudes toward
+    Muslims and immigrants, and opinions about religion’s role in society.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 15
+  author:
+    - literal: Pew Research Center
+  citation-key: pewresearchcenterBeingChristianWestern2018
+  collection-title: Pew Research Center's Religion & Public Life Project
+  issued:
+    - year: 2018
+      month: 5
+      day: 29
+  language: en-US
+  title: Being Christian in Western Europe
+  type: report
+  URL: >-
+    https://www.pewresearch.org/religion/2018/05/29/being-christian-in-western-europe/
+
+- id: pewresearchcenterKeyFindingsGlobal2022
+  abstract: >-
+    The Global Religious Futures (GRF) project is jointly funded by The Pew
+    Charitable Trusts and The John Templeton Foundation. Here are some
+    big-picture findings from the GRF, together with context from other Pew
+    Research Center studies.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 15
+  author:
+    - literal: Pew Research Center
+  citation-key: pewresearchcenterKeyFindingsGlobal2022
+  collection-title: Pew Research Center's Religion & Public Life Project
+  issued:
+    - year: 2022
+      month: 12
+      day: 21
+  language: en-US
+  title: Key Findings From the Global Religious Futures Project
+  type: report
+  URL: >-
+    https://www.pewresearch.org/religion/2022/12/21/key-findings-from-the-global-religious-futures-project/
+
 - id: pollackIntegrationUndReligion2016b
   accessed:
     - year: 2022
