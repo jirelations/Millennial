@@ -1,475 +1,2875 @@
 ---
 references:
-- id: assmannMonotheismCurseBlessing2018a
+- id: ali-dibInterreligiousDialogueSyria2008b
+  abstract: >-
+    In Syria, interfaith dialogue constitutes a public practice that speaks to
+    ethical, social and political imaginaries. As an official practice, it helps
+    to provide the regime with religious legitimacy, though unofficially it
+    often functions as a euphemism for missionary efforts. On a more abstract
+    level, a careful analysis of Syrian interfaith dialogue reveals that
+    different ethical traditions inform the participants' vision of "good." The
+    Muslim sheikhs in this case-study follow an Aristotelian model of ethics
+    that presupposes pious individuals for the creation and preservation of a
+    moral society. Accordingly, they aim at fostering inter-communal harmony by
+    teaching people how to perform virtues, rather than teaching them about
+    other religions. Conversely, the Christian priests share a model that
+    combines post-Enlightenment rationalism with "Christian love," and thus they
+    strive to advance tolerance by encouraging unconditional affection,
+    intellectual and experiential awareness of others. Together, these
+    discrepancies facilitate miscommunication among the participants of
+    dialogue.
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
+    - year: 2022
+      month: 2
+      day: 4
   author:
-    - family: Assmann
-      given: Jan
-  citation-key: assmannMonotheismCurseBlessing2018a
-  collection-number: '9'
-  collection-title: Routledge research in religion and education
-  container-title: >-
-    Public theology, religious diversity, and interreligious learning:
-    Contributing to the common good through religious education
-  DOI: 10.11588/propylaeumdok.00005462
-  editor:
-    - family: Pirner
-      given: Manfred L.
-    - family: Lähnemann
-      given: Johannes
-    - family: Haussmann
-      given: Werner
-    - family: Schwarz,
-      given: Susanne
-  event-place: New York ; London
+    - family: Ali-Dib
+      given: Edith
+  citation-key: ali-dibInterreligiousDialogueSyria2008b
+  container-title: Political Theology
+  DOI: 10.1558/poth.v9i1.93
+  ISSN: 1462-317X
+  issue: '1'
   issued:
-    - year: 2018
-  language: eng
-  license: info:eu-repo/semantics/openAccess
-  page: 94-104
+    - year: 2008
+      month: 2
+      day: 3
+  page: 93-113
   publisher: Routledge
-  publisher-place: New York ; London
-  title: Monotheism – curse or blessing?
-  type: chapter
-  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
+  source: Taylor and Francis+NEJM
+  title: 'Inter-religious Dialogue in Syria: Politics, Ethics and Miscommunication'
+  title-short: Inter-religious Dialogue in Syria
+  type: article-journal
+  URL: https://doi.org/10.1558/poth.v9i1.93
   volume: '9'
 
-- id: beckingBoundariesIsraeliteMonotheism2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Becking
-      given: Bob
-  citation-key: beckingBoundariesIsraeliteMonotheism2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 9-27
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: The boundaries of Israelite monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: chatelioncounetDivineMessiahEarly2008a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Chatelion Counet
-      given: Patrick
-  citation-key: chatelioncounetDivineMessiahEarly2008a
-  container-title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
-  issued:
-    - year: 2008
-  language: en
-  page: 28-52
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
-  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
-
-- id: collinsKingMessiahSon2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Collins
-      given: John J
-  citation-key: collinsKingMessiahSon2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 291-316
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: King and Messiah as Son of God
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
+- id: alkierJudenChristenHeiden2018c
   abstract: >-
-    What is the significance of monotheism in modern western culture, taking
-    into account both its problematic and promising aspects? Biblical texts and
-    the biblical faith traditions bear a continuous, polemical tension between
-    exclusive and inclusive perceptions and interpretations of monotheism.
-    Western monotheism proves itself to be multi-significant and heterogeneous,
-    producing boundary-setting as well as boundary-crossing tendencies, is the
-    common thesis of the authors of this book, who have been collectively
-    debating this theme for two years in an interdisciplinary scholarly setting.
-    Their contributions range from the fields of biblical and religious studies,
-    history and philosophy of religion, systematic theology, to gender studies
-    in theology and religion.The authors also explain the particular
-    contribution of their own theological discipline to these debates.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
-  editor:
-    - family: Haardt
-      given: Maaike
-      non-dropping-particle: de
-    - family: Korte
-      given: Anna-Marie J. A. C. M.
-  event-place: Boston
-  ISBN: 978-90-474-2663-9
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: alkierJudenChristenHeiden2018c
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
   issued:
-    - year: 2008
-  language: en
-  publisher: Brill
-  publisher-place: Boston
-  source: ProQuest Ebook Central
+    - year: 2018
+  language: ger
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-pages: '453'
+  number-of-volumes: '1'
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
   title: >-
-    The Boundaries of Monotheism: Interdisciplinary Explorations into the
-    Foundations of Western Monotheism
-  title-short: The Boundaries of Monotheism
+    Juden, Christen, Heiden? :  religiöse Inklusion und Exklusion in Kleinasien
+    bis Decius
+  title-short: Juden, Christen, Heiden?
   type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
 
-- id: gnuseNoOtherGods1997a
+- id: beckerWaysThatNever2003c
+  author:
+    - family: Becker
+      given: Adam H.
+  citation-key: beckerWaysThatNever2003c
+  collection-title: Texts and studies in ancient Judaism
+  event-place: Tübingen
+  ISBN: 978-3-16-147966-3
+  issued:
+    - year: 2003
+  language: en
+  number-of-pages: 'VIII, 410 S. :'
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  title: The ways that never parted
+  type: book
+
+- id: berghuijsMultipleReligiousBelonging2017a
   abstract: >-
-    This is the first full-scale assessment of the theological, social and
-    ideational implications of our new understandings of ancient Israel's social
-    and religious development. Scholars now stress the gradual emergence of
-    Israel out of the culture of ancient Palestine and the surrounding ancient
-    Near East rather than contrast Israel with the ancient world. Our new
-    paradigms stress the ongoing and unfinished nature of the monotheistic
-    'revolution', which is indeed still in process today. Gnuse takes a further
-    bold step in setting the emergence of monotheism in a wider intellectual
-    context: he argues brilliantly that the interpretation of Israel's
-    development as both an evolutionary and revolutionary process corresponds to
-    categories of contemporary evolutionary thought in the biological and
-    palaeontological sciences (Punctuated Equilibrium).
+    Dutch society is highly secularized in terms of decreasing church membership
+    and church attendance. Meanwhile, there are many ‘religious creatives’ who
+    fulfil their need for meaning by using multiple religious sources. This
+    paper presents an empirical investigation into the occurrence and nature of
+    hybrid religion in the Netherlands, seen as ‘multiple religious belonging’
+    (MRB). After a number of global indications of the importance of MRB, this
+    is the first attempt to quantify and detail MRB in a population. A new
+    approach to ‘religious belonging’ is developed, not in an exclusive,
+    ‘property’ sense, but in terms of being related and feeling at home. This
+    approach leads to a number of ‘modalities of belonging’, that can be
+    measured per religion. To do so, a survey among a representative sample of
+    the Dutch population was used. The survey results indicate that MRB is
+    present among at least 23% of the population in varying combinations and
+    intensities. They also highlight the tendency to emphasize the relatedness
+    between religions, and the permeability and even blurring of the boundaries
+    between them
   accessed:
     - year: 2023
-      month: 10
-      day: 20
+      month: 4
+      day: 12
   author:
-    - family: Gnuse
-      given: Robert Karl
-  citation-key: gnuseNoOtherGods1997a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-37415-8
+    - family: Berghuijs
+      given: Joantine
+  citation-key: berghuijsMultipleReligiousBelonging2017a
+  container-title: Open Theology
+  DOI: 10.1515/opth-2017-0003
+  ISSN: 2300-6579
+  issue: '1'
   issued:
-    - year: 1997
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: 'No Other Gods: Emergent Monotheism in Israel'
-  title-short: No Other Gods
+    - year: 2017
+      month: 1
+      day: 26
+  language: en
+  page: 19-37
+  publisher: De Gruyter Open Access
+  source: www.degruyter.com
+  title: >-
+    Multiple Religious Belonging in the Netherlands: An Empirical Approach to
+    Hybrid Religiosity
+  title-short: Multiple Religious Belonging in the Netherlands
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0003/html
+  volume: '3'
+
+- id: bertainaMedievalCopticConvert2014b
+  author:
+    - family: Bertaina
+      given: David
+  citation-key: bertainaMedievalCopticConvert2014b
+  container-title: Parole de l'Orient
+  ISSN: 0258-8331
+  issued:
+    - year: 2014
+  language: English
+  page: '181'
+  title: >-
+    A medieval Coptic convert's analysis of Islam: the Kitāb al-Wāḍiḥ bi-l-ḥaqq
+    of Būluṣ Ibn Rağā'
+  title-short: A medieval Coptic convert's analysis of Islam
+  type: article-journal
+  volume: '39'
+
+- id: bhawukIndividualismCollectivism2004b
+  author:
+    - family: Bhawuk
+      given: Dharm PS
+  citation-key: bhawukIndividualismCollectivism2004b
+  container-title: Encyclopedia of Leadership
+  issued:
+    - year: 2004
+  page: 706–710
+  publisher: SAGE Publishing
+  source: Google Scholar
+  title: Individualism and collectivism
+  type: article-journal
+  volume: '2'
+
+- id: boyarinDiasporaGenerationGround1993b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Boyarin
+      given: Daniel
+    - family: Boyarin
+      given: Jonathan
+  citation-key: boyarinDiasporaGenerationGround1993b
+  container-title: Critical Inquiry
+  DOI: 10.1086/448694
+  ISSN: 0093-1896
+  issue: '4'
+  issued:
+    - year: 1993
+      month: 7
+      day: 1
+  page: 693-725
+  publisher: The University of Chicago Press
+  source: journals.uchicago.edu (Atypon)
+  title: 'Diaspora: Generation and the Ground of Jewish Identity'
+  title-short: Diaspora
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/abs/10.1086/448694
+  volume: '19'
+
+- id: braakIntroductionTopicalIssue2017a
+  abstract: >-
+    Article Introduction to the Topical Issue “Multiple Religious Belonging” was
+    published on December 20, 2017 in the journal Open Theology  (volume 3,
+    issue 1).
+  accessed:
+    - year: 2023
+      month: 4
+      day: 12
+  author:
+    - family: Braak
+      given: André
+      dropping-particle: van der
+    - family: Kalsky
+      given: Manuela
+  citation-key: braakIntroductionTopicalIssue2017a
+  container-title: Open Theology
+  DOI: 10.1515/opth-2017-0051
+  ISSN: 2300-6579
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 12
+      day: 20
+  language: en
+  page: 662-664
+  publisher: De Gruyter Open Access
+  source: www.degruyter.com
+  title: Introduction to the Topical Issue “Multiple Religious Belonging”
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0051/html
+  volume: '3'
+
+- id: bruceMultipleReligiousBelonging2017a
+  abstract: >-
+    This paper critically examines the notion of ‘multiple religious belonging’
+    (MRB). Through an analysis of a recent study by Joantine Berghuijs, it
+    argues that MRB is ill-defined and exaggerates the extent of popular
+    religiosity. If MRB is at all common, then the de-legitimating effect of
+    religious pluralism (which is well-supported by the evidence) is challenged.
+    This paper suggests that such a challenge is unwarranted by Berghuijs’s
+    evidence and concludes with an elaboration of the various and very different
+    things that might be encompassed by MRB.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 12
+  author:
+    - family: Bruce
+      given: Steve
+  citation-key: bruceMultipleReligiousBelonging2017a
+  container-title: Open Theology
+  DOI: 10.1515/opth-2017-0047
+  ISSN: 2300-6579
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 10
+      day: 26
+  language: en
+  page: 603-612
+  publisher: De Gruyter Open Access
+  source: www.degruyter.com
+  title: 'Multiple Religious Belonging: Conceptual Advance or Secularization Denial?'
+  title-short: Multiple Religious Belonging
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0047/html
+  volume: '3'
+
+- id: buttsHistorySlaveChrist2017c
+  abstract: >-
+    "The History of the 'Slave of Christ' : From Jewish Child to Christian
+    Martyr offers the first critical editions and English translations of the
+    two Syriac recensions of this fascinating text, which narrates the story of
+    a young Jewish child, Asher, who after converting to Christianity and taking
+    the name ʻAbda da-Miḥa ('slave of Christ') is martyred by his father Levi in
+    a scene reminiscent of Abraham's offering of Isaac in Genesis 22. In a
+    detailed introduction, the authors argue that the text is a fictional story
+    composed during the early Islamic period (ca. 650-850) probably in Shigar
+    (modern Sinjār). Building upon methodology from the study of Western
+    Christian and Jewish texts, they further contend that the story's author
+    constructs an imagined Jew based on the Hebrew Bible, thereby challenging
+    the way that previous scholars have used this text as straightforward
+    evidence for historical interactions between Jews and Christians in
+    Babylonia at this time. This ultimately allows the authors to reevaluate the
+    purpose of the text and to situate it in its Late Antique Babylonian
+    context"--
+  author:
+    - family: Butts
+      given: Michael Aaron
+    - family: Gross
+      given: Simcha
+  call-number: 21/NV 1500 B989 available IG Farben-Haus, Q6, 5. OG, Raum 5.611
+  citation-key: buttsHistorySlaveChrist2017c
+  event-place: Piscataway, N.J.
+  ISBN: 978-1-4632-0573-7
+  issued:
+    - year: 2017
+  language: In English and Syriac; with Syriac texts translated into English.
+  note: 'OCLC: 965922443'
+  publisher: Gorgias Press
+  publisher-place: Piscataway, N.J.
+  source: UBFFM BzG
+  title: 'The history of the ''Slave of Christ'': from Jewish child to Christian martyr'
+  title-short: The history of the 'Slave of Christ'
   type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
 
-- id: langMonotheismus1998a
-  author:
-    - family: Lang
-      given: Bernard
-  call-number: '2'
-  citation-key: langMonotheismus1998a
-  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
-  editor:
-    - family: Cancik
-      given: Hubert
-    - family: Gladigow
-      given: Burkhard
-    - family: Kohl
-      given: Karl-Heinz
-  event-place: Stuttgart
-  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
-  issued:
-    - year: 1998
-  language: de
-  number-of-volumes: '5'
-  page: 148-165
-  publisher: W. Kohlhammer
-  publisher-place: Stuttgart
-  source: BnF ISBN
-  title: Monotheismus
-  type: chapter
-  URL: >-
-    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
-  volume: '4'
-
-- id: markschiesPriceMonotheismNew2010a
+- id: CenterStudyConversionb
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
+    - year: 2022
+      month: 11
+      day: 7
+  citation-key: CenterStudyConversionb
+  title: The Center for the Study of Conversion - Conversion Database
+  type: webpage
+  URL: https://in.bgu.ac.il/en/csoc/Pages/Conversion-Database.aspx
+
+- id: cornilleManyMansionsMultiple2010b
   author:
-    - family: Markschies
-      given: Christoph
-  citation-key: markschiesPriceMonotheismNew2010a
-  container-title: One God
-  DOI: 10.1017/CBO9780511730115.007
-  editor:
-    - family: Mitchell
-      given: Stephen
-    - family: Van Nuffelen
-      given: Peter
-  event-place: Cambridge
-  ISBN: 978-0-511-73011-5
+    - family: Cornille
+      given: Catherine
+  citation-key: cornilleManyMansionsMultiple2010b
+  edition: '[Reprint]'
+  event-place: Eugene, OR
+  ISBN: 978-1-60899-453-3
   issued:
     - year: 2010
-  page: 100-111
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: DOI.org (Crossref)
-  title: >-
-    The price of monotheism: Some new observations on a current debate about
-    late antiquity
-  title-short: The price of monotheism
-  type: chapter
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
+  language: eng
+  note: 'OCLC: 775851823'
+  number-of-pages: '152'
+  publisher: Wipf & Stock Publishers
+  publisher-place: Eugene, OR
+  source: Open WorldCat
+  title: 'Many mansions?: multiple religious belonging and Christian identity'
+  title-short: Many mansions?
+  type: book
 
-- id: mcgrathOnlyTrueGod2009a
+- id: CourseReadingReligiousb
+  accessed:
+    - year: 2022
+      month: 11
+      day: 7
+  citation-key: CourseReadingReligiousb
+  title: Course | Reading Religious Conversion | edX
+  type: webpage
+  URL: https://learning.edx.org/course/course-v1:IsraelX+CONVERT+3T2020/home
+
+- id: daySocialIdentitiesSacred2013b
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2013-407115
+  citation-key: daySocialIdentitiesSacred2013b
+  collection-title: Ashgate AHRC - ESRC religion and society series
+  editor:
+    - family: Day
+      given: Abby
+    - family: Vincett
+      given: Giselle
+    - family: Cotter
+      given: Christopher R.
+  event-place: Burlington
+  ISBN: 978-1-4094-5677-3
+  issued:
+    - year: 2013
+  language: eng
+  note: ill. 24 cm. Includes bibliographical references (pages [203]-228) and index.
+  number-of-volumes: '1'
+  publisher: Ashgate
+  publisher-place: Burlington
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Social identities between the sacred and the secular
+  type: book
+
+- id: degraafReligiousRadicalizationSocial2021b
   abstract: >-
-    Monotheism is a powerful religious concept shaped by competing ideas and the
-    problems they raised. Surveying New Testament writings and Jewish sources
-    from before and after the rise of Christianity, James F. McGrath argues that
-    even the most developed Christologies in the New Testament fit within the
-    context of first century Jewish monotheism. McGrath pinpoints when the
-    parting of ways took place over the issue of God's oneness, and explores
-    philosophical ideas such as "creation out of nothing" which caused Jews and
-    Christians to develop differing concepts and definitions about God.
+    In this article, we review the psychology of religion and radicalization. In
+    doing so, we note that both macro-level approaches (that study structural
+    conditions in society) and micro-level approaches (that focus on
+    psychological coping and personal appraisal of individual conditions) fail
+    to adequately explain radical behavior of members of extreme religious
+    groups. Instead, we propose that meso-level approaches best explain
+    religious radicalization. These meso-level approaches explain how members of
+    extreme religious groups appraise societal conditions and find redemption in
+    radical beliefs. In particular, we argue for a more in-depth examination of
+    the historical and societal contexts in which various radicalization
+    processes take place and narratives of radical redemption hold sway.
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
+    - year: 2022
+      month: 2
+      day: 4
   author:
-    - family: McGrath
-      given: James F.
-  citation-key: mcgrathOnlyTrueGod2009a
-  event-place: Champaign, UNITED STATES
-  ISBN: 978-0-252-09189-6
-  issued:
-    - year: 2009
-  publisher: University of Illinois Press
-  publisher-place: Champaign, UNITED STATES
-  source: ProQuest Ebook Central
-  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
-  title-short: The Only True God
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
-
-- id: pongratz-leistenNewAgendaStudy2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Pongratz-Leisten
-      given: Beate
-  citation-key: pongratz-leistenNewAgendaStudy2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 1-40
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: A New Agenda for the Study of the Rise of Monotheism
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: pongratz-leistenReconsideringConceptRevolutionary2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: Reconsidering the Concept of Revolutionary Monotheism
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: schmidQuestGodMonotheistic2011a
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Schmid
-      given: Konrad
-  citation-key: schmidQuestGodMonotheistic2011a
-  container-title: Reconsidering the Concept of Revolutionary Monotheism
-  editor:
-    - family: Pongratz-Leisten
-      given: Beate
-  event-place: Winona Lake
-  ISBN: 978-1-57506-648-6
-  issued:
-    - year: 2011
-  language: en
-  page: 271-290
-  publisher: Pennsylvania State University Press
-  publisher-place: Winona Lake
-  source: ProQuest Ebook Central
-  title: >-
-    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
-    Hebrew Bible
-  type: chapter
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
-
-- id: stroumsaIdeaSemiticMonotheism2021a
-  abstract: |-
-    In this work, a sequel to my
-                  A New Science: The Discovery of Religion in an Age of Reason
-                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
-  author:
-    - family: Stroumsa
-      given: Guy G.
-  citation-key: stroumsaIdeaSemiticMonotheism2021a
-  DOI: 10.1093/oso/9780192898685.001.0001
-  edition: '1'
-  event-place: Oxford
-  ISBN: 978-0-19-289868-5 978-0-19-192520-7
+    - family: Graaf
+      given: Beatrice A
+      non-dropping-particle: de
+    - family: Bos
+      given: Kees
+      non-dropping-particle: van den
+  citation-key: degraafReligiousRadicalizationSocial2021b
+  collection-title: Religion
+  container-title: Current Opinion in Psychology
+  container-title-short: Current Opinion in Psychology
+  DOI: 10.1016/j.copsyc.2020.08.028
+  ISSN: 2352-250X
   issued:
     - year: 2021
+      month: 8
+      day: 1
+  language: en
+  page: 56-60
+  source: ScienceDirect
+  title: >-
+    Religious radicalization: social appraisals and finding radical redemption
+    in extreme beliefs
+  title-short: Religious radicalization
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S2352250X20301810
+  volume: '40'
+
+- id: deheuschKongoHaitiNew1989b
+  abstract: >-
+    Christian syncretism is but a surface aspect of voodoo, the Haitian folk
+    religion that has two major African sources. The rada cult comes from
+    Dahomey whereas the petro cult, which is usually said to be Creole, has its
+    roots among the Kongo. This twofold contribution is analysed from structural
+    and historical viewpoints. The petro divinities are associated with fire and
+    magic, even witchcraft; their rites sometimes require that the most dreadful
+    of them be `attached' or `chained' to pieces of wood. Certain rada
+    divinities, beneficial and peaceful, have violent congeners in the petro
+    pantheon. Each cult has distinct altars in the temple. Near Gonaives in
+    northern Haiti is a temple devoted to the worship of purely Kongo
+    divinities, who are placed under the authority of a king and queen that
+    remind us of the Kingo kingdom. Both structural and historical perspectives
+    are needed for a full under-standing of syncretism.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Heusch
+      given: Luc
+      non-dropping-particle: de
+  citation-key: deheuschKongoHaitiNew1989b
+  container-title: Man
+  DOI: 10.2307/2803307
+  ISSN: 0025-1496
+  issue: '2'
+  issued:
+    - year: 1989
+  page: 290-303
+  publisher: '[Wiley, Royal Anthropological Institute of Great Britain and Ireland]'
+  source: JSTOR
+  title: 'Kongo in Haiti: A New Approach to Religious Syncretism'
+  title-short: Kongo in Haiti
+  type: article-journal
+  URL: https://www.jstor.org/stable/2803307
+  volume: '24'
+
+- id: desmanglesFacesGodsVodou2000b
+  abstract: >-
+    Vodou, the folk religion of Haiti, is a by-product of the contact between
+    Roman Catholicism and African and Amerindian traditional religions. In this
+    book, Leslie Desmangles analyzes the mythology and rituals of Vodou,
+    focusing particularly on the inclusion of West African and European elements
+    in Vodouisants' beliefs and practices.Desmangles sees Vodou not simply as a
+    grafting of European religious traditions onto African stock, but as a true
+    creole phenomenon, born out of the oppressive conditions of slavery and the
+    necessary adaptation of slaves to a New World environment.Desmangles uses
+    Haitian history to explain this phenomenon, paying particular attention to
+    the role of the seventeenth- and eighteenth-century maroon communities in
+    preserving African traditions and the attempts by the Catholic, educated
+    elite to suppress African-based "superstitions." The result is a society in
+    which one religion, Catholicism, is visible and official; the other, Vodou,
+    is unofficial and largely secretive.
+  author:
+    - family: Desmangles
+      given: Leslie G.
+  citation-key: desmanglesFacesGodsVodou2000b
+  ISBN: 978-0-8078-6101-1
+  issued:
+    - year: 2000
+      month: 11
+      day: 9
+  language: en
+  number-of-pages: '237'
+  publisher: Univ of North Carolina Press
+  source: Google Books
+  title: 'The Faces of the Gods: Vodou and Roman Catholicism in Haiti'
+  title-short: The Faces of the Gods
+  type: book
+
+- id: dewaltDoingParticipantObservation2011a
+  author:
+    - family: DeWalt
+      given: Kathleen Musante
+    - family: DeWalt
+      given: Billie R
+  citation-key: dewaltDoingParticipantObservation2011a
+  container-title: 'Participant observation: A guide for fieldworkers'
+  event-place: Lanham, Md.
+  ISBN: 978-0-7591-1927-7 978-0-7591-1928-4 978-0-7591-1926-0
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 916521405'
+  publisher: Altamira Pres, Md.
+  publisher-place: Lanham, Md.
+  source: Open WorldCat
+  title: 'Doing Participant Observation: Becoming a Participant'
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/senc/detail.action?docID=1021969
+
+- id: dewaltWhatParticipantObservation2011a
+  author:
+    - family: DeWalt
+      given: Kathleen Musante
+    - family: DeWalt
+      given: Billie R
+  citation-key: dewaltWhatParticipantObservation2011a
+  container-title: 'Participant observation: A guide for fieldworkers'
+  event-place: Lanham, Md.
+  ISBN: 978-0-7591-1927-7 978-0-7591-1928-4 978-0-7591-1926-0
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 916521405'
+  publisher: Altamira Pres, Md.
+  publisher-place: Lanham, Md.
+  source: Open WorldCat
+  title: What Is Participant Observation?
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/senc/detail.action?docID=1021969
+
+- id: dunnChristiansShapingIdentity2015c
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-68062
+  citation-key: dunnChristiansShapingIdentity2015c
+  collection-number: volume 132
+  collection-title: Supplements to Vigiliae Christianae
+  editor:
+    - family: Dunn
+      given: Geoffrey D.
+    - family: Mayer
+      given: Wendy
+  event-place: Leiden Boston (Mass.)
+  ISBN: 978-90-04-29897-2
+  issued:
+    - year: 2015
+  language: eng ger
+  note: >-
+    25 cm. Includes index. "Publications by Pauline Allen"-Pages 13-21. Includes
+    bibliographical references and indexes. Twenty-two contributions in English
+    and 1 in German.
+  number-of-pages: '520'
+  number-of-volumes: '1'
+  publisher: Brill
+  publisher-place: Leiden Boston (Mass.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Christians shaping identity from the Roman Empire to Byzantium :  studies
+    inspired by Pauline Allen
+  title-short: Christians shaping identity from the Roman Empire to Byzantium
+  type: book
+
+- id: fletcherConstructingReligiousIdentityb
+  author:
+    - family: Fletcher
+      given: Jeannine Hill
+  citation-key: fletcherConstructingReligiousIdentityb
+  language: en
+  page: '8'
+  source: Zotero
+  title: >-
+    Constructing Religious Identity in a Cosmopolitan World: The Theo-Politics
+    of Interfaith Work
+  type: article-journal
+
+- id: foltzReligionsSilkRoad2010b
+  accessed:
+    - year: 2023
+      month: 2
+      day: 11
+  author:
+    - family: Foltz
+      given: Richard
+  citation-key: foltzReligionsSilkRoad2010b
+  DOI: 10.1057/9780230109100
+  event-place: New York
+  ISBN: 978-0-230-62125-1 978-0-230-10910-0
+  issued:
+    - year: 2010
+  language: en
+  publisher: Palgrave Macmillan US
+  publisher-place: New York
+  source: DOI.org (Crossref)
+  title: Religions of the Silk Road
+  type: book
+  URL: http://link.springer.com/10.1057/9780230109100
+
+- id: fontanaCittadinanzaSinaitica2019c
+  abstract: >-
+    "Vi è posto per lo straniero nella società ebraica? Per il non-ebreo ai
+    piedi del
+     Sinai? La posta in gioco del Sinai è più che mai manifesta nella costruzione rabbinica
+     della cittadinanza. Operazione ermeneutica assai complessa. I maestri di Israele l'hanno
+     compiuta ritenendo che gli stessi ebrei ai piedi del Sinai ebbero accesso all'Alleanza
+     come proseliti. È questa l'espressione che essi hanno dato al proprio costituirsi
+     come cittadini di una comunità ermeneutica per eccellenza. Tale fu la comunità nata
+     ai piedi del Sinai. Ed ermeneutico è appunto il gesto che soppianta con il proselito
+     la figura biblica dello straniero, e questo entro il quadro di un'Alleanza ora estesa
+     all'intero orizzonte storico e naturale. E di cui la Torah sinaitica è la Carta
+  author:
+    - family: Fontana
+      given: Raniero
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2020-166690
+  citation-key: fontanaCittadinanzaSinaitica2019c
+  collection-number: n. 648
+  collection-title: Filosofie
+  event-place: Milano
+  ISBN: 978-88-575-6089-2
+  issued:
+    - year: 2019
+  language: ita
+  note: 17 cm. Notes bibliogr.
+  number-of-pages: '162'
+  number-of-volumes: '1'
+  publisher: Mimesis
+  publisher-place: Milano
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: La cittadinanza sinaitica
+  type: book
+
+- id: friedrichsTeilnehmendeBeobachtungEinfuhrung1977a
+  author:
+    - family: Friedrichs
+      given: Jürgen
+  citation-key: friedrichsTeilnehmendeBeobachtungEinfuhrung1977a
+  collection-title: Veröffentlichungen / Pädagogisches Zentrum. Reihe E
+  ISBN: 978-3-407-12611-5
+  issued:
+    - year: 1977
+  publisher: Beltz
+  title: >-
+    Teilnehmende Beobachtung : Einführung in die sozialwissenschaftliche
+    Feldforschung
+  title-short: Teilnehmende Beobachtung
+  type: book
+
+- id: furstenbergJewishChristianCommunal2016c
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-201008
+  citation-key: furstenbergJewishChristianCommunal2016c
+  collection-number: volume 94
+  collection-title: Ancient Judaism and early Christianity
+  editor:
+    - family: Furstenberg
+      given: Yair
+  event-place: Leiden Boston (Mass.)
+  ISBN: 978-90-04-32121-2
+  issued:
+    - year: 2016
+  language: eng
+  note: 25 cm. Includes bibliographical references and index.
+  publisher: Brill
+  publisher-place: Leiden Boston (Mass.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Jewish and Christian communal identities in the Roman world
+  type: book
+
+- id: geertzImpactConceptCulture1966b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Geertz
+      given: Clifford
+  citation-key: geertzImpactConceptCulture1966b
+  container-title: Bulletin of the Atomic Scientists
+  container-title-short: Bulletin of the Atomic Scientists
+  DOI: 10.1080/00963402.1966.11454918
+  ISSN: 0096-3402, 1938-3282
+  issue: '4'
+  issued:
+    - year: 1966
+      month: 4
+  language: en
+  page: 2-8
+  source: DOI.org (Crossref)
+  title: The Impact of the Concept of Culture on the Concept of Man
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/full/10.1080/00963402.1966.11454918
+  volume: '22'
+
+- id: grungInterreligiousDialogueSqueeze2017b
+  author:
+    - family: Grung
+      given: Anne Hege
+  citation-key: grungInterreligiousDialogueSqueeze2017b
+  container-title: Journal of Interreligious Studies
+  issue: '21'
+  issued:
+    - year: 2017
+  page: 37–44
+  source: Google Scholar
+  title: >-
+    Interreligious Dialogue in the Squeeze between Diplomacy and Contextual
+    Practices
+  type: article-journal
+
+- id: gunthnerInterculturalCommunicationRelevance2008b
+  abstract: |-
+    7. Intercultural communication and the relevance of
+          cultural specific repertoires of communicative genres was published in Handbook of Intercultural Communication on page 127.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Günthner
+      given: Susanne
+  citation-key: gunthnerInterculturalCommunicationRelevance2008b
+  container-title: Handbook of Intercultural Communication
+  DOI: 10.1515/9783110198584.2.127
+  editor:
+    - family: Kotthoff
+      given: Helga
+    - family: Spencer-Oatey
+      given: Helen
+  ISBN: 978-3-11-019858-4
+  issued:
+    - year: 2008
+      month: 9
+      day: 25
+  language: en
+  page: 127-152
+  publisher: De Gruyter Mouton
+  source: www-degruyter-com.emedien.ub.uni-muenchen.de
+  title: >-
+    Intercultural communication and the relevance of cultural specific
+    repertoires of communicative genres
+  type: chapter
+  URL: http://www.degruyter.com/document/doi/10.1515/9783110198584.2.127/html
+
+- id: hedgesMultipleReligiousBelonging2017a
+  abstract: >-
+    It is argued that the concept of Multiple Religious Belonging as normally
+    conceived relies upon a problematic construction of “religion” which can be
+    expressed as the World Religions Paradigm. This relies upon a modern Western
+    Protestant bias as to how “religion” should be understood. It is argued that
+    religion can be understood otherwise, and looking at the Chinese context an
+    argument is made that participation in different religious traditions relies
+    upon a very different construct from Multiple Religious Belonging via the
+    World Religions Paradigm model. This is termed Strategic Religious
+    Participation in a Shared Religious Landscape. It considers the way that
+    Chinese religiosity does not have fixed borders in the same way as the World
+    Religions Paradigm suggests. Indeed, asking whether there is Multiple
+    Religious Belonging in traditional Chinese thought seems to misconstrue the
+    situation. A final reflection asks whether this new paradigm, of Strategic
+    Religious Participation in a Shared Religious Landscape, may be appropriate
+    to look at the contemporary Western context amongst a number of religious
+    “nones”. Although no definitive answer is given to this question, the issue
+    highlights that the World Religions Paradigm which shapes our sense of
+    Multiple Religious Belonging may need to be rethought within different
+    contexts.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 12
+  author:
+    - family: Hedges
+      given: Paul
+  citation-key: hedgesMultipleReligiousBelonging2017a
+  container-title: Open Theology
+  DOI: 10.1515/opth-2017-0005
+  ISSN: 2300-6579
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 1
+      day: 26
+  language: en
+  page: 48-72
+  publisher: De Gruyter Open Access
+  source: www.degruyter.com
+  title: >-
+    Multiple Religious Belonging after Religion: Theorising Strategic Religious
+    Participation in a Shared Religious Landscape as a Chinese Model
+  title-short: Multiple Religious Belonging after Religion
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0005/html
+  volume: '3'
+
+- id: hermansenCONVERSIONISLAMTHEOLOGICALb
+  author:
+    - family: Hermansen
+      given: Marcia
+  citation-key: hermansenCONVERSIONISLAMTHEOLOGICALb
+  language: en
+  page: '37'
+  source: Zotero
+  title: 'CONVERSION TO ISLAM: THEOLOGICAL AND HISTORICAL PERSPECTIVES'
+  type: article-journal
+
+- id: hoerderWeakPowerfulLongueduree2014b
+  abstract: >-
+    The essay examines the model case, the stateless Jewish diaspora, and asks
+    why a dispersed powerful people like “the” Romans is not analyzed as
+    diaspora. Do people, who establish institutions of rule far from their core
+    and mythical place of origin, Rome in Italy in this case, and who impose
+    their power, not form diasporas? Other ethnic, professional, and religious
+    groups established diasporic connectivity: the Normans, men and women of
+    Christian faith, Indian Ocean merchants as well as, from mid-15th century
+    the Southeast Asian “Chinese” It is argued that specific socio-economic
+    rather than ethno-cultural groups from specific locations form translocal
+    rather than transnational communities and engage in cultural transformations
+    along the routes.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 6
+  author:
+    - family: Hoerder
+      given: Dirk
+  citation-key: hoerderWeakPowerfulLongueduree2014b
+  container-title: Diasporas. Circulations, migrations, histoire
+  DOI: 10.4000/diasporas.298
+  ISBN: '9782810703500'
+  ISSN: 1637-5823
+  issue: 23-24
+  issued:
+    - year: 2014
+      month: 12
+      day: 1
+  language: en
+  license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  number: 23-24
+  page: 30-49
+  publisher: Presses Universitaires du Midi
+  source: journals.openedition.org
+  title: >-
+    The weak and the powerful: a longue-durée and comprehensive perspective on
+    diasporas
+  title-short: The weak and the powerful
+  type: article-journal
+  URL: https://journals.openedition.org/diasporas/298
+
+- id: hollidayInterculturalCommunicationAdvanced2021b
+  abstract: >-
+    Intercultural Communication provides a critical introduction to the dynamic
+    arena of communication across different cultural and social strata.
+    Throughout this book, topics are revisited, extended, interwoven, and
+    deconstructed, with the reader’s understanding strengthened by tasks and
+    follow-up questions.
+
+    The fourth edition of this popular textbook has been updated to feature:
+
+    ■ new readings by Kwame Antony Appiah, Yoshitaka Miike, Edward Ademolu and
+    Siobhan Warrington, Helena Liu, and Michael Zirulnik and Mark Orbe, which
+    reflect the most recent developments in the field;
+
+    ■ refreshed and expanded examples and tasks including new material on an
+    Asiacentric approach to intercultural communication, selfies as a global
+    discourse, the impact on intercultural communication of English as a lingua
+    franca in multinational organisations, and representations of Africa in
+    charity media campaigns;
+
+    ■ extended discussions of topics including intercultural training,
+    voluntourism, challenging essentialism in business contexts, and
+    intersectional approaches to identity;
+
+    ■ revised further reading suggestions.
+
+    Written by experienced teachers and researchers in the field, this fourth
+    edition of Intercultural Communication is an essential textbook for advanced
+    students studying this topic.
+  author:
+    - family: Holliday
+      given: Adrian
+    - family: Hyde
+      given: Martin
+    - family: Kullman
+      given: John
+  citation-key: hollidayInterculturalCommunicationAdvanced2021b
+  DOI: 10.4324/9780367482480
+  edition: '4'
+  event-place: London
+  ISBN: 978-0-367-48248-0
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  number-of-pages: '344'
+  publisher: Routledge
+  publisher-place: London
+  title: 'Intercultural Communication: An Advanced Resource Book for Students'
+  title-short: Intercultural Communication
+  type: book
+
+- id: hoodWhatDeconversionCritiques2021a
+  accessed:
+    - year: 2023
       month: 5
+      day: 30
+  author:
+    - family: Hood
+      given: Ralph W.
+    - family: Streib
+      given: Heinz
+    - family: Keller
+      given: Barbara
+  citation-key: hoodWhatDeconversionCritiques2021a
+  collection-number: Volume 33
+  collection-title: Research in Contemporary Religion
+  container-title: Deconversion Revisited
+  DOI: 10.13109/9783666568688.17
+  ISBN: 978-3-525-56868-2
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  page: 17-32
+  publisher: Vandenhoeck & Ruprecht
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    What is Deconversion? Critiques and Current Conceptualizations from a Faith
+    Developmental Perspective
+  title-short: Chapter 1
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/10.13109/9783666568688.17
+  volume: Volume 33
+
+- id: hurvitzConversionIslamPremodern2020c
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  citation-key: hurvitzConversionIslamPremodern2020c
+  DOI: 10.1525/9780520969100
+  editor:
+    - family: Hurvitz
+      given: Nimrod
+  ISBN: 978-0-520-96910-0
+  issued:
+    - year: 2020
+      month: 11
       day: 20
+  publisher: University of California Press
+  source: DOI.org (Crossref)
+  title: 'Conversion to Islam in the Premodern Age: A Sourcebook'
+  title-short: Conversion to Islam in the Premodern Age
+  type: book
+  URL: https://www.degruyter.com/document/doi/10.1525/9780520969100/html
+
+- id: internationalsevgigonulbyzantinestudiessymposiumIdentityOtherByzantium2019b
+  author:
+    - family: International Sevgi Gönül Byzantine studies symposium
+      given: ''
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2019-292059
+  citation-key: internationalsevgigonulbyzantinestudiessymposiumIdentityOtherByzantium2019b
+  editor:
+    - family: Durak
+      given: Koray
+    - family: Jevtić
+      given: Ivana
+  event-place: İstanbul
+  ISBN: 978-605-211-696-8
+  issued:
+    - year: 2019
+  language: eng
+  note: >-
+    ill. en coul., cartes, plans, couv. ill. en coul. 25 cm. Actes d'une
+    conférence internationale tenue à Istanbul, Turquie, du 23 au 25 juin
+          2016. Notes bibliogr. Index.
+  number-of-pages: '350'
+  number-of-volumes: '1'
+  publisher: >-
+    Koç University Stavros Niarchos Foundation Center for late Antique and
+    Byzantine Studies
+  publisher-place: İstanbul
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Identity and the other in Byzantium :  papers from the fourth International
+    Sevgi Gönül Byzantine Studies Symposium
+  title-short: Identity and the other in Byzantium
+  type: book
+
+- id: jaffrelotModiIndiaHindu2021b
+  abstract: >-
+    "Although ethnic and sectarian tensions have always been a feature of modern
+    Indian history, the country was founded and governed in its first decades by
+    a nationalist political movement - associated with the Indian National
+    Congress -- that stressed the non-sectarian nature of Indian citizenship.
+    Hindu nationalism, a contrary political force, was born in the 1920s but
+    didn't take off politically until the 1990s. It finally secured national
+    power in 2014 when a populist leader, Narendra Modi -- a former governor of
+    the province of Gujarat -- leveraged a reputation for successful economic
+    reform and popular resentment toward the country's Muslim minority to lead
+    his Hindu nationalist party, the BJP, to national victory. In this book,
+    Christophe Jaffrelot recounts how the Hindu nationalist movement under the
+    leadership of Modi's BJP has deeply transformed the country. Jaffrelot's
+    main argument is that the reign of Modi and his BJP has ushered India into a
+    new type of regime - what he calls ethnic democracy. Modi's rule relies
+    undeniably on popular consent. (In last month's Indian federal elections,
+    Modi consolidated his 2014 win with a decisive electoral victory.) But under
+    the BJP India has largely jettisoned the country's previous commitment to
+    the preservation of the rights of religious and ethnic minorities. This book
+    is based both on the author's long years of research in India and on recent
+    extensive interviews conducted across the country with civil servants,
+    government supporters, opponents of the BJP, and members of religious
+    minorities. Because of the tense atmosphere of intimidation throughout the
+    country, many of Jaffrelot's interlocuters refused to speak on the record;
+    he has given them pseudonyms in this book. The book recounts how proponents
+    of secularism and pluralism, including academics and NGO workers, have been
+    brought to heel; how Christians and Muslims have been increasingly
+    marginalized in national and regional elections; and how the Hindu
+    nationalist government has fostered the development of a shadow "cultural
+    police force" -- with formal and informal ties to the state -- that censors
+    public speech and intimidates political opponents. The book begins with an
+    overview political history of modern India, explaining how the modern Indian
+    state arose out of the heritage of British colonialism and then out of the
+    Indian Congress-led national liberation movement. The bulk of the book takes
+    up the rise and the rule of Hindu nationalism - Hindutva - and that of the
+    strongman Modi, whose canny brand of populism has proven to be a game
+    changer"--
+  author:
+    - family: Jaffrelot
+      given: Christophe
+  citation-key: jaffrelotModiIndiaHindu2021b
+  ISBN: 978-0-691-20680-6
+  issued:
+    - year: 2021
+      month: 8
+      day: 3
+  language: en
+  number-of-pages: '656'
+  publisher: Princeton University Press
+  source: Google Books
+  title: 'Modi''s India: Hindu Nationalism and the Rise of Ethnic Democracy'
+  title-short: Modi's India
+  type: book
+
+- id: jenkinsLostHistoryChristianity2009b
+  abstract: >-
+    A note on names and -isms -- The end of global Christianity -- Churches of
+    the East -- Another world -- The great tribulation -- The last Christians --
+    Ghosts of a faith -- How faiths die -- The mystery of survival -- Endings
+    and beginnings. A lost history revealing that, for centuries, Christianity's
+    center was actually in the Middle East, Asia, and Africa, with significant
+    communities extending as far as China.
+  author:
+    - family: Jenkins
+      given: Philip
+  citation-key: jenkinsLostHistoryChristianity2009b
+  event-place: New York
+  ISBN: 978-0-06-147280-0 978-0-06-147281-7
+  issued:
+    - year: 2009
+  language: English
+  note: 'OCLC: 699322081'
+  publisher: HarperOne
+  publisher-place: New York
+  source: Open WorldCat
+  title: >-
+    The lost history of Christianity: the thousand-year golden age of the church
+    in the Middle East, Africa, and Asia- and how it died
+  title-short: The lost history of Christianity
+  type: book
+
+- id: joshiReligiousRadicalizationFrance2021b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Joshi
+      given: Rasika
+  citation-key: joshiReligiousRadicalizationFrance2021b
+  container-title: Strategic Analysis
+  DOI: 10.1080/09700161.2021.1966870
+  ISSN: 0970-0161
+  issue: '0'
+  issued:
+    - year: 2021
+      month: 8
+      day: 25
+  page: 1-6
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Religious Radicalization in France: Contextualizing the 2021
+    ‘Anti-Separatism’ Bill
+  title-short: Religious Radicalization in France
+  type: article-journal
+  URL: https://doi.org/10.1080/09700161.2021.1966870
+  volume: '0'
+
+- id: juergensmeyerOxfordHandbookReligion2013a
+  abstract: >-
+    Violence has always played a part in the religious imagination, from symbols
+    and myths to legendary battles, from colossal wars to the theater of
+    terrorism. The Oxford Handbook of Religion and Violence surveys
+    intersections between religion and violence throughout history and around
+    the world. The forty original essays in this volume include overviews of
+    major religious traditions, showing how violence is justified within the
+    literary and theological foundations of the tradition, how it is used
+    symbolically and in ritual practice, and how social acts of violence and
+    warfare have been justified by religious ideas. The essays also examine
+    patterns and themes relating to religious violence, such as sacrifice and
+    martyrdom, which are explored in cross-disciplinary or regional analyses;
+    and offer major analytic approaches, from literary to social scientific
+    studies. The contributors to this volume--innovative thinkers who are
+    forging new directions in theory and analysis related to religion and
+    violence--provide novel insights into this important field of studies. By
+    mapping out the whole field of religion and violence, The Oxford Handbook of
+    Religion and Violence will prove an authoritative source for students and
+    scholars for years to come.
+  author:
+    - family: Juergensmeyer
+      given: Mark
+    - family: Kitts
+      given: Margo
+    - family: Jerryson
+      given: Michael
+  citation-key: juergensmeyerOxfordHandbookReligion2013a
+  ISBN: 978-0-19-934408-6
+  issued:
+    - year: 2013
+      month: 1
+      day: 24
+  language: en
+  number-of-pages: '670'
+  publisher: Oxford University Press
+  source: Google Books
+  title: The Oxford Handbook of Religion and Violence
+  type: book
+
+- id: kalskyTopicalIssueMultiple2017a
+  abstract: >-
+    The phenomenon of multiple religious belonging is studied from different
+    perspectives, each of which reveals a different understanding of religion,
+    religious diversity and religious belonging. This shows that the phenomenon
+    of multiple religious belonging is challenging the applicability of these
+    central notions in academic enquiry about religion. In this article, I
+    present the different perspectives on multiple religious belonging in
+    theology of religions and show how the understanding of some central
+    scholarly notions is different. In Christian theology, the debate on
+    multiple religious belonging is conducted between particularists, who focus
+    on the uniqueness of religious traditions, and pluralists, who focus on the
+    shared religious core of religious traditions. Both positions are criticized
+    by feminist and post-colonial theologians. They believe that both
+    particularists and pluralists focus too strongly on religious traditions and
+    the boundaries between them. I argue that the hermeneutic study of multiple
+    religious belonging could benefit from a more open understanding of
+    religious traditions and religious boundaries, as proposed by these feminist
+    and post-colonial scholars. In order to achieve this goal we could also
+    benefit from a more intercultural approach to multiple religious belonging
+    in order to understand religious belonging in a nonexclusive way.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 12
+  citation-key: kalskyTopicalIssueMultiple2017a
+  container-title: Open Theology
+  DOI: 10.1515/opth-2017-0004
+  editor:
+    - family: Kalsky
+      given: Manuela
+    - family: Braak
+      given: André
+      dropping-particle: van der
+  ISSN: 2300-6579
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 1
+      day: 26
+  language: en
+  publisher: De Gruyter Open Access
+  source: www.degruyter.com
+  title: 'Topical issue: Multiple Religious Belonging'
+  title-short: Multiple Religious Belonging
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0004/html
+  volume: '3'
+
+- id: kotthoffHandbookInterculturalCommunication2008a
+  abstract: >-
+    In today’s globalized world of international contact and multicultural
+    interaction, effective intercultural communication is increasingly seen as a
+    pre-requisite for social harmony and organisational success. This handbook
+    takes a ?problem-solving? approach to the various issues that arise in
+    real-life intercultural interaction. The editors have brought together
+    experts from a range of disciplines, including linguistics, psychology and
+    anthropology, to provide a multidisciplinary perspective on the field,
+    whilst simultaneously anchoring it in Applied Linguistics. Key features:
+    provides a state-of-the-art description of different areas in the context of
+    intercultural communication presents a critical appraisal of the relevance
+    of the field offers solutions of everyday language-related problems
+    international handbook with contributions from renown experts in the field
+  accessed:
+    - year: 2023
+      month: 11
+      day: 24
+  author:
+    - family: Kotthoff
+      given: Helga
+    - family: Spencer-Oatey
+      given: Helen
+  citation-key: kotthoffHandbookInterculturalCommunication2008a
+  collection-number: '7'
+  collection-title: Handbooks of Applied Linguistics [HAL]
+  DOI: 10.1515/9783110198584
+  ISBN: 978-3-11-019858-4
+  issued:
+    - year: 2008
+      month: 9
+      day: 25
+  language: en
+  publisher: De Gruyter Mouton
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: Handbook of Intercultural Communication
+  type: book
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110198584
+
+- id: kotthoffRitualStyleCultures2008b
+  abstract: >-
+    9. Ritual and style across cultures was published in Handbook of
+    Intercultural Communication on page 173.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Kotthoff
+      given: Helga
+  citation-key: kotthoffRitualStyleCultures2008b
+  container-title: Handbook of Intercultural Communication
+  DOI: 10.1515/9783110198584.2.173
+  editor:
+    - family: Kotthoff
+      given: Helga
+    - family: Spencer-Oatey
+      given: Helen
+  ISBN: 978-3-11-019858-4
+  issued:
+    - year: 2008
+      month: 9
+      day: 25
+  language: en
+  page: 173-198
+  publisher: De Gruyter Mouton
+  source: www-degruyter-com.emedien.ub.uni-muenchen.de
+  title: Ritual and style across cultures
+  type: chapter
+  URL: https://doi.org/10.1515/9783110198584.2.173
+
+- id: lienemann-perrinReligioseGrenzuberschreitungenStudien2012a
+  call-number: BL639 .R455 2012
+  citation-key: lienemann-perrinReligioseGrenzuberschreitungenStudien2012a
+  collection-number: Bd. 20 = volume 20
+  collection-title: >-
+    Studien zur aussereuropäischen Christentumsgeschichte (Asien, Afrika,
+    Lateinamerika) ; Studies in the history of Christianity in the Non-Western
+    world (Asia, Africa, Latin America)
+  editor:
+    - family: Lienemann-Perrin
+      given: Christine
+    - family: Lienemann
+      given: Wolfgang
+  event-place: Wiesbaden
+  ISBN: 978-3-447-06795-9
+  issued:
+    - year: 2012
+  language: ger eng
+  note: 'OCLC: ocn822991884'
+  number-of-pages: '956'
+  publisher: Harrassowitz Verlag
+  publisher-place: Wiesbaden
+  source: Library of Congress ISBN
+  title: >-
+    Religiöse Grenzüberschreitungen: Studien zu Bekehrung, Konfessions- und
+    Religionswechsel = Crossing religious borders: studies on conversion and
+    religious belonging
+  title-short: Religiöse Grenzüberschreitungen
+  type: book
+
+- id: lizhuConversionResurgenceIndigenous2014b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Lizhu
+      given: Fan
+    - family: Na
+      given: Chen
+  citation-key: lizhuConversionResurgenceIndigenous2014b
+  container-title: The Oxford Handbook of Religious Conversion
+  DOI: 10.1093/oxfordhb/9780195338522.013.024
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  ISBN: 978-0-19-533852-2
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: “Conversion” and the Resurgence of Indigenous Religion in China
+  type: chapter
+  URL: >-
+    http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-024
+
+- id: locklinNondualConversionNondual2022a
+  abstract: >-
+    The past several decades witnessed a renewed scholarly interest in diverse
+    forms of Hinduism as so-called “missionary religions.” Referring to Hindu
+    movements as “missionary,” of course, raises the question of conversion. Do
+    these movements aim to convert others to their own teachings, or do they
+    not? This chapter explores the theology of conversion that emerges from one
+    strand of missionary Hinduism: the non-dualist tradition of Advaita Vedānta.
+    The first section offers a brief survey of several theological and
+    social-scientific treatments of conversion as a cross-cultural phenomenon.
+    Two subsequent sections develop an outline of conversion in these
+    traditions, rooted in various conversion narratives and in the teachings of
+    such prominent Vedānta missionaries as Swami Vivekananda (1863–1902) and
+    Swami Chinmayananda (1916–1993). From this analysis, the chapter argues that
+    missionary Advaita does advance a specific understanding of conversion,
+    albeit one that proceeds by the gradual transformation and perfection of
+    rival religious views rather than their explicit exclusion. The result is a
+    form of religious belonging that is neither exclusive nor multiple, but
+    non-dual.
+  author:
+    - family: Locklin
+      given: Reid B.
+  citation-key: locklinNondualConversionNondual2022a
+  container-title: Hindu–Christian Dual Belonging
+  ISBN: 978-1-00-314259-1
+  issued:
+    - year: 2022
+  number-of-pages: '18'
+  publisher: Routledge
+  title: >-
+    Non-dual conversion and non-dual belonging: Trajectories of religious
+    transformation in missionary Advaita Vedānta
+  title-short: Non-dual conversion and non-dual belonging
+  type: chapter
+
+- id: mcguireEverydayReligionLived2008a
+  abstract: >-
+    How can we grasp the complex religious lives of individuals such as Peter,
+    an ordained Protestant minister who has little attachment to any church but
+    centers his highly committed religious practice on peace-and-justice
+    activism? Or Hannah, a devout Jew whose rich spiritual life revolves around
+    her women's spirituality group and the daily practice of meditative dance?
+    Or Laura, who identifies as Catholic but rarely attends Mass, and engages
+    daily in Buddhist-style meditation at her home altar arranged with symbols
+    of Mexican American popular religion? Diverse religious practices such as
+    these have long baffled scholars, whose research often starts with the
+    assumption that individuals commit, or refuse to commit, to an entire
+    institutionally framed package of beliefs and practices.Meredith McGuire
+    points the way forward toward a new way of understanding religion. She
+    argues that scholars must study religion not as it is defined by religious
+    organizations, but as it is actually lived in people's everyday lives.
+    Drawing on her own extensive fieldwork, as well as recent work by others,
+    McGuire explores the many, seemingly mundane, ways that individuals practice
+    their religions and develop their spiritual lives. By examining the many
+    eclectic and creative practices -- of body, mind, emotion, and spirit --
+    that have been invisible to researchers, she offers a fuller and more
+    nuanced understanding of contemporary religion.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 12
+  author:
+    - family: McGuire
+      given: Meredith B.
+  citation-key: mcguireEverydayReligionLived2008a
+  container-title: 'Lived Religion: Faith and Practice in Everyday Life'
+  event-place: Cary, U.S.
+  ISBN: 978-0-19-972140-5
+  issued:
+    - year: 2008
+  language: en
+  page: 3-18
+  publisher: Oxford University Press
+  publisher-place: Cary, U.S.
+  source: ProQuest Ebook Central
+  title: Everyday Religion as Lived
+  type: chapter
+  URL: https://ebookcentral.proquest.com/lib/senc/reader.action?docID=665414&ppg=16
+
+- id: merkensTeilnehmendeBeobachtungGrundlagen2007a
+  author:
+    - family: Merkens
+      given: Hans
+  citation-key: merkensTeilnehmendeBeobachtungGrundlagen2007a
+  collection-number: '13'
+  collection-title: Europäische Bibliothek interkultureller Studien
+  container-title: Teilnehmende Beobachtung in interkulturellen Situationen
+  editor:
+    - family: Weigand
+      given: Gabriele
+  event-place: Frankfurt/Main
+  ISBN: 978-3-593-38505-1
+  issued:
+    - year: 2007
+  language: ger
+  page: 23-38
+  publisher: Campus-Verl
+  publisher-place: Frankfurt/Main
+  source: K10plus ISBN
+  title: 'Teilnehmende Beobachtung: Grundlagen – Methoden – Anwendung'
+  type: chapter
+
+- id: merkinIndividualismcollectivismSavingFace2018b
+  author:
+    - family: Merkin
+      given: Rebecca S.
+  citation-key: merkinIndividualismcollectivismSavingFace2018b
+  container-title: Saving face in business
+  issued:
+    - year: 2018
+  page: 81–117
+  publisher: Springer
+  source: Google Scholar
+  title: Individualism-collectivism and saving face
+  type: chapter
+
+- id: merkinRelationshipIndividualismCollectivism2015b
+  author:
+    - family: Merkin
+      given: Rebecca
+  citation-key: merkinRelationshipIndividualismCollectivism2015b
+  container-title: Journal of Intercultural Communication
+  issue: '4'
+  issued:
+    - year: 2015
+  page: 1–17
+  source: Google Scholar
+  title: The relationship between individualism/collectivism
+  type: article-journal
+  volume: '39'
+
+- id: meursMultidisciplinaryPerspectivesIntercultural2008b
+  abstract: |-
+    6. Multidisciplinary perspectives on intercultural
+          conflict: the ‘Bermuda Triangle’ of conflict, culture and
+          communication was published in Handbook of Intercultural Communication on page 99.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Meurs
+      given: Nathalie
+    - family: Spencer-Oatey
+      given: Helen
+  citation-key: meursMultidisciplinaryPerspectivesIntercultural2008b
+  container-title: Handbook of Intercultural Communication
+  DOI: 10.1515/9783110198584.1.99
+  editor:
+    - family: Kotthoff
+      given: Helga
+    - family: Spencer-Oatey
+      given: Helen
+  ISBN: 978-3-11-019858-4
+  issued:
+    - year: 2008
+      month: 9
+      day: 25
+  language: en
+  page: 99-122
+  publisher: De Gruyter Mouton
+  source: www-degruyter-com.emedien.ub.uni-muenchen.de
+  title: >-
+    Multidisciplinary perspectives on intercultural conflict: the ‘Bermuda
+    Triangle’ of conflict, culture and communication
+  title-short: 6. Multidisciplinary perspectives on intercultural conflict
+  type: chapter
+  URL: http://www.degruyter.com/document/doi/10.1515/9783110198584.1.99/html
+
+- id: millerClaimingIdentityStudy2015b
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-282899
+  citation-key: millerClaimingIdentityStudy2015b
+  collection-title: Culture on the edge
+  editor:
+    - family: Miller
+      given: Monica R.
+  event-place: Sheffield Bristol (Conn.)
+  ISBN: 978-1-78179-071-7 978-1-78179-074-8
+  issued:
+    - year: 2015
+  language: eng
+  note: 23 cm. Bibliogr. en fin de chapitre. Index.
+  number-of-pages: '243'
+  number-of-volumes: '1'
+  publisher: Equinox
+  publisher-place: Sheffield Bristol (Conn.)
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Claiming identity in the study of religion :  social and rhetorical
+    techniques examined
+  title-short: Claiming identity in the study of religion
+  type: book
+
+- id: MultipleReligiousBelonging2022b
+  abstract: >-
+    Multiple religious belonging, also known as double belonging, refers to the
+    idea that individuals can belong to more than one religious tradition. While
+    this is often seen as a common reality in regions such as Asia with its many
+    religions, religious scholars have begun to discuss multiple religion
+    belonging with respect to religious traditions such as Judaism,
+    Christianity, and Islam.Those who practice double belonging claim to be an
+    adherent of two different religions at the same time or incorporate the
+    practices of another religion into their own faith life. It is increasing
+    with globalisation. One such example is a person attending a Christian
+    church but also finding meaning in yoga and in forms of meditation inspired
+    by Eastern traditions, and enjoying attending a Jewish Seder at Passover.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 25
+  citation-key: MultipleReligiousBelonging2022b
+  container-title: Wikipedia
+  issued:
+    - year: 2022
+      month: 12
+      day: 24
+  language: en
+  license: Creative Commons Attribution-ShareAlike License
+  note: 'Page Version ID: 1129350162'
+  source: Wikipedia
+  title: Multiple religious belonging
+  type: entry-encyclopedia
+  URL: >-
+    https://en.wikipedia.org/w/index.php?title=Multiple_religious_belonging&oldid=1129350162
+
+- id: muwahidahInterfaithDialogueGrassroots2008b
+  abstract: >-
+    Interfaith dialogue is commonly used in building peace and understanding
+    among religious groups. Such a project, however, is only significant if it
+    is not only executed by religious leaders and scholars, but also involves
+    lay people at the grassroots level. In this article, I present findings of
+    my fieldwork in a small village in East Java, Indonesia where land authority
+    problems became a common ground for conducting interfaith cooperation. I
+    observed interfaith empowerment efforts led by a group of Catholic activists
+    and students who arrived in 1997, which successfully supported the villagers
+    in claiming their land. According to Knitter (1995), grassroots interfaith
+    cooperation will necessarily be followed by interfaith dialogue. My general
+    finding is that in communities that have a lack of knowledge of their own
+    particular religions, subsequent dialogue may take other forms which are
+    different from that of Knitter's description.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Muwahidah
+      given: Siti
+  citation-key: muwahidahInterfaithDialogueGrassroots2008b
+  container-title: Political Theology
+  DOI: 10.1558/poth.v9i1.79
+  ISSN: 1462-317X
+  issue: '1'
+  issued:
+    - year: 2008
+      month: 2
+      day: 3
+  page: 79-92
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Interfaith Dialogue at the Grassroots Level: A Case Study of an Interfaith
+    Empowerment Program in East Java, Indonesia
+  title-short: Interfaith Dialogue at the Grassroots Level
+  type: article-journal
+  URL: https://doi.org/10.1558/poth.v9i1.79
+  volume: '9'
+
+- id: nadadoWhyChristiansConvert2006b
+  author:
+    - family: Nadado
+      given: Noel C.
+  citation-key: nadadoWhyChristiansConvert2006b
+  container-title: Journal of Asia Adventist Seminary
+  ISSN: 1908-4862
+  issue: '1'
+  issued:
+    - year: 2006
+  language: English
+  page: '47'
+  title: 'Why Christians convert to Islam: a Filipino perspective'
+  title-short: Why Christians convert to Islam
+  type: article-journal
+  volume: '9'
+
+- id: nesbittIntroduction2016a
+  abstract: >-
+    The Sikh religion has a following of over 20 million people worldwide.
+    However,events such as the verbal and physical attacks on Sikhs just after
+    September 11, where Sikhs were being mistaken for Muslims, suggest that the
+    Sikh faith still remains mysterious to many. This Very Short Introduction
+    introduces newcomers to the meaning of the Sikh religious tradition, its
+    teachings, practices, rituals and festivals. Eleanor Nesbitt highlights and
+    contextualizes the key threads in the history of Sikhism, from the first
+    Gurus to martyrdom, militarization, and the increasingly significant
+    diaspora. Examining gender, caste, and the changes that are currently
+    underway in the faith, Nesbitt considers contemporary Sikh identities and
+    their role in our world. ABOUT THE SERIES: The Very Short Introductions
+    series from Oxford University Press contains hundreds of titles in almost
+    every subject area. These pocket-sized books are the perfect way to get
+    ahead in a new subject quickly. Our expert authors combine facts, analysis,
+    perspective, new ideas, and enthusiasm to make interesting and challenging
+    topics highly readable.
+  author:
+    - family: Nesbitt
+      given: Eleanor
+  citation-key: nesbittIntroduction2016a
+  container-title: 'Sikhism: A Very Short Introduction'
+  ISBN: 978-0-19-106276-6
+  issued:
+    - year: 2016
+      month: 4
+      day: 28
+  language: en
+  page: 16-25
+  publisher: Oxford University Press
+  source: Google Books
+  title: Introduction
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://ebookcentral.proquest.com/lib/senc/reader.action?docID=422677&ppg=16
+
+- id: nesbittSikhism2018b
+  abstract: >-
+    This entry surveys Sikhism in the context of the ethnography of Sikh
+    communities in India and other countries. Attention is paid to issues of
+    definition, core Sikh beliefs, the evolution of Sikh communities, and the
+    formation of Sikh identity. The complex issues of caste and gender are
+    considered, and briefer mention is made of time and place. The internet's
+    role in Sikh representation and transnational Sikh community formation is
+    noted, together with orientalism's contribution to the emergence of Sikhism
+    as a “world religion.”
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Nesbitt
+      given: Eleanor
+  citation-key: nesbittSikhism2018b
+  container-title: The International Encyclopedia of Anthropology
+  DOI: 10.1002/9781118924396.wbiea2186
+  ISBN: 978-1-118-92439-6
+  issued:
+    - year: 2018
+  language: en
+  license: Copyright © 2018 John Wiley & Sons, Ltd.
+  page: 1-12
+  publisher: John Wiley & Sons, Ltd
+  source: Wiley Online Library
+  title: Sikhism
+  type: chapter
+  URL: http://onlinelibrary.wiley.com/doi/abs/10.1002/9781118924396.wbiea2186
+
+- id: nicolini-zaniChristianMonksChinese2016b
+  abstract: >-
+    The contribution of monks to the evangelization of lands not yet reached by
+    the preaching of the Gospel has certainly been remarkable. The specific
+    witness that the monastic community gives is of a radical Christian life
+    naturally radiating outward, and thus it is implicitly missionary. The
+    process of inculturation of Christian monasticism in China required a bold
+    spiritual attitude of openness to the future and a willingness to accept the
+    transformation of monastic forms that had been received. In Christian Monks
+    on Chinese Soil, Matteo Nicolini-Zani highlights the willingness of foreign
+    monks to encounter the cultural and spiritual realities of China and the
+    degree of acceptance by the Chinese of the form of monastic life that was
+    presented to them by the missionaries.
+  author:
+    - family: Nicolini-Zani
+      given: Matteo
+  citation-key: nicolini-zaniChristianMonksChinese2016b
+  ISBN: 978-0-8146-4600-7
+  issued:
+    - year: 2016
+      month: 10
+      day: 21
+  language: en
+  number-of-pages: '370'
+  publisher: Liturgical Press
+  source: Google Books
+  title: 'Christian Monks on Chinese Soil: A History of Monastic Missions to China'
+  title-short: Christian Monks on Chinese Soil
+  type: book
+
+- id: oostveenMultipleReligiousBelonging2017a
+  abstract: >-
+    The phenomenon of multiple religious belonging is studied from different
+    perspectives, each of which reveals a different understanding of religion,
+    religious diversity and religious belonging. This shows that the phenomenon
+    of multiple religious belonging is challenging the applicability of these
+    central notions in academic enquiry about religion. In this article, I
+    present the different perspectives on multiple religious belonging in
+    theology of religions and show how the understanding of some central
+    scholarly notions is different. In Christian theology, the debate on
+    multiple religious belonging is conducted between particularists, who focus
+    on the uniqueness of religious traditions, and pluralists, who focus on the
+    shared religious core of religious traditions. Both positions are criticized
+    by feminist and post-colonial theologians. They believe that both
+    particularists and pluralists focus too strongly on religious traditions and
+    the boundaries between them. I argue that the hermeneutic study of multiple
+    religious belonging could benefit from a more open understanding of
+    religious traditions and religious boundaries, as proposed by these feminist
+    and post-colonial scholars. In order to achieve this goal we could also
+    benefit from a more intercultural approach to multiple religious belonging
+    in order to understand religious belonging in a nonexclusive way.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 12
+  author:
+    - family: Oostveen
+      given: Daan F.
+  citation-key: oostveenMultipleReligiousBelonging2017a
+  container-title: Open Theology
+  DOI: 10.1515/opth-2017-0004
+  ISSN: 2300-6579
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 1
+      day: 26
+  language: en
+  page: 38-47
+  publisher: De Gruyter Open Access
+  source: www.degruyter.com
+  title: >-
+    Multiple Religious Belonging: Hermeneutical Challenges for Theology of
+    Religions
+  title-short: Multiple Religious Belonging
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0004/html
+  volume: '3'
+
+- id: ortonInterfaithDialogueSeven2016b
+  abstract: >-
+    Interfaith dialogue is increasingly being recognised by governments across
+    Europe as crucial to developing cohesive communities. This article
+    critically analyses approaches for developing strategies to promote
+    interfaith dialogue between individuals and/or organisations within civil
+    society. It does this by drawing on a series of theoretical questions
+    concerning those who are involved (and missing), what the dialogue is for,
+    and how the dynamics of participation and representation are handled. In the
+    process, the article considers the conditions, spaces, processes,
+    relationships and understandings of identity that can enable successful
+    interfaith dialogue, and how these might be developed in ways which address
+    the issues raised. The original theoretical analysis presented in this
+    article is supported by examples from the author’s cumulative research with
+    policymakers and practitioners across Europe since 2004.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Orton
+      given: Andrew
+  citation-key: ortonInterfaithDialogueSeven2016b
+  container-title: Religion, State and Society
+  DOI: 10.1080/09637494.2016.1242886
+  ISSN: 0963-7494
+  issue: '4'
+  issued:
+    - year: 2016
+      month: 10
+      day: 1
+  page: 349-365
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'Interfaith dialogue: seven key questions for theory, policy and practice'
+  title-short: Interfaith dialogue
+  type: article-journal
+  URL: https://doi.org/10.1080/09637494.2016.1242886
+  volume: '44'
+
+- id: OxfordHandbookNew2008a
+  citation-key: OxfordHandbookNew2008a
+  issued:
+    - year: 2008
+  note: >-
+    Context Object:
+    url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fvufind.svn.sourceforge.net%3Agenerator&rft.title=The+Oxford+handbook+of+new+religious+movements&rft.date=2008&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.creator=&rft.pub=Oxford+University+Press&rft.format=ebook
+  publisher: Oxford University Press
+  title: The Oxford handbook of new religious movements
+  type: webpage
+
+- id: papaconstantinouConversionLateAntiquity2016c
+  abstract: >-
+    The papers in this volume were presented at a Mellon-Sawyer Seminar held at
+    the University of Oxford in 2009-2010, which sought to investigate side by
+    side the two important movements of conversion that frame late antiquity: to
+    Christianity at its start, and to Islam at the other end. Challenging the
+    opposition between the two stereotypes of Islamic conversion as an
+    intrinsically violent process, and Christian conversion as a fundamentally
+    spiritual one, the papers seek to isolate the behaviours and circumstances
+    that made conversion both such a common and such a contested phenomenon. The
+    spread of Buddhism in Asia in broadly the same period serves as an external
+    comparator that was not caught in the net of the Abrahamic religions. The
+    volume is organised around several themes, reflecting the concerns of the
+    initial project with the articulation between norm and practice, the role of
+    authorities and institutions, and the social and individual fluidity on the
+    ground
+  citation-key: papaconstantinouConversionLateAntiquity2016c
+  editor:
+    - family: Papaconstantinou
+      given: Arietta
+    - family: McLynn
+      given: Neil
+    - family: Schwartz
+      given: Daniel Louis
+  event-place: London
+  ISBN: 978-1-4094-5738-1
+  issued:
+    - year: 2016
+  language: eng
+  note: 'OCLC: 957529952'
+  number-of-pages: '398'
+  publisher: Routledge
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Conversion in late antiquity: Christianity, Islam, and beyond'
+  title-short: Conversion in late antiquity
+  type: book
+
+- id: peekBecomingMuslimDevelopment2005b
+  accessed:
+    - year: 2023
+      month: 1
+      day: 25
+  author:
+    - family: Peek
+      given: Lori
+  citation-key: peekBecomingMuslimDevelopment2005b
+  container-title: Sociology of Religion
+  container-title-short: Sociology of Religion
+  DOI: 10.2307/4153097
+  ISSN: '10694404'
+  issue: '3'
+  issued:
+    - year: 2005
+      season: 3
+  language: en
+  page: '215'
+  source: DOI.org (Crossref)
+  title: 'Becoming Muslim: The Development of a Religious Identity'
+  title-short: Becoming Muslim
+  type: article-journal
+  URL: https://academic.oup.com/socrel/article-lookup/doi/10.2307/4153097
+  volume: '66'
+
+- id: pollackIntegrationUndReligion2016b
+  accessed:
+    - year: 2022
+      month: 1
+      day: 19
+  author:
+    - family: Pollack
+      given: Detlef
+    - family: Müller
+      given: Olaf
+    - family: Rosta
+      given: Gergely
+    - family: Dieler
+      given: Anna
+  citation-key: pollackIntegrationUndReligion2016b
+  event-place: Münster
+  issued:
+    - year: 2016
+  language: de
+  publisher: >-
+    Zentrum für Wissenschaftskommunikation des Exzellenzclusters „Religion und
+    Politik“ der Westfälischen Wilhelms-Universität
+  publisher-place: Münster
+  title: >-
+    Integration und Religion aus der Sicht von Türkeistämmigen in Deutschland:
+    Repräsentative Erhebung von TNS Emnid im Auftrag des Exzellenzclusters
+    „Religion und Politik“ der Universität Münster
+  type: report
+  URL: >-
+    https://www.uni-muenster.de/imperia/md/content/religion_und_politik/aktuelles/2016/06_2016/studie_integration_und_religion_aus_sicht_t__rkeist__mmiger.pdf
+
+- id: radfordReligiousIdentitySocial2019b
+  author:
+    - family: Radford
+      given: David
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2020-94439
+  citation-key: radfordReligiousIdentitySocial2019b
+  collection-number: '150'
+  collection-title: Routledge advances in sociology
+  event-place: London New York
+  ISBN: 978-0-367-86975-5
+  issued:
+    - year: 2019
+  language: eng
+  note: ill. 24 cm. Bibliogr. en fin de chapitres. Glossaire. Index.
+  number-of-pages: '199'
+  publisher: Routledge, Taylor & Francis group
+  publisher-place: London New York
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Religious identity and social change :  explaining Christian conversion in a
+    Muslim world
+  title-short: Religious identity and social change
+  type: book
+
+- id: ramboDemographicsReligiousConversion2014b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+    - family: Johnson
+      given: Todd M.
+  citation-key: ramboDemographicsReligiousConversion2014b
+  container-title: The Oxford Handbook of Religious Conversion
+  DOI: 10.1093/oxfordhb/9780195338522.013.002
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  ISBN: 978-0-19-533852-2
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: Demographics of Religious Conversion
+  type: chapter
+  URL: >-
+    http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-002
+
+- id: ramboOxfordHandbookReligious2014b
+  abstract: >-
+    "The Oxford Handbook of Religious Conversion" published on  by Oxford
+    University Press.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  citation-key: ramboOxfordHandbookReligious2014b
+  DOI: 10.1093/oxfordhb/9780195338522.001.0001
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  event-place: Oxford
+  ISBN: 978-0-19-998459-6
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
   language: en
   publisher: Oxford University Press
   publisher-place: Oxford
-  source: DOI.org (Crossref)
-  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
-  title-short: The Idea of Semitic Monotheism
+  source: www-oxfordhandbooks-com.emedien.ub.uni-muenchen.de
+  title: The Oxford handbook of religious conversion
   type: book
-  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
+  URL: https://doi.org/10.1093/oxfordhb/9780195338522.001.0001
 
-- id: stuckenbruckEarlyJewishChristian2004a
-  abstract: >-
-    Early Christology must focus not simply on "historical" but also on
-    theological ideas found in contemporary Jewish thought and practice. In this
-    book, a range of distinguished contributors considers the context and
-    formation of early Jewish and Christian devotion to God alone-the emergence
-    of "monotheism." The idea of monotheism is critically examined from various
-    perspectives, including the history of ideas, Graeco-Roman religions, early
-    Jewish mediator figures, scripture exegesis, and the history of its use as a
-    theological category.The studies explore different ways of conceiving of
-    early Christian monotheism today, asking whether monotheism is a
-    conceptually useful category, whether it may be applied cautiously and with
-    qualifications, or whether it is to be questioned in favor of different
-    approaches to understanding the origins of Jewish and Christian beliefs and
-    worship.This is volume 1 in the Early Christianity in Context series and
-    volume 263 in the Journal for the Study of the New Testament Supplement
-    Series
-  accessed:
-    - year: 2023
-      month: 10
-      day: 20
+- id: rebillardChretiensAntiquiteTardive2014b
   author:
-    - family: Stuckenbruck
-      given: Loren T.
-    - family: North
-      given: Wendy
-  citation-key: stuckenbruckEarlyJewishChristian2004a
-  event-place: London, UNITED KINGDOM
-  ISBN: 978-0-567-42917-9
+    - family: Rebillard
+      given: Éric
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2014-203552
+  citation-key: rebillardChretiensAntiquiteTardive2014b
+  collection-number: 127e
+  collection-title: Histoire
+  event-place: Paris
+  ISBN: 978-2-251-38127-5
   issued:
-    - year: 2004
-  publisher: Bloomsbury Publishing Plc
-  publisher-place: London, UNITED KINGDOM
-  source: ProQuest Ebook Central
-  title: Early Jewish and Christian Monotheism
+    - year: 2014
+  language: fre
+  note: 22 cm. Bibliogr. p. 185-217. Index.
+  number-of-pages: '235'
+  number-of-volumes: '1'
+  publisher: les Belles lettres
+  publisher-place: Paris
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Les chrétiens de l'Antiquité tardive et leurs identités multiples :  Afrique
+    du Nord, 200-450 après J. -C.
+  title-short: Les chrétiens de l'Antiquité tardive et leurs identités multiples
+  translator:
+    - family: Hasnaoui
+      given: Alexandre
   type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
 
-- id: triggMonotheismReligiousDiversity2020a
+- id: rebillardGroupIdentityReligious2015c
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2016-171081
+  citation-key: rebillardGroupIdentityReligious2015c
+  collection-title: CUA studies in early Christianity
+  editor:
+    - family: Rebillard
+      given: Éric
+    - family: Rüpke
+      given: Jörg
+  event-place: Washington, D.C
+  ISBN: 978-0-8132-2743-6
+  issued:
+    - year: 2015
+  language: eng
+  note: 24 cm. Includes bibliographical references and index.
+  number-of-volumes: '1'
+  publisher: the Catholic University of America Press
+  publisher-place: Washington, D.C
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Group identity and religious individuality in late antiquity
+  type: book
+
+- id: restallNewConquestHistory2012b
   abstract: >-
-    Cambridge Core - Religion: General Interest - Monotheism and Religious
-    Diversity
+    Our understanding and perceptions of the conquest period in Latin American
+    history have been profoundly altered by the scholarship of the past twenty
+    years. The traditional triumphalist narrative of the Spanish Conquest
+    focused heavily on the conquistadors in Mexico and Peru, and emphasized the
+    inevitability and rapidity of military victory, religious conversion (the
+    Spiritual Conquest), and colonization. The revisionist New Conquest History
+    – which emerged in part from a renewed emphasis on archival and paleographic
+    work and in part from the New Philology, a school of scholarship based on
+    the analysis of colonial-period primary sources in Mesoamerican languages –
+    complicates that narrative by emphasizing multiple protagonists and
+    accounts, new source materials, the roles and interpretations of indigenous
+    and black men and women, and the examination of understudied regions of the
+    Americas.
   accessed:
-    - year: 2023
-      month: 10
-      day: 20
+    - year: 2022
+      month: 2
+      day: 4
   author:
-    - family: Trigg
-      given: Roger
-  citation-key: triggMonotheismReligiousDiversity2020a
-  collection-title: Elements in Religion and Monotheism
-  DOI: 10.1017/9781108637503
-  event-place: Cambridge
-  ISBN: 978-1-108-63750-3 978-1-108-71445-7
+    - family: Restall
+      given: Matthew
+  citation-key: restallNewConquestHistory2012b
+  container-title: History Compass
+  DOI: 10.1111/j.1478-0542.2011.00822.x
+  ISSN: 1478-0542
+  issue: '2'
+  issued:
+    - year: 2012
+  language: en
+  page: 151-160
+  source: Wiley Online Library
+  title: The New Conquest History
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/EdsRecord/30h%2C71515317/PDF
+  volume: '10'
+
+- id: richardsonLegalPoliticalIssues2014b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Richardson
+      given: James T.
+  citation-key: richardsonLegalPoliticalIssues2014b
+  container-title: The Oxford Handbook of Religious Conversion
+  DOI: 10.1093/oxfordhb/9780195338522.013.031
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  ISBN: 978-0-19-533852-2
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: Legal and Political Issues and Religious Conversion
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780195338522.013.031
+
+- id: sahnerMassConversionChristians2020b
+  author:
+    - family: Sahner
+      given: Christian C.
+  citation-key: sahnerMassConversionChristians2020b
+  container-title: 'Conversion to Islam in the Premodern Age: A Sourcebook'
+  editor:
+    - family: Hurvitz
+      given: Nimrod
+    - family: Sahner
+      given: Christian C.
+    - family: Simonsohn
+      given: Uriel
+    - family: Yarbrough
+      given: Luke
+  event-place: Oakland
   issued:
     - year: 2020
-      month: 8
   language: en
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
-  title: Monotheism and Religious Diversity
+  page: 101-104
+  publisher: University of California Press
+  publisher-place: Oakland
+  source: Google Scholar
+  title: Mass Conversion of Christians in Northern Mesopotamia
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18072600580/CourseNode/93668888136198/4+-+Sahner+-+2020+-+Mass+Conversion+of+Christians+in+Northern+Mesopota.pdf
+
+- id: schloeglReligionAlsProzess2015a
+  accessed:
+    - year: 2022
+      month: 1
+      day: 25
+  citation-key: schloeglReligionAlsProzess2015a
+  DOI: 10.30965/9783657781164_004
+  editor:
+    - family: Schlögl
+      given: Rudolf
+    - family: Kirsch
+      given: Thomas G.
+    - family: Weltecke
+      given: Dorothea
+  event-place: Paderborn
+  ISBN: 978-3-657-78116-4 978-3-506-78116-1
+  issued:
+    - year: 2015
+  language: de
+  publisher: Brill/Schöningh
+  publisher-place: Paderborn
+  source: DOI.org (Crossref)
+  title: Religion als Prozess
   type: book
   URL: >-
-    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D6516853
+
+- id: sharmaHinduismConversion2014b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Sharma
+      given: Arvind
+  citation-key: sharmaHinduismConversion2014b
+  container-title: The Oxford Handbook of Religious Conversion
+  DOI: 10.1093/oxfordhb/9780195338522.013.018
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  ISBN: 978-0-19-533852-2
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: Hinduism and Conversion
+  type: chapter
+  URL: >-
+    http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-018
+
+- id: simonsohnCommunalMembershipReligious2016b
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  author:
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnCommunalMembershipReligious2016b
+  container-title: Journal of Near Eastern Studies
+  container-title-short: Journal of Near Eastern studies
+  DOI: 10.1086/687579
+  ISSN: 0022-2968
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 10
+  language: English
+  page: 249-266
+  publisher: University of Chicago
+  source: cris.haifa.ac.il
+  title: >-
+    Communal membership despite religious exogamy: A critical examination of
+    East and West Syrian legal sources of the late Sasanian and early islamic
+    periods
+  title-short: Communal membership despite religious exogamy
+  type: article-journal
+  URL: >-
+    https://cris.haifa.ac.il/en/publications/communal-membership-despite-religious-exogamy-a-critical-examinat
+  volume: '75'
+
+- id: simonsohnConversionApostasyPenance2015c
+  author:
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnConversionApostasyPenance2015c
+  container-title: >-
+    Conversion in Late Antiquity: Christianity, Islam, and Beyond. Papers from
+    the Andrew W. Mellon Foundation Sawyer Seminar, University of Oxford,
+    2009-2010
+  editor:
+    - family: Papaconstantinou
+      given: Arietta
+    - family: McLynn
+      given: Neil
+    - family: Schwartz
+      given: Daniel L.
+  event-place: Aldershot
+  issued:
+    - year: 2015
+  page: 197-215
+  publisher: Ashgate
+  publisher-place: Aldershot
+  title: >-
+    Conversion, apostasy, and penance: The shifting identities of Muslim
+    converts in the early Islamic period
+  title-short: Conversion, Apostasy, and Penance
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18072600580/CourseNode/93668888136198/10+-+Simonsohn+-+2015+-+Conversion%2C+apostasy%2C+and+penance+The+shifting+id.pdf
+
+- id: simonsohnConversionExemptionManipulation2017c
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  author:
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnConversionExemptionManipulation2017c
+  container-title: Medieval Worlds
+  DOI: 10.1553/medievalworlds_no6_2017s196
+  ISSN: 2412-3196
+  issued:
+    - year: 2017
+      month: 1
+      day: 1
+  language: English
+  page: 196-216
+  source: cris.haifa.ac.il
+  title: >-
+    Conversion, exemption, and manipulation: social benefits and conversion to
+    Islam in Late Antiquity and the Middle Ages
+  title-short: Conversion, exemption, and manipulation
+  type: article-journal
+  URL: >-
+    https://cris.haifa.ac.il/en/publications/conversion-exemption-and-manipulation-social-benefits-and-convers
+  volume: '6'
+
+- id: simonsohnFamilyDoesMatter2019b
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  author:
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnFamilyDoesMatter2019b
+  container-title: Faith and Community around the Mediterranean In Honor of Peter R. L. Brown
+  issued:
+    - year: 2019
+  language: English
+  page: 209-226
+  publisher: Editions de l'Academie Roumaine
+  source: cris.haifa.ac.il
+  title: >-
+    Family Does Matter: Muslim–Non-Muslim Kinship Ties in the Late Antique and
+    Medieval Islamic Periods
+  title-short: Family Does Matter
+  type: article-journal
+  URL: >-
+    https://cris.haifa.ac.il/en/publications/family-does-matter-muslimnon-muslim-kinship-ties-in-the-late-anti
+
+- id: simonsohnFemaleConversionIslam2020c
+  accessed:
+    - year: 2023
+      month: 5
+      day: 2
+  author:
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnFemaleConversionIslam2020c
+  container-title: Mediterranean Historical Review
+  container-title-short: Mediterranean Historical Review
+  DOI: 10.1080/09518967.2020.1741230
+  ISSN: 0951-8967, 1743-940X
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 1
+      day: 2
+  language: en
+  page: 9-25
+  source: DOI.org (Crossref)
+  title: >-
+    Female conversion to Islam: a sample analysis of medieval narratives of the
+    prophetic age
+  title-short: Female conversion to Islam
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/EdsRecord/30h%2C144283990/PDF
+  volume: '35'
+
+- id: simonsohnFemaleConversionIslam2020d
+  accessed:
+    - year: 2022
+      month: 11
+      day: 26
+  author:
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnFemaleConversionIslam2020d
+  container-title: Mediterranean Historical Review
+  DOI: 10.1080/09518967.2020.1741230
+  ISSN: 0951-8967
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 1
+      day: 2
+  language: English
+  page: 9-25
+  publisher: Routledge
+  source: cris.haifa.ac.il
+  title: >-
+    Female conversion to Islam: a sample analysis of medieval narratives of the
+    prophetic age
+  title-short: Female conversion to Islam
+  type: article-journal
+  URL: >-
+    https://cris.haifa.ac.il/en/publications/female-conversion-to-islam-a-sample-analysis-of-medieval-narrativ
+  volume: '35'
+
+- id: simonsohnFemalePowerReligious2023b
+  abstract: >-
+    Female Power and Religious Change in the Medieval Near East engages with two
+    levels of scholarly discussion that are all too often dealt with separately
+    in modern scholarship: the Islamization of the Near East and the place of
+    women in pre-modern Near Eastern societies. It outlines how these two lines
+    of inquiry can and should be read in an integrative manner. Major historical
+    themes such as conversion to Islam, Islamization, religious violence, and
+    the regulation of Muslim/non-Muslim ties are addressed and reframed by
+    attending to the relatively hidden, yet highly meaningful, role that women
+    played in these.This book is about the history of Islam from the perspective
+    of female social agents. It argues that irrespective of their religious
+    affiliation, women possessed crucial means for affecting or hindering
+    religious changes, not only in the form of religious conversion, but also in
+    the adoption of practices and the delineation of communal boundaries. Its
+    focus on the role and significance of female power in moments of religious
+    change within family households offers a historical angle that has hitherto
+    been relatively absent from modern scholarship. Rather than locating signs
+    of female autonomy or authority in the political, intellectual, religious,
+    or economic spheres, Female Power and Religious Change in the Medieval Near
+    East is concerned with the capacity of women to affect religious communal
+    affiliations thanks to their kinship ties.
+                 
+                 
+                  
+                ,  
+                 Female Power and Religious Change in the Medieval Near East engages with two levels of scholarly discussion that are all too often dealt with separately in modern scholarship: the Islamization of the Near East and the place of women in pre-modern Near Eastern societies. It outlines how these two lines of inquiry can and should be read in an integrative manner. Major historical themes such as conversion to Islam, Islamization, religious violence, and the regulation of Muslim/non-Muslim ties are addressed and reframed by attending to the relatively hidden, yet highly meaningful, role that women played in these.This book is about the history of Islam from the perspective of female social agents. It argues that irrespective of their religious affiliation, women possessed crucial means for affecting or hindering religious changes, not only in the form of religious conversion, but also in the adoption of practices and the delineation of communal boundaries. Its focus on the role and significance of female power in moments of religious change within family households offers a historical angle that has hitherto been relatively absent from modern scholarship. Rather than locating signs of female autonomy or authority in the political, intellectual, religious, or economic spheres, Female Power and Religious Change in the Medieval Near East is concerned with the capacity of women to affect religious communal affiliations thanks to their kinship ties.
+  author:
+    - family: Simonsohn
+      given: Uriel
+    - family: Simonsohn
+      given: Uriel
+  citation-key: simonsohnFemalePowerReligious2023b
+  collection-title: Oxford Studies in the Abrahamic Religions
+  event-place: Oxford, New York
+  ISBN: 978-0-19-287125-1
+  issued:
+    - year: 2023
+      month: 2
+      day: 23
+  number-of-pages: '272'
+  publisher: Oxford University Press
+  publisher-place: Oxford, New York
+  source: Oxford University Press
+  title: Female Power and Religious Change in the Medieval Near East
+  type: book
+
+- id: srowigRadikalisierungIndividuenUeberblick2018a
+  abstract: >-
+    Warum radikalisieren sich Individuen? Dieser Report gibt einen
+    systematischen Überblick über den Forschungsstand zu den Ursachen und Folgen
+    der Radikalisierung von Individuen und beschreibt wie diese in
+    Wechselwirkung und Interaktion mit anderen Personen, sozialen Gruppen sowie
+    Organisationen oder Institutionen stattfinden. Die Aneignung extremistischer
+    Denkmuster sowie die Zugehörigkeit zu einer extremistischen
+    Gleichaltrigengruppe im Jugendalter helfen bei der Befriedigung allgemeiner
+    Bedürfnisse wie Anerkennung und Gruppenzugehörigkeit, aber auch bei der
+    Reduktion von Unsicherheiten und Identitätskonflikten. Ideologien bieten
+    Individuen nachvollziehbare Deutungsmuster und individuelle
+    Handlungsalternativen für spezifische Problemlagen an. Der Report leitet aus
+    seinen Erkenntnissen Vorschläge für zukünftige präventive und therapeutische
+    Maßnahmen ab
+  author:
+    - family: Srowig
+      given: Fabian
+    - family: Roth
+      given: Viktoria
+    - family: Pisoiu
+      given: Daniela
+    - family: Seewald
+      given: Katharina
+    - family: Zick
+      given: Andreas
+  citation-key: srowigRadikalisierungIndividuenUeberblick2018a
+  collection-title: PRIF report
+  container-title: PRIF report
+  contributor:
+    - family: Hessische Stiftung Friedens- und Konfliktforschung
+      given: ''
+  issued:
+    - year: 2018
+  language: de
+  page: 1-31
+  source: K10plus ISBN
+  title: >-
+    Radikalisierung von Individuen: ein Überblick über mögliche
+    Erklärungsansätze
+  title-short: Radikalisierung von Individuen
+  type: article-journal
+  URL: https://www.hsfk.de/fileadmin/HSFK/hsfk_publikationen/prif0618.pdf
+
+- id: srowigRadikalisierungInviduenUberblick2018a
+  author:
+    - family: Srowig
+      given: Fabian
+  citation-key: srowigRadikalisierungInviduenUberblick2018a
+  issued:
+    - year: 2018
+  publisher: Leibniz-Institut Hessische Stiftung Friedens- und Konfliktforschung (HSFK)
+  title: 'Radikalisierung von Inviduen : ein Überblick über mögliche Erklärungsansätze'
+  title-short: Radikalisierung von Inviduen
+  type: webpage
+
+- id: streibDeconversion2014b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Streib
+      given: Heinz
+  citation-key: streibDeconversion2014b
+  container-title: The Oxford Handbook of Religious Conversion
+  DOI: 10.1093/oxfordhb/9780195338522.013.012
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  ISBN: 978-0-19-533852-2
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: Deconversion
+  type: chapter
+  URL: >-
+    http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-012
+
+- id: stroumsaAcculturationConversionIslamic2016b
+  abstract: >-
+    The High Middle Ages in Islamic Spain (al-Andalus) is often described as a
+    golden age in which Jews, Christians and Muslims lived in harmony. The
+    attested dynamics of conversions to Islam disturb this idyllic, static
+    picture, revealing the religious and social pressures exerted on the
+    religious minorities. The different reactions of the Jewish and Christian
+    communities of al-Andalus to these pressures allow us to refine our
+    understanding of conversion in the Medieval Islamic world. A close
+    examination of the Jewish family of Banū Ḥasday shows more nuances and
+    ambivalence than ‘conversion’ normally suggests.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 10
+  author:
+    - family: Stroumsa
+      given: Sarah
+  citation-key: stroumsaAcculturationConversionIslamic2016b
+  container-title: 'Mediterranea: International journal on the transfer of knowledge'
+  DOI: 10.21071/mijtk.v0i1.5171
+  ISSN: 2445-2378
+  issued:
+    - year: 2016
+      month: 3
+      day: 1
+  language: en
+  license: >-
+    Copyright (c) 2016 Mediterranea. International Journal on the Transfer of
+    Knowledge
+  page: 9-36
+  source: www.uco.es
+  title: >-
+    Between acculturation and conversion in Islamic Spain: The case of the Banū
+    Ḥasday
+  title-short: Between acculturation and conversion
+  type: article-journal
+  URL: https://journals.uco.es/mediterranea/article/view/5171/4865
+
+- id: szpiechConversionNarrativeReading2013c
+  author:
+    - family: Szpiech
+      given: Ryan
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2013-97565
+  citation-key: szpiechConversionNarrativeReading2013c
+  collection-title: The Middle ages series
+  edition: 1st ed
+  event-place: Philadelphia
+  ISBN: 978-0-8122-4471-7
+  issued:
+    - year: 2013
+  language: eng
+  note: 25 cm. Includes bibliographical references and index.
+  number-of-pages: '311'
+  publisher: University of Pennsylvania Press
+  publisher-place: Philadelphia
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Conversion and narrative :  reading and religious authority in Medieval
+    polemic
+  title-short: Conversion and narrative
+  type: book
+
+- id: Tagsb
+  citation-key: Tagsb
+  title: Tags
+  type: document
+
+- id: tolanRoyalPolicyConversion2016b
+  author:
+    - family: Tolan
+      given: John
+  citation-key: tolanRoyalPolicyConversion2016b
+  container-title: Contesting Inter-Religious Conversion in the Medieval World
+  issued:
+    - year: 2016
+  page: 101–105
+  publisher: Taylor & Francis
+  source: Google Scholar
+  title: >-
+    Royal policy and conversion of Jews to Christianity in thirteenth-century
+    Europe
+  type: article-journal
+
+- id: vogelStreitNichtNur2018b
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Vogel
+      given: Manuel
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: vogelStreitNichtNur2018b
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 43-70
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Ein Streit nicht nur um Worte: Begriffsgeschichtliche Beobachtungen  zu
+    frühchristlichen Strategien der Exklusion
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: wadhwaNegotiatingIdentityReligion2019b
+  abstract: >-
+    This book examines the religious lives of young adults growing up in
+    inter-religious
+     families in India. It explores complex questions of identity, social background, and
+     religion in twenty-first-century India. The volume studies the religious commitments
+     of young adults, analyses the identity formation process for a critical age group,
+     and discusses the interpersonal dynamics within inter-religious families. Drawing
+     on real life stories of mixed heritage - Hindu, Sikh, Muslim, Christian, Jain, Buddhist,
+     and Parsi - this volume will be of great interest to scholars and researchers of psychology,
+     education, sociology and social anthropology, religious studies, politics, and other
+     interdisciplinary studies
+  author:
+    - family: Wadhwa
+      given: Toolika
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2020-193432
+  citation-key: wadhwaNegotiatingIdentityReligion2019b
+  event-place: Abingdon, Oxon New York, NY
+  ISBN: >-
+    978-1-00-069942-5 978-0-429-34735-1 978-1-00-069990-6 978-1-00-069966-1
+    978-0-367-11091-8
+  issued:
+    - year: 2019
+  language: eng
+  note: ill. 24 cm. Includes bibliographical references (p. 231-238).
+  number-of-pages: '261'
+  number-of-volumes: '1'
+  publisher: Routledge
+  publisher-place: Abingdon, Oxon New York, NY
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Negotiating identity and religion :  young adults in inter-religious
+    families
+  title-short: Negotiating identity and religion
+  type: book
+
+- id: welteckeUeberReligionVor2015b
+  accessed:
+    - year: 2022
+      month: 1
+      day: 25
+  author:
+    - family: Weltecke
+      given: Dorothea
+  citation-key: welteckeUeberReligionVor2015b
+  container-title: Religion als Prozess
+  DOI: 10.30965/9783657781164_004
+  editor:
+    - family: Schlögl
+      given: Rudolf
+    - family: Kirsch
+      given: Thomas G.
+    - family: Weltecke
+      given: Dorothea
+  event-place: Paderborn
+  ISBN: 978-3-657-78116-4 978-3-506-78116-1
+  issued:
+    - year: 2015
+  language: de
+  page: 13-34
+  publisher: Brill/Schöningh
+  publisher-place: Paderborn
+  source: DOI.org (Crossref)
+  title: >-
+    Über Religion vor der „Religion“: Konzeptionen vor der Entstehung des
+    neuzeitlichen Begriffes
+  title-short: Über Religion vor der „Religion“
+  type: chapter
+  URL: https://nbn-resolving.org/urn:nbn:de:bsz:352-0-314359
+
+- id: wistrichDilemmasAssimilationCentral2020b
+  abstract: >-
+    Originally published in 1990, this book focuses on the challenge to Jewish
+    identity posed by the conflicting forces of enlightenment, emancipation,
+    modern political antisemitism, and secular ideologies like Zionism,
+    nationalism, and socialism. At the heart of his discussion stands the
+    intense, tortured, and ultimately tragic encounter of Jews with Germans and
+    Austrians. He also deals at length with the new problems of Jewish cultural
+    and political identity posed by the existence of the state of Israel and its
+    embattled position among the nations. In the course of the analysis the book
+    looks at the tragedy of assimilation in central Europe, with the optimistic
+    dream of Enlightenment and Bildung coming to a climax in the nightmare of
+    racial antisemitism and the Holocaust. He explores the ambivalent
+    relationship of the Jews with the European Left, showing how many Jewish
+    intellectuals found a new political home in radical and socialist movements,
+    though these movements often retained negative stereotypes of Jews and
+    Judaism and exhibited a fierce opposition to the maintenance of any separate
+    Jewish identity. The role of Zionism is discussed and the more recent
+    challenges to its legitimacy examined.
+  author:
+    - family: Wistrich
+      given: Robert S.
+  citation-key: wistrichDilemmasAssimilationCentral2020b
+  container-title: 'Between Redemption & Perdition: Modern Antisemitism and Jewish Identity'
+  ISBN: 978-1-00-004339-6
+  issued:
+    - year: 2020
+      month: 4
+      day: 6
+  language: en
+  publisher: Routledge
+  source: Google Books
+  title: Dilemmas of assimilation in central Europe
+  type: chapter
+
+- id: woodIntroductionGroupFormation2021a
+  accessed:
+    - year: 2023
+      month: 5
+      day: 2
+  author:
+    - family: Wood
+      given: Philip
+  citation-key: woodIntroductionGroupFormation2021a
+  container-title: Al-Masāq
+  DOI: 10.1080/09503110.2021.1907523
+  ISSN: 0950-3110
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 5
+      day: 4
+  page: 107-116
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Introduction: Group Formation and Maintenance in the ʿAbbāsid and Fāṭimid
+    Caliphates, 750–1000
+  title-short: Introduction
+  type: article-journal
+  URL: >-
+    http://www.tandfonline.com/openurl?genre=article&issn=0950-3110&volume=33&issue=2&spage=107
+  volume: '33'
+
+- id: wrightDisengagementApostasyNew2014b
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Wright
+      given: Stuart A.
+  citation-key: wrightDisengagementApostasyNew2014b
+  container-title: The Oxford Handbook of Religious Conversion
+  DOI: 10.1093/oxfordhb/9780195338522.013.030
+  editor:
+    - family: Rambo
+      given: Lewis R.
+    - family: Farhadian
+      given: Charles E.
+  ISBN: 978-0-19-533852-2
+  issued:
+    - year: 2014
+      month: 4
+      day: 3
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: Disengagement and Apostasy in New Religious Movements
+  type: chapter
+  URL: >-
+    http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-030
+
+- id: yangExploringMassConversion2006c
+  accessed:
+    - year: 2023
+      month: 5
+      day: 2
+  author:
+    - family: Yang
+      given: F.
+    - family: Tamney
+      given: J. B.
+  citation-key: yangExploringMassConversion2006c
+  container-title: Sociology of Religion
+  container-title-short: Sociology of Religion
+  DOI: 10.1093/socrel/67.2.125
+  ISSN: 1069-4404, 1759-8818
+  issue: '2'
+  issued:
+    - year: 2006
+      month: 6
+      day: 1
+  language: en
+  page: 125-129
+  source: DOI.org (Crossref)
+  title: 'Exploring Mass Conversion to Christianity Among the Chinese: An Introduction'
+  title-short: Exploring Mass Conversion to Christianity Among the Chinese
+  type: article-journal
+  URL: https://academic.oup.com/socrel/article-lookup/doi/10.1093/socrel/67.2.125
+  volume: '67'
+
+- id: yangExploringMassConversion2006d
+  accessed:
+    - year: 2022
+      month: 2
+      day: 4
+  author:
+    - family: Yang
+      given: Fenggang
+    - family: Tamney
+      given: Joseph B.
+  citation-key: yangExploringMassConversion2006d
+  container-title: Sociology of Religion
+  ISSN: 1069-4404
+  issue: '2'
+  issued:
+    - year: 2006
+  page: 125-129
+  publisher: '[Oxford University Press, Association for the Sociology of Religion, Inc.]'
+  source: JSTOR
+  title: 'Exploring Mass Conversion to Christianity among the Chinese: An Introduction'
+  title-short: Exploring Mass Conversion to Christianity among the Chinese
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/3712444
+  volume: '67'
+
+- id: zuckermanOxfordHandbookSecularism2017a
+  call-number: BL2747.8 .O94 2017
+  citation-key: zuckermanOxfordHandbookSecularism2017a
+  editor:
+    - family: Zuckerman
+      given: Phil
+    - family: Shook
+      given: John R.
+  event-place: New York
+  ISBN: 978-0-19-998845-7
+  issued:
+    - year: 2017
+  number-of-pages: '778'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: >-
+    The Oxford handbook of secularism / edited by Phil Zuckerman and John R.
+    Shook
+  type: book
 ...

@@ -1,92 +1,111 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,question,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
+,1,15.04,2024-04-15-1.md,Einführung,Vorstellungen,Was habe ich mit den anderen in diesem Raum gemeinsam?,1. Vorstellungen,1,interreligious-conversation.png,1-Vorstellungen,,"Discuss the course outline, shared expectations, and goals.",[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,22.04,2024-04-22-2.md,Einführung,Kommunikationswege,Wie kann interkulturelle Kommunikation fair und einfühlsam praktiziert werden?,2. Kommunikationswege,2,hands.jpg,2-Kommunikationswege,[merkensTeilnehmendeBeobachtungGrundlagen2007a],Grasp how the principles of participant observation can contribute to intercultural and interreligious communication.,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,29.04,2024-04-29-3.md,Einführung,Zugehörigkeit,Was ist religiöse Zugehörigkeit?,3. Zugehörigkeit,3,books-door.jpg,3-Zugehörigkeit,"[mcguireEverydayReligionLived2008, welteckeUeberReligionVor2015a]",Give some examples of ways that someone might belong to more than one religion.,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,06.05,2024-05-06-4.md,Kommunale Dynamiken,Exklusivität,Warum schließen religiöse Gemeinschaften andere Menschen aus?,4. Exklusivität,4,circle-wall-ants.png,4-Exklusivität,,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,5,13.05,2024-05-13-5.md,Kommunale Dynamiken,Gewalt und Druck,"Wie reagieren religiöse Gemeinschaften auf Gewalt, sozialen Druck und Diskriminierung?",5. Gewalt und Druck,5,tulips-wind.jpg,5-Gewalt-und-Druck,"[stroumsaAcculturationConversionIslamic2016b, sahnerMassConversionChristians2020b]",Describe some relationships between communal ideals and group conversion.,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,27.05,2024-05-27-6.md,Kommunale Dynamiken,Migration,Wie führen Migrationen zu religiösem Wandel?,6. Migration,6,birds-in-flight.jpg,6-Migration,"[stroumsaAcculturationConversionIslamic2016a, restallNewConquestHistory2012a]",Describe some legal and political factors that can contribute to conversion or discourage it.,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,7,03.06,2024-06-03-7.md,Kommunale Dynamiken,Innerer Wandel,Wie verändern sich die Religionen innerlich?,7. Innerer Wandel,7,storm-clouds.jpg,7-Innerer-Wandel,[nesbittIntroduction2016],Identify some of the ways religions embrace outside ideas and give some examples.,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,10.06,2024-06-10-8.md,Individuelle Dynamiken,Individuelle Konversion,Wie wird die Konversion von Individuen charakterisiert?,8. Individuelle Konversion,8,handshake.jpg,8-Individuelle-Konversion,[simonsohnConversionApostasyPenance2015b],Explain some of the historical reasons that joining a religion required rules and rituals.,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,17.06,2024-06-17-9.md,Individuelle Dynamiken,Aufrechterhaltung,Wie wird die Religionszugehörigkeit von Individuen fortgesetzt?,9. Aufrechterhaltung,9,ripples.jpg,9-Aufrechterhaltung,[pollackIntegrationUndReligion2016a],Name some ways religious affiliation is maintained and continued across multiple generations and cultures.,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,24.06,2024-06-24-10.md,Individuelle Dynamiken,Dekonversion,Warum verlassen Menschen ihre Religion?,10. Dekonversion,10,castle-door.jpg,10-Dekonversion,[hoodWhatDeconversionCritiques2021],Discuss whether leaving a religion is a process similar to conversion.,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,01.07,2024-07-01-11.md,Individuelle Dynamiken,Radikalisierung,Wie radikalisieren sich Menschen?,11. Radikalisierung,11,color-blocks.jpg,11-Radikalisierung,[srowigRadikalisierungIndividuenUeberblick2018],Discuss the role of religion in the process of radicalization.,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+,12,08.07,2024-07-08-12.md,Praktische Aspekte,Wandel im Hintergrund,Wie kann ich den religiösen Wandel in der interkulturellen Kommunikation berücksichtigen?,12. Wandel im Hintergrund,12,teapot.jpg,12-Wandel-im-Hintergrund,"[kotthoffRitualStyleCultures2008a, ortonInterfaithDialogueSeven2016a]",Identify some cultural dimensions to be aware of when starting cross-cultural conversations.,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
+,13,15.07,2024-07-15-13.md,Praktische Aspekte,Rückblick,Was nehme ich mit?,13. Rückblick,13,girl-bridge.jpg,13-Rückblick,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
-layout: post
-session: 14
-tags: [14]
-level: overview
----"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
-layout: post
-session: 15
-tags: [15]
-level: overview
----"
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
