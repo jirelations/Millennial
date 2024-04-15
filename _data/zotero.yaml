@@ -1430,6 +1430,8 @@ references:
   source: K10plus ISBN
   title: 'Teilnehmende Beobachtung: Grundlagen – Methoden – Anwendung'
   type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/20609269764/CourseNode/93668888136198/02+-+Merkens+-+2007+-+Teilnehmende+Beobachtung+Grundlagen+%E2%80%93+Methoden+%E2%80%93+.pdf
 
 - id: merkinIndividualismcollectivismSavingFace2018b
   author:
@@ -2612,11 +2614,6 @@ references:
     polemic
   title-short: Conversion and narrative
   type: book
-
-- id: Tagsb
-  citation-key: Tagsb
-  title: Tags
-  type: document
 
 - id: tolanRoyalPolicyConversion2016b
   author:
