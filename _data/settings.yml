@@ -24,9 +24,9 @@ social:
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 base-urls:
-  pad: 'https://etherpad.studiumdigitale.uni-frankfurt.de/p/23entangled'
-  polls: 'https://ars.particify.de/p/83029916/series'
-  zotero: 'https://www.zotero.org/groups/5227670/23entangled'
+  pad: 'https://etherpad.studiumdigitale.uni-frankfurt.de/p/24data'
+  polls: 'https://ars.particify.de/p/24361116/series'
+  zotero: 'https://www.zotero.org/groups/5490830/24data'
 
 # Customize site text
 pagination:
