@@ -1,11 +1,11 @@
 ﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,2024-04-19,2024-04-19-1.md,Introduction,Chocolate,Make Chocolate and Unwrap Your Sources,"chocolate model, data formats, data provenance",1. Introduction: Make Chocolate and Unwrap Your Sources,1,chocolate-keyboard.png,1-Chocolate,,,[1],"---
+,1,2024-04-19,2024-04-19-1.md,Introduction,Chocolate,Make Chocolate and Unwrap Your Sources,"chocolate model, data formats, data provenance",1. Introduction: Make Chocolate and Unwrap Your Sources,1,chocolate-keyboard.png,1-Chocolate,,Consider your personal goals for the semester within the big picture of digital data in religious studies.,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,2024-04-26,2024-04-26-2.md,Working with Text,Text,"Get the Most out of ""Plain"" Text and Regular Expressions","ASCII, Unicode, plain text, rich text, RegEx","2. Working with Text: Get the Most out of ""Plain"" Text and Regular Expressions",2,printing-types.jpg,2-Text,"[unicodeinc.WhatUnicode2017, UnicodeCharacterTable2024]",,[2],"---
+,2,2024-04-26,2024-04-26-2.md,Working with Text,Text,"Get the Most out of ""Plain"" Text and Regular Expressions","ASCII, Unicode, plain text, rich text, RegEx","2. Working with Text: Get the Most out of ""Plain"" Text and Regular Expressions",2,printing-types.jpg,2-Text,"[unicodeinc.WhatUnicode2017, UnicodeCharacterTable2024]",Understand plain text as a foundational type of data.,[2],"---
 layout: post
 session: 2
 tags: [2]
