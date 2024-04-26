@@ -22,5 +22,29 @@
 			"{% include img-row.html images='${1:image path (separate multiple with comma)}' %}"
 		],
 		"description": "Add div containing row of images"
+	},
+	"review": {
+		/* "scope": "Markdown", */
+		"prefix": "rvw",
+		"body": [
+			"## 📈 Review\n\n${1:review content}\n"
+		],
+		"description": "Add review section to slides"
+	},
+	"objective": {
+		/* "scope": "Markdown", */
+		"prefix": "obj",
+		"body": [
+			"## 🧭 Today's Learning Objective\n\n${1:objective content}\n"
+		],
+		"description": "Add objective section to slides"
+	},
+	"help": {
+		/* "scope": "Markdown", */
+		"prefix": "help",
+		"body": [
+			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides"
+		],
+		"description": "Add review section to slides"
 	}
 }

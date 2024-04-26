@@ -184,19 +184,6 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3339545
 
-- id: ChapterDebatesDigital
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  citation-key: ChapterDebatesDigital
-  title: >-
-    “Chapter 2” in “Debates in the Digital Humanities 2023” | Debates in the
-    Digital Humanities
-  type: webpage
-  URL: >-
-    https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/f1946d2b-93ca-4ea0-ab8c-54fb835750ad#ch02
-
 - id: ChapterDebatesDigitala
   accessed:
     - year: 2024
@@ -232,20 +219,6 @@ references:
   title-short: Modelling between digital and humanities
   type: book
   URL: https://books.openbookpublishers.com/10.11647/obp.0369/
-
-- id: FatherBusaFemale
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  citation-key: FatherBusaFemale
-  title: >-
-    “6. Father Busa’s Female Punch Card Operatives | Melissa Terras and Julianne
-    Nyhan” in “Debates in the Digital Humanities 2016” | Debates in the Digital
-    Humanities
-  type: webpage
-  URL: >-
-    https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5#ch06
 
 - id: flickQualitativeForschungHandbuch2022b
   citation-key: flickQualitativeForschungHandbuch2022b
@@ -640,10 +613,63 @@ references:
   title: A companion to digital humanities
   type: book
 
+- id: smithAllWorkYou2023
+  accessed:
+    - year: 2024
+      month: 4
+      day: 19
+  author:
+    - family: Smith
+      given: Astrid J.
+    - family: Whearty
+      given: Bridget
+  citation-key: smithAllWorkYou2023
+  collection-title: Debates in the Digital Humanities
+  container-title: Debates in the Digital Humanities 2023
+  editor:
+    - family: Gold
+      given: Matthew K.
+    - family: Klein
+      given: Lauren F.
+  event-place: Minneapolis
+  issued:
+    - year: 2023
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: >-
+    All the Work You Do Not See: Labor, Digitizers, and the Foundations of
+    Digital Humanities
+  type: chapter
+  URL: >-
+    https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/f1946d2b-93ca-4ea0-ab8c-54fb835750ad#ch02
+
 - id: Tagsb
   citation-key: Tagsb
   title: Tags
   type: document
+
+- id: tenenSustainableAuthorshipPlain2014
+  accessed:
+    - year: 2024
+      month: 4
+      day: 26
+  author:
+    - family: Tenen
+      given: Dennis
+    - family: Wythoff
+      given: Grant
+  citation-key: tenenSustainableAuthorshipPlain2014
+  container-title: Programming Historian
+  issued:
+    - year: 2014
+      month: 3
+      day: 19
+  language: en
+  source: programminghistorian.org
+  title: Sustainable Authorship in Plain Text using Pandoc and Markdown
+  type: article-journal
+  URL: >-
+    https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
 
 - id: terrasDigitizationDigitalResources2012
   accessed:
@@ -673,6 +699,35 @@ references:
   type: chapter
   URL: >-
     https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/digital-humanities-in-practice/digitization-and-digital-resources-in-the-humanities/D82569EC95F1F6C17442F14EDBA357AD
+
+- id: terrasFatherBusaFemale2016a
+  accessed:
+    - year: 2024
+      month: 4
+      day: 19
+  author:
+    - family: Terras
+      given: Melissa
+    - family: Nyhan
+      given: Julianne
+  citation-key: terrasFatherBusaFemale2016a
+  collection-title: Debates in the Digital Humanities
+  container-title: Debates in the Digital Humanities 2016
+  editor:
+    - family: Gold
+      given: Matthew K.
+    - family: Klein
+      given: Lauren F.
+  event-place: Minneapolis
+  ISBN: 978-1-4529-5149-2
+  issued:
+    - year: 2016
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  title: Father Busa’s Female Punch Card Operatives
+  type: chapter
+  URL: >-
+    https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5#ch06
 
 - id: terrasImageProcessingDigital2012
   accessed:
