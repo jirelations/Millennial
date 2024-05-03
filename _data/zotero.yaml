@@ -1,5 +1,19 @@
 ---
 references:
+- id: AllgemeineEmpfehlungenIm
+  accessed:
+    - year: 2024
+      month: 5
+      day: 3
+  citation-key: AllgemeineEmpfehlungenIm
+  language: de-DE
+  title: >-
+    Allgemeine Empfehlungen im Umgang mit generativer KI in Studium und Lehre –
+    Lehre virtuell
+  type: post-weblog
+  URL: >-
+    https://lehre-virtuell.uni-frankfurt.de/knowhow/allgemeine-empfehlungen-im-umgang-mit-generativer-ki-in-studium-und-lehre/
+
 - id: altheideQualitativeMediaAnalysis2013b
   author:
     - family: Altheide
@@ -219,6 +233,20 @@ references:
   title-short: Modelling between digital and humanities
   type: book
   URL: https://books.openbookpublishers.com/10.11647/obp.0369/
+
+- id: EinsatzGenerativerKI
+  accessed:
+    - year: 2024
+      month: 5
+      day: 3
+  citation-key: EinsatzGenerativerKI
+  language: de-DE
+  title: >-
+    Einsatz von generativer KI im Studium – Handlungsempfehlungen für
+    Studierende – Lehre virtuell
+  type: post-weblog
+  URL: >-
+    https://lehre-virtuell.uni-frankfurt.de/knowhow/einsatz-von-generativer-ki-im-studium-handlungsempfehlungen-fuer-studierende/
 
 - id: flickQualitativeForschungHandbuch2022b
   citation-key: flickQualitativeForschungHandbuch2022b
@@ -757,6 +785,16 @@ references:
   type: chapter
   URL: >-
     https://www.cambridge.org/core/books/digital-humanities-in-practice/image-processing-in-the-digital-humanities/A6736D134BFB11678FC98149BC9BA64B
+
+- id: ThinkPython3rd
+  accessed:
+    - year: 2024
+      month: 5
+      day: 3
+  citation-key: ThinkPython3rd
+  title: Think Python, 3rd edition — Think Python, 3rd edition
+  type: webpage
+  URL: https://allendowney.github.io/ThinkPython/
 
 - id: UnicodeCharacterTable2024
   abstract: >-
