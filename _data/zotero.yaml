@@ -2164,6 +2164,66 @@ references:
   URL: >-
     https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780195338522.013.031
 
+- id: rudertWhenWhyWe2023
+  abstract: >-
+    Research on ostracism has mostly focused on ostracized targets’ reactions to
+    being excluded and ignored. In contrast, the ostracizing sources’
+    perspective and reasons for why individuals decide to ostracize others are
+    still a largely unexplored frontier for empirical research. We propose two
+    fundamental motives situated in the target’s behavior that drive motivated
+    ostracism decisions for the beneﬁt of one’s group: A perceived norm
+    violation of the target and perceived expendability of the target for
+    achieving group goals. Two survey studies and ﬁve experiments (total N =
+    2,394, all preregistered) support our predictions: When asked to recall a
+    recent ostracism decision and the motives for it, participants reported both
+    perceived norm violations and/or expendability of the target as motives
+    (Study 1). Switching to the target perspective, the frequency of experienced
+    ostracism was associated with both self-perceived norm violations and
+    expendability (Study 2). In ﬁve experiments (Studies 3–7), participants
+    consistently choose to ostracize targets more often when they perceived them
+    to be either norm-violating, or inept in a skill important for the group and
+    thus expendable. Additionally, Studies 5–7 show that strategic
+    considerations about the requirements of the situational context inﬂuence
+    ostracism decisions: Participants were more likely to ostracize
+    norm-violating targets in cooperative contexts, and more likely to ostracize
+    inept targets in performance contexts. Results have strong theoretical
+    implications for research on ostracism and group dynamics, as well as for
+    interventions targeting ostracism behavior: Particularly, adjusting the
+    requirements of the situational context might be a viable option to decrease
+    ostracism and promote inclusion in groups.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 6
+  author:
+    - family: Rudert
+      given: Selma C.
+    - family: Möring
+      given: J. N. Rasmus
+    - family: Kenntemich
+      given: Christoph
+    - family: Büttner
+      given: Christiane M.
+  citation-key: rudertWhenWhyWe2023
+  container-title: Journal of Personality and Social Psychology
+  container-title-short: Journal of Personality and Social Psychology
+  DOI: 10.1037/pspi0000423
+  ISSN: 1939-1315, 0022-3514
+  issue: '4'
+  issued:
+    - year: 2023
+      month: 10
+  language: en
+  page: 803-826
+  source: DOI.org (Crossref)
+  title: >-
+    When and why we ostracize others: Motivated social exclusion in group
+    contexts.
+  title-short: When and why we ostracize others
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/EdsRecord/pdh%2C2023-52424-001/PDF
+  volume: '125'
+
 - id: sahnerMassConversionChristians2020b
   author:
     - family: Sahner
