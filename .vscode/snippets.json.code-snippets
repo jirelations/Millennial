@@ -39,11 +39,19 @@
 		],
 		"description": "Add objective section to slides"
 	},
+	"embed video": {
+		/* "scope": "Markdown", */
+		"prefix": "video",
+		"body": [
+			"<video width='450' controls>\n\t<source src='../assets/img/${1:video file}' type='video/mp4'>\n</video>"
+		],
+		"description": "Add embedded video file to slides"
+	},
 	"help": {
 		/* "scope": "Markdown", */
 		"prefix": "help",
 		"body": [
-			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides"
+			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nvideo\tembed video\tAdd embedded video file to slides"
 		],
 		"description": "Add review section to slides"
 	}
