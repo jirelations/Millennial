@@ -1,925 +1,475 @@
 ---
 references:
-- id: AllgemeineEmpfehlungenIm
-  accessed:
-    - year: 2024
-      month: 5
-      day: 3
-  citation-key: AllgemeineEmpfehlungenIm
-  language: de-DE
-  title: >-
-    Allgemeine Empfehlungen im Umgang mit generativer KI in Studium und Lehre –
-    Lehre virtuell
-  type: post-weblog
-  URL: >-
-    https://lehre-virtuell.uni-frankfurt.de/knowhow/allgemeine-empfehlungen-im-umgang-mit-generativer-ki-in-studium-und-lehre/
-
-- id: altheideQualitativeMediaAnalysis2013b
-  author:
-    - family: Altheide
-      given: David L.
-    - family: Schneider
-      given: Christopher J.
-  citation-key: altheideQualitativeMediaAnalysis2013b
-  edition: 2. ed.
-  event-place: Los Angeles, Calif. [u.a.]
-  ISBN: 978-1-4522-3005-4
-  issued:
-    - year: 2013
-  number-of-pages: XIII, 150 S.
-  publisher: Sage
-  publisher-place: Los Angeles, Calif. [u.a.]
-  title: Qualitative media analysis
-  type: book
-
-- id: bachmann-medickCulturalTurnsNew2016b
-  abstract: >-
-    The contemporary fields of the study of culture, the humanities and the
-    social sciences are unfolding in a dynamic constellation of cultural turns.
-    This book provides a comprehensive overview of these theoretically and
-    methodologically groundbreaking reorientations. It discusses the value of
-    the new focuses and their analytical categories for the work of a wide range
-    of disciplines. In addition to chapters on the interpretive, performative,
-    reflexive, postcolonial, translational, spatial and iconic turns, it
-    discusses emerging directions of research. Drawing on a wealth of
-    international research, this book maps central topics and approaches in the
-    study of culture and thus provides systematic impetus for changed
-    disciplinary and transdisciplinary research in the humanities and beyond -
-    e.g., in the fields of sociology, economics and the study of religion. This
-    work is the English translation by Adam Blauhut of an influential German
-    book that has now been completely revised. It is a stimulating example of a
-    cross-cultural translation between different theoretical cultures and also
-    the first critical synthesis of cultural turns in the English-speaking
-    world.
-  accessed:
-    - year: 2022
-      month: 1
-      day: 18
-  author:
-    - family: Bachmann-Medick
-      given: Doris
-  citation-key: bachmann-medickCulturalTurnsNew2016b
-  event-place: Berlin
-  ISBN: 978-3-11-040298-8
-  issued:
-    - year: 2016
-  publisher: De Gruyter
-  publisher-place: Berlin
-  source: ProQuest Ebook Central
-  title: 'Cultural Turns: New Orientations in the Study of Culture'
-  title-short: Cultural Turns
-  type: book
-  URL: http://ebookcentral.proquest.com/lib/ub-lmu/detail.action?docID=4338457
-
-- id: bassettCanonicalismComputationalTurn2012
-  abstract: >-
-    This chapter considers the computational turn in relation to some of the
-    diverse frameworks through which digital artifacts and practices, taken
-    separately or explored in various configurations, are being defined,
-    categorised, and claimed for various disciplines, sub-disciplines,
-    anti-disciplines, or academic fields; for this tradition or that. In this
-    process of course not only the artifacts and practices,but also the
-    frameworks themselves, are being reconstituted. If the latter are rendered
-    computational in various ways, the former are hacked into shape,rendered
-    fit, or made amenable and suitable for certain modes of analysis. This kind
-    of work might thus redefine conventional takes on computation and its
-    (cultural, social, economic, aesthetic, material) significance, replace the
-    traditional object of enquiry within a particular field with its
-    computationally transformed upgrade, and relocate the field itself so that
-    it extends across new terrain – or operates in new dimensions.
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Bassett
-      given: Caroline
-  citation-key: bassettCanonicalismComputationalTurn2012
-  container-title: Understanding Digital Humanities
-  DOI: 10.1057/9780230371934_6
-  editor:
-    - family: Berry
-      given: David M.
-  event-place: London
-  ISBN: 978-0-230-37193-4
-  issued:
-    - year: 2012
-  language: en
-  page: 105-126
-  publisher: Palgrave Macmillan UK
-  publisher-place: London
-  source: Springer Link
-  title: Canonicalism and the Computational Turn
-  type: chapter
-  URL: https://doi.org/10.1057/9780230371934_6
-
-- id: berryComputationalTurnThinking2011a
-  author:
-    - family: Berry
-      given: Dave M
-  citation-key: berryComputationalTurnThinking2011a
-  container-title: Culture Machine
-  issued:
-    - year: 2011
-  language: en
-  page: 1-22
-  source: Zotero
-  title: 'The Computational Turn: Thinking About the Digital Humanities'
-  type: article-journal
-  URL: >-
-    https://culturemachine.net/wp-content/uploads/2019/01/10-Computational-Turn-440-893-1-PB.pdf
-  volume: '12'
-
-- id: berryUnderstandingDigitalHumanities2012
-  abstract: >-
-    "Confronting the digital revolution in academia, this book examines the
-    application of new computational techniques and visualisation technologies
-    in the Arts 愞manities. Uniting differing perspectives, leading and emerging
-    scholars discuss the theoretical and practicalchallenges that computation
-    raises for these disciplines"--Provided by publisher
-  author:
-    - family: Berry
-      given: David M.
-  call-number: 001.302 85
-  citation-key: berryUnderstandingDigitalHumanities2012
-  event-place: Houndmills New York
-  ISBN: 978-0-230-29265-9 978-0-230-29264-2
-  issued:
-    - year: 2012
-  language: eng
-  number-of-pages: XVIII, 318 S.
-  publisher: Palgrave Macmillan
-  publisher-place: Houndmills New York
-  source: BnF ISBN
-  title: Understanding digital humanities
-  type: book
-
-- id: burdickDigital_Humanities2012
-  abstract: >-
-    A visionary report on the revitalization of the liberal arts tradition in
-    the electronically inflected, design-driven, multimedia language of the
-    twenty-first century. Digital_Humanities is a compact, game-changing report
-    on the state of contemporary knowledge production. Answering the question
-    "What is digital humanities?," it provides an in-depth examination of an
-    emerging field. This collaboratively authored and visually compelling volume
-    explores methodologies and techniques unfamiliar to traditional modes of
-    humanistic inquiry--including geospatial analysis, data mining, corpus
-    linguistics, visualization, and simulation--to show their relevance for
-    contemporary culture. Written by five leading practitioner-theorists whose
-    varied backgrounds embody the intellectual and creative diversity of the
-    field, Digital_Humanities is a vision statement for the future, an
-    invitation to engage, and a critical tool for understanding the shape of new
-    scholarship.
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Burdick
-      given: Anne
-    - family: Drucker
-      given: Johanna
-    - family: Lunenfeld
-      given: Peter
-    - family: Presner
-      given: Todd
-    - family: Schnapp
-      given: Jeffrey
-  citation-key: burdickDigital_Humanities2012
-  event-place: Cambridge, UNITED STATES
-  ISBN: 978-0-262-31210-3
-  issued:
-    - year: 2012
-  publisher: MIT Press
-  publisher-place: Cambridge, UNITED STATES
-  source: ProQuest Ebook Central
-  title: Digital_Humanities
-  type: book
-  URL: >-
-    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3339545
-
-- id: ChapterDebatesDigitala
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  citation-key: ChapterDebatesDigitala
-  title: >-
-    “Chapter 3” in “Debates in the Digital Humanities 2023” | Debates in the
-    Digital Humanities
-  type: webpage
-  URL: >-
-    https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/51ad75ab-76a4-43f3-81f8-0b31e350ca9c#ch03
-
-- id: ciulaModellingDigitalHumanities2023
-  author:
-    - family: Ciula
-      given: Arianna
-    - family: Eide
-      given: Øyvind
-    - family: Marras
-      given: Cristina
-    - family: Sahle
-      given: Patrick
-  citation-key: ciulaModellingDigitalHumanities2023
-  event-place: Cambridge
-  ISBN: 978-1-80064-846-3
-  issued:
-    - year: 2023
-  number-of-pages: 1 online resource (vi, 230 pages)
-  publisher: Open Book Publishers
-  publisher-place: Cambridge
-  title: 'Modelling between digital and humanities : thinking in practice'
-  title-short: Modelling between digital and humanities
-  type: book
-  URL: https://books.openbookpublishers.com/10.11647/obp.0369/
-
-- id: EinsatzGenerativerKI
-  accessed:
-    - year: 2024
-      month: 5
-      day: 3
-  citation-key: EinsatzGenerativerKI
-  language: de-DE
-  title: >-
-    Einsatz von generativer KI im Studium – Handlungsempfehlungen für
-    Studierende – Lehre virtuell
-  type: post-weblog
-  URL: >-
-    https://lehre-virtuell.uni-frankfurt.de/knowhow/einsatz-von-generativer-ki-im-studium-handlungsempfehlungen-fuer-studierende/
-
-- id: flickQualitativeForschungHandbuch2022b
-  citation-key: flickQualitativeForschungHandbuch2022b
-  collection-number: '55628'
-  collection-title: Rororo Rowohlts Enzyklopädie
-  edition: 14. Auflage, Originalausgabe
-  editor:
-    - family: Flick
-      given: Uwe
-    - family: Kardorff
-      given: Ernst
-      dropping-particle: von
-    - family: Steinke
-      given: Ines
-  event-place: Reinbek bei Hamburg
-  ISBN: 978-3-499-55628-9
-  ISSN: 0720-0943
-  issued:
-    - year: 2022
-  language: ger
-  number-of-pages: '767'
-  publisher: rowohlts enzyklopädie im Rowohlt Taschenbuch Verlag
-  publisher-place: Reinbek bei Hamburg
-  source: K10plus ISBN
-  title: 'Qualitative Forschung: ein Handbuch'
-  title-short: Qualitative Forschung
-  type: book
-
-- id: gillamUnicodeDemystifiedPractical2003
-  author:
-    - family: Gillam
-      given: Richard
-  citation-key: gillamUnicodeDemystifiedPractical2003
-  event-place: Boston, MA
-  ISBN: 978-0-201-70052-7
-  issued:
-    - year: 2003
-  number-of-pages: xxxiii, 853 p. S.
-  publisher: Addison-Wesley
-  publisher-place: Boston, MA
-  title: >-
-    Unicode demystified : a practical programmer's guide to the encoding
-    standard
-  title-short: Unicode demystified
-  type: book
-
-- id: goldDebatesDigitalHumanities2012c
-  abstract: >-
-    *Debates in the Digital Humanities* brings together leading figures in the
-    field to explore its theories, methods, and practices and to clarify its
-    multiple possibilities and tensions. Together, the essays suggest that the
-    digital humanities is uniquely positioned to contribute to the revival of
-    the humanities and academic life.
-  accessed:
-    - year: 2022
-      month: 11
-      day: 26
-  author:
-    - family: Gold
-      given: Matthew K.
-  citation-key: goldDebatesDigitalHumanities2012c
-  event-place: Minneapolis
-  issued:
-    - year: 2012
-  language: en-US
-  publisher: University of Minnesota Press
-  publisher-place: Minneapolis
-  title: Debates in the Digital Humanities
-  type: book
-  URL: https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities
-
-- id: goldDebatesDigitalHumanities2016b
-  abstract: >-
-    *Debates in the Digital Humanities* 2019 collects a broad array of
-    important, thought-provoking perspectives on the field’s many sides. With a
-    wide range of subjects including gender-based assumptions made by
-    algorithms, the place of the digital humanities within art history, and
-    data-based methods for exhuming forgotten histories, it assembles a who’s
-    who of the field in more than thirty impactful essays.
-  accessed:
-    - year: 2022
-      month: 11
-      day: 26
-  citation-key: goldDebatesDigitalHumanities2016b
-  editor:
-    - family: Gold
-      given: Matthew K.
-    - family: Klein
-      given: Lauren F.
-  event-place: Minneapolis
-  issued:
-    - year: 2016
-  language: en-US
-  publisher: University of Minnesota Press
-  publisher-place: Minneapolis
-  title: Debates in the Digital Humanities 2016
-  type: book
-  URL: >-
-    https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016
-
-- id: goldDebatesDigitalHumanities2019b
-  abstract: >-
-    *Debates in the Digital Humanities* 2019 collects a broad array of
-    important, thought-provoking perspectives on the field’s many sides. With a
-    wide range of subjects including gender-based assumptions made by
-    algorithms, the place of the digital humanities within art history, and
-    data-based methods for exhuming forgotten histories, it assembles a who’s
-    who of the field in more than thirty impactful essays.
-  accessed:
-    - year: 2022
-      month: 11
-      day: 26
-  citation-key: goldDebatesDigitalHumanities2019b
-  editor:
-    - family: Gold
-      given: Matthew K.
-    - family: Klein
-      given: Lauren F.
-  event-place: Minneapolis
-  issued:
-    - year: 2019
-  language: en-US
-  publisher: University of Minnesota Press
-  publisher-place: Minneapolis
-  title: Debates in the Digital Humanities 2019
-  type: book
-  URL: >-
-    https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019
-
-- id: ishidaIntroductionWritingSystems
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Ishida
-      given: Richard
-  citation-key: ishidaIntroductionWritingSystems
-  container-title: r12a.io
-  title: An Introduction to Writing Systems & Unicode
-  type: webpage
-  URL: https://r12a.github.io/scripts/tutorial/index
-
-- id: krippendorffContentAnalysisIntroduction2004b
-  author:
-    - family: Krippendorff
-      given: Klaus
-  citation-key: krippendorffContentAnalysisIntroduction2004b
-  edition: 2nd edition
-  event-place: Thousand Oaks
-  ISBN: 978-0-7619-1545-4
-  issued:
-    - year: 2004
-  number-of-pages: XXIII, 413 Seiten
-  publisher: Sage Publ.
-  publisher-place: Thousand Oaks
-  title: 'Content analysis : an introduction to its methodology'
-  title-short: Content analysis
-  type: book
-
-- id: kuckartzQualitativeInhaltsanalyseMethoden2018b
-  author:
-    - family: Kuckartz
-      given: Udo
-  citation-key: kuckartzQualitativeInhaltsanalyseMethoden2018b
-  edition: 4. Auflage
-  event-place: Weinheim
-  ISBN: 978-3-7799-3682-4
-  issued:
-    - year: 2018
-  number-of-pages: 240 Seiten
-  publisher: Beltz Juventa
-  publisher-place: Weinheim
-  title: 'Qualitative Inhaltsanalyse : Methoden, Praxis, Computerunterstützung'
-  title-short: Qualitative Inhaltsanalyse
-  type: book
-
-- id: manovichCulturalAnalytics2018a
-  abstract: >-
-    $$Csummary$$VA book at the intersection of data science and media studies,
-    presenting concepts and methods for computational analysis of cultural
-    data.How can we see a billion images? What analytical methods can we bring
-    to bear on the astonishing scale of digital culture--the terabytes of
-    photographs shared on social media every day, the hundreds of millions of
-    songs created by twenty million musicians on Sound Cloud, the content of
-    four billion Pinterest boards? In Cultural Analytics, Lev Manovich presents
-    concepts and methods for computational analysis of cultural data, with a
-    particular focus on visual media. Drawing on more than a decade of research
-    and projects from his own lab, Manovich--the founder of the field of
-    cultural analytics--offers a gentle, nontechnical introduction to selected
-    key concepts of data science and discusses the ways that our society uses
-    data and algorithms.Manovich offers examples of computational cultural
-    analysis and discusses the shift from new media to more media; explains how
-    to turn cultural processes into computational data; and introduces concepts
-    for exploring cultural datasets using data visualization as well as other
-    recently developed methods for analyzing image and video datasets. He
-    considers both the possibilities and the limitations of computational
-    methods, and how using them challenges our existing ideas about culture and
-    how to study it. Cultural Analytics is a book of media theory. Arguing that
-    before we can theorize digital culture, we need to see it, and that, because
-    of its scale, to see it we need computers, Manovich provides scholars with
-    practical tools for studying contemporary media.
+- id: assmannMonotheismCurseBlessing2018a
   accessed:
     - year: 2023
-      month: 6
-      day: 10
+      month: 10
+      day: 20
   author:
-    - family: Manovich
-      given: Lev
-  call-number: HV551.2 Electronic access
-  citation-key: manovichCulturalAnalytics2018a
-  collection-title: Knowledge Unlatched Select 2017 (on order)
-  event-place: Cambridge, MA
-  ISBN: 978-0-262-03710-5
+    - family: Assmann
+      given: Jan
+  citation-key: assmannMonotheismCurseBlessing2018a
+  collection-number: '9'
+  collection-title: Routledge research in religion and education
+  container-title: >-
+    Public theology, religious diversity, and interreligious learning:
+    Contributing to the common good through religious education
+  DOI: 10.11588/propylaeumdok.00005462
+  editor:
+    - family: Pirner
+      given: Manfred L.
+    - family: Lähnemann
+      given: Johannes
+    - family: Haussmann
+      given: Werner
+    - family: Schwarz,
+      given: Susanne
+  event-place: New York ; London
   issued:
     - year: 2018
   language: eng
-  publisher: MIT Press; Berlin
-  publisher-place: Cambridge, MA
-  source: bobcat.library.nyu.edu
-  title: Cultural Analytics
-  type: book
-  URL: https://mediarep.org/handle/doc/13423
-
-- id: mayringQualitativeInhaltsanalyseGrundlagen2010b
-  author:
-    - family: Mayring
-      given: Philipp
-  citation-key: mayringQualitativeInhaltsanalyseGrundlagen2010b
-  edition: 11., aktualisierte und überarb. Aufl.
-  event-place: Weinheim [u.a.]
-  ISBN: 978-3-407-25533-4
-  issued:
-    - year: 2010
-  number-of-pages: 144 S.
-  publisher: Beltz
-  publisher-place: Weinheim [u.a.]
-  title: 'Qualitative Inhaltsanalyse : Grundlagen und Techniken'
-  title-short: Qualitative Inhaltsanalyse
-  type: book
-
-- id: naveedMiningSocialMedia2014b
-  abstract: >-
-    Web 2.0 provides technologies for online collaboration of users as well as
-    the creation, publication and sharing of user-generated contents in an
-    interactive way. Twitter, CNET, CiteSeerX, etc. are examples of Web 2.0
-    platforms which facilitate users in these activities and are viewed as rich
-    sources of information. In the platforms mentioned as examples, users can
-    participate in discussions, comment others, provide feedback on various
-    issues, publish articles and write blogs, thereby producing a high volume of
-    unstructured data which at the same time leads to an information overload.
-    To satisfy various types of human information needs arising from the purpose
-    and nature of the platforms requires methods for appropriate aggregation and
-    automatic analysis of this unstructured data. In this thesis, we propose
-    methods which attempt to overcome the problem of information overload and
-    help in satisfying user information needs in three scenarios. 
-
-
-    To this end, first we look at two of the main challenges of sparsity and
-    content quality in Twitter and how these challenges can influence standard
-    retrieval models. We analyze and identify Twitter content features that
-    reflect high quality information. Based on this analysis we introduce the
-    concept of "interestingness" as a static quality measure. We empirically
-    show that our proposed measure helps in retrieving and filtering high
-    quality information in Twitter. Our second contribution relates to the
-    content diversification problem in a collaborative social environment, where
-    the motive of the end user is to gain a comprehensive overview of the pros
-    and cons of a discussion track which results from social collaboration of
-    the people. For this purpose, we develop the FREuD approach which aims at
-    solving the content diversification problem by combining latent semantic
-    analysis with sentiment estimation approaches. Our evaluation results show
-    that the FREuD approach provides a representative overview of sub-topics and
-    aspects of discussions, characteristic user sentiments under different
-    aspects, and reasons expressed by different opponents. Our third
-    contribution presents a novel probabilistic Author-Topic-Time model, which
-    aims at mining topical trends and user interests from social media. Our
-    approach solves this problem by means of Bayesian modeling of relations
-    between authors, latent topics and temporal information. We present results
-    of application of the model to the scientific publication datasets from
-    CiteSeerX showing improved semantically cohesive topic detection and
-    capturing shifts in authors" interest in relation to topic evolution.
-  accessed:
-    - year: 2024
-      month: 2
-      day: 26
-  author:
-    - family: Naveed
-      given: Nasir
-  citation-key: naveedMiningSocialMedia2014b
-  issued:
-    - year: 2014
-      month: 6
-      day: 4
-  language: en
-  license: https://www.gesetze-im-internet.de/urhg/__53.html
-  source: uko.opus.hbz-nrw.de
-  title: 'Mining Social Media: Methods and Approaches for Content Analysis'
-  title-short: Mining Social Media
-  type: article-journal
-  URL: https://uko.opus.hbz-nrw.de/frontdoor/index/index/docId/827
-
-- id: neuendorfContentAnalysisGuidebook2017b
-  author:
-    - family: Neuendorf
-      given: Kimberly A.
-  citation-key: neuendorfContentAnalysisGuidebook2017b
-  edition: Second edition
-  event-place: Los Angeles
-  ISBN: 978-1-4129-7947-4
-  issued:
-    - year: 2017
-  number-of-pages: xvii, 438 Seiten
-  publisher: Sage
-  publisher-place: Los Angeles
-  title: The content analysis guidebook
-  type: book
-
-- id: None
-  citation-key: None
-  title: None
-  type: document
-
-- id: nyhanTextEncodingScholarly2012
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Nyhan
-      given: Julianne
-  citation-key: nyhanTextEncodingScholarly2012
-  container-title: Digital Humanities in Practice
-  DOI: 10.29085/9781856049054.007
-  editor:
-    - family: Warwick
-      given: Claire
-    - family: Nyhan
-      given: Julianne
-    - family: Terras
-      given: Melissa
-  ISBN: 978-1-85604-905-4
-  issued:
-    - year: 2012
-  page: 117-138
-  publisher: Facet
-  source: Cambridge University Press
-  title: Text encoding and scholarly digital editions
+  license: info:eu-repo/semantics/openAccess
+  page: 94-104
+  publisher: Routledge
+  publisher-place: New York ; London
+  title: Monotheism – curse or blessing?
   type: chapter
-  URL: >-
-    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/digital-humanities-in-practice/text-encoding-and-scholarly-digital-editions/5AC5C3A56960C60B3F9450B74FED42FB
+  URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
+  volume: '9'
 
-- id: ProgrammingHistorian2008b
+- id: beckingBoundariesIsraeliteMonotheism2008a
   accessed:
-    - year: 2022
-      month: 11
-      day: 26
-  citation-key: ProgrammingHistorian2008b
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Becking
+      given: Bob
+  citation-key: beckingBoundariesIsraeliteMonotheism2008a
+  container-title: >-
+    The Boundaries of Monotheism: Interdisciplinary Explorations into the
+    Foundations of Western Monotheism
+  editor:
+    - family: Haardt
+      given: Maaike
+      non-dropping-particle: de
+    - family: Korte
+      given: Anna-Marie J. A. C. M.
+  event-place: Boston
+  ISBN: 978-90-474-2663-9
   issued:
     - year: 2008
-    - year: 0
-  title: The Programming Historian
-  type: book
-  URL: https://programminghistorian.org/en/
+  language: en
+  page: 9-27
+  publisher: Brill
+  publisher-place: Boston
+  source: ProQuest Ebook Central
+  title: The boundaries of Israelite monotheism
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
 
-- id: rosslerInhaltsanalyse2017b
+- id: chatelioncounetDivineMessiahEarly2008a
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
   author:
-    - family: Rössler
+    - family: Chatelion Counet
       given: Patrick
-  citation-key: rosslerInhaltsanalyse2017b
-  edition: 3., völlig überarbeitete Auflage
-  event-place: Konstanz
-  ISBN: 978-3-8385-4706-0
-  issued:
-    - year: 2017
-  number-of-pages: 1 Online Ressource (292 Seiten)
-  publisher: UVK Verlagsgesellschaft mbH
-  publisher-place: Konstanz
-  title: Inhaltsanalyse
-  type: book
-
-- id: schreibmanCompanionDigitalHumanities2011
-  citation-key: schreibmanCompanionDigitalHumanities2011
-  collection-number: '26'
-  collection-title: Blackwell companions to literature and culture
-  edition: Nachdr.
+  citation-key: chatelioncounetDivineMessiahEarly2008a
+  container-title: >-
+    The Boundaries of Monotheism: Interdisciplinary Explorations into the
+    Foundations of Western Monotheism
   editor:
-    - family: Schreibman
-      given: Susan
-  event-place: Malden, Mass.
-  ISBN: 978-1-4051-0321-3
+    - family: Haardt
+      given: Maaike
+      non-dropping-particle: de
+    - family: Korte
+      given: Anna-Marie J. A. C. M.
+  event-place: Boston
+  ISBN: 978-90-474-2663-9
+  issued:
+    - year: 2008
+  language: en
+  page: 28-52
+  publisher: Brill
+  publisher-place: Boston
+  source: ProQuest Ebook Central
+  title: 'The divine Messiah: Early Jewish monotheism and the New Testament'
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
+
+- id: collinsKingMessiahSon2011a
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Collins
+      given: John J
+  citation-key: collinsKingMessiahSon2011a
+  container-title: Reconsidering the Concept of Revolutionary Monotheism
+  editor:
+    - family: Pongratz-Leisten
+      given: Beate
+  event-place: Winona Lake
+  ISBN: 978-1-57506-648-6
   issued:
     - year: 2011
-  number-of-pages: '611'
-  publisher: Blackwell Publ
-  publisher-place: Malden, Mass.
-  source: K10plus ISBN
-  title: A companion to digital humanities
-  type: book
+  language: en
+  page: 291-316
+  publisher: Pennsylvania State University Press
+  publisher-place: Winona Lake
+  source: ProQuest Ebook Central
+  title: King and Messiah as Son of God
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
 
-- id: smithAllWorkYou2023
+- id: dehaardtBoundariesMonotheismInterdisciplinary2008c
+  abstract: >-
+    What is the significance of monotheism in modern western culture, taking
+    into account both its problematic and promising aspects? Biblical texts and
+    the biblical faith traditions bear a continuous, polemical tension between
+    exclusive and inclusive perceptions and interpretations of monotheism.
+    Western monotheism proves itself to be multi-significant and heterogeneous,
+    producing boundary-setting as well as boundary-crossing tendencies, is the
+    common thesis of the authors of this book, who have been collectively
+    debating this theme for two years in an interdisciplinary scholarly setting.
+    Their contributions range from the fields of biblical and religious studies,
+    history and philosophy of religion, systematic theology, to gender studies
+    in theology and religion.The authors also explain the particular
+    contribution of their own theological discipline to these debates.
   accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Smith
-      given: Astrid J.
-    - family: Whearty
-      given: Bridget
-  citation-key: smithAllWorkYou2023
-  collection-title: Debates in the Digital Humanities
-  container-title: Debates in the Digital Humanities 2023
-  editor:
-    - family: Gold
-      given: Matthew K.
-    - family: Klein
-      given: Lauren F.
-  event-place: Minneapolis
-  issued:
     - year: 2023
-  publisher: University of Minnesota Press
-  publisher-place: Minneapolis
+      month: 10
+      day: 20
+  citation-key: dehaardtBoundariesMonotheismInterdisciplinary2008c
+  editor:
+    - family: Haardt
+      given: Maaike
+      non-dropping-particle: de
+    - family: Korte
+      given: Anna-Marie J. A. C. M.
+  event-place: Boston
+  ISBN: 978-90-474-2663-9
+  issued:
+    - year: 2008
+  language: en
+  publisher: Brill
+  publisher-place: Boston
+  source: ProQuest Ebook Central
   title: >-
-    All the Work You Do Not See: Labor, Digitizers, and the Foundations of
-    Digital Humanities
-  type: chapter
+    The Boundaries of Monotheism: Interdisciplinary Explorations into the
+    Foundations of Western Monotheism
+  title-short: The Boundaries of Monotheism
+  type: book
   URL: >-
-    https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/f1946d2b-93ca-4ea0-ab8c-54fb835750ad#ch02
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
 
-- id: Tagsb
-  citation-key: Tagsb
-  title: Tags
-  type: document
-
-- id: tenenSustainableAuthorshipPlain2014
-  accessed:
-    - year: 2024
-      month: 4
-      day: 26
-  author:
-    - family: Tenen
-      given: Dennis
-    - family: Wythoff
-      given: Grant
-  citation-key: tenenSustainableAuthorshipPlain2014
-  container-title: Programming Historian
-  issued:
-    - year: 2014
-      month: 3
-      day: 19
-  language: en
-  source: programminghistorian.org
-  title: Sustainable Authorship in Plain Text using Pandoc and Markdown
-  type: article-journal
-  URL: >-
-    https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
-
-- id: terrasDigitizationDigitalResources2012
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Terras
-      given: Melissa
-  citation-key: terrasDigitizationDigitalResources2012
-  container-title: Digital Humanities in Practice
-  DOI: 10.29085/9781856049054.004
-  editor:
-    - family: Warwick
-      given: Claire
-    - family: Nyhan
-      given: Julianne
-    - family: Terras
-      given: Melissa
-  ISBN: 978-1-85604-905-4
-  issued:
-    - year: 2012
-  page: 47-70
-  publisher: Facet
-  source: Cambridge University Press
-  title: Digitization and digital resources in the humanities
-  type: chapter
-  URL: >-
-    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/digital-humanities-in-practice/digitization-and-digital-resources-in-the-humanities/D82569EC95F1F6C17442F14EDBA357AD
-
-- id: terrasFatherBusaFemale2016a
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Terras
-      given: Melissa
-    - family: Nyhan
-      given: Julianne
-  citation-key: terrasFatherBusaFemale2016a
-  collection-title: Debates in the Digital Humanities
-  container-title: Debates in the Digital Humanities 2016
-  editor:
-    - family: Gold
-      given: Matthew K.
-    - family: Klein
-      given: Lauren F.
-  event-place: Minneapolis
-  ISBN: 978-1-4529-5149-2
-  issued:
-    - year: 2016
-  publisher: University of Minnesota Press
-  publisher-place: Minneapolis
-  title: Father Busa’s Female Punch Card Operatives
-  type: chapter
-  URL: >-
-    https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5#ch06
-
-- id: terrasImageProcessingDigital2012
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - family: Terras
-      given: Melissa
-  citation-key: terrasImageProcessingDigital2012
-  container-title: Digital Humanities in Practice
-  DOI: 10.29085/9781856049054.005
-  editor:
-    - family: Warwick
-      given: Claire
-    - family: Nyhan
-      given: Julianne
-    - family: Terras
-      given: Melissa
-  ISBN: 978-1-85604-905-4
-  issued:
-    - year: 2012
-  page: 71-90
-  publisher: Facet
-  source: Cambridge University Press
-  title: Image processing in the digital humanities
-  type: chapter
-  URL: >-
-    https://www.cambridge.org/core/books/digital-humanities-in-practice/image-processing-in-the-digital-humanities/A6736D134BFB11678FC98149BC9BA64B
-
-- id: ThinkPython3rd
-  accessed:
-    - year: 2024
-      month: 5
-      day: 3
-  citation-key: ThinkPython3rd
-  title: Think Python, 3rd edition — Think Python, 3rd edition
-  type: webpage
-  URL: https://allendowney.github.io/ThinkPython/
-
-- id: UnicodeCharacterTable2024
+- id: gnuseNoOtherGods1997a
   abstract: >-
-    Unicode web service for character search. Find, copy and paste your favorite
-    characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many
-    others 🚩
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  citation-key: UnicodeCharacterTable2024
-  container-title: Symbl
-  issued:
-    - year: 2024
-  language: en
-  title: Unicode Character Table - Full List of Unicode Symbols
-  type: webpage
-  URL: https://symbl.cc/en/unicode-table/
-
-- id: unicodeinc.WhatUnicode2017
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  author:
-    - literal: Unicode, Inc.
-  citation-key: unicodeinc.WhatUnicode2017
-  container-title: Unicode
-  issued:
-    - year: 2017
-      month: 7
-      day: 24
-  language: en
-  title: What is Unicode?
-  type: webpage
-  URL: https://www.unicode.org/standard/WhatIsUnicode.html
-
-- id: vanesDatafiedSocietyStudying2017
-  abstract: >-
-    As more and more aspects of everyday life are turned into machine-readable
-    data, researchers are provided with rich resources for researching society.
-    The novel methods and innovative tools to work with this data not only
-    require new knowledge and skills, but also raise issues concerning the
-    practices of investigation and publication. This book critically reflects on
-    the role of data in academia and society and challenges overly optimistic
-    expectations considering data practices as means for understanding social
-    reality. It introduces its readers to the practices and methods for data
-    analysis and visualization and raises questions not only about the politics
-    of data tools, but also about the ethics in collecting, sifting through
-    data, and presenting data research. AUP S17 Catalogue text 
-     
-    As machine-readable data comes to play an increasingly important role in
-    everyday life, researchers find themselves with rich resources for studying
-    society. The novel methods and tools needed to work with such data require
-    not only new knowledge and skills, but also a new way of thinking about best
-    research practices. This book critically reflects on the role and usefulness
-    of big data, challenging overly optimistic expectations about what such
-    information can reveal, introducing practices and methods for its analysis
-    and visualization, and raising important political and ethical questions
-    regarding its collection, handling, and presentation.
+    This is the first full-scale assessment of the theological, social and
+    ideational implications of our new understandings of ancient Israel's social
+    and religious development. Scholars now stress the gradual emergence of
+    Israel out of the culture of ancient Palestine and the surrounding ancient
+    Near East rather than contrast Israel with the ancient world. Our new
+    paradigms stress the ongoing and unfinished nature of the monotheistic
+    'revolution', which is indeed still in process today. Gnuse takes a further
+    bold step in setting the emergence of monotheism in a wider intellectual
+    context: he argues brilliantly that the interpretation of Israel's
+    development as both an evolutionary and revolutionary process corresponds to
+    categories of contemporary evolutionary thought in the biological and
+    palaeontological sciences (Punctuated Equilibrium).
   accessed:
     - year: 2023
-      month: 11
-      day: 27
-  citation-key: vanesDatafiedSocietyStudying2017
-  DOI: 10.5117/9789462981362
-  editor:
-    - family: Es
-      given: Karin
-      non-dropping-particle: van
-    - family: Schäfer
-      given: Mirko Tobias
-  event-place: Amsterdam
+      month: 10
+      day: 20
+  author:
+    - family: Gnuse
+      given: Robert Karl
+  citation-key: gnuseNoOtherGods1997a
+  event-place: London, UNITED KINGDOM
+  ISBN: 978-0-567-37415-8
   issued:
-    - year: 2017
-  language: English
-  note: 'Accepted: 2017-02-28 23:55'
-  publisher: Amsterdam University Press
-  publisher-place: Amsterdam
-  source: library.oapen.org
-  title: 'The Datafied Society: Studying Culture through Data'
-  type: book
-  URL: https://library.oapen.org/handle/20.500.12657/31843
-
-- id: warwickDigitalHumanitiesPractice2012
-  abstract: >-
-    This title offers a cutting-edge and comprehensive introduction to this
-    vibrant and increasingly important global field drawing together a broad
-    spectrum of disciplines. Each chapter interweaves the expert commentary of
-    leading academics, analysis of current research and practice and several
-    exciting international case studies, exploring the possibilities and
-    challenges that occur when culture and digital technologies intersect. It
-    covers key topics that include: social media and crowd sourcing; digital
-    images and digitisation; 3D scanning and museums; studying users and
-    readers; electronic text and corpora; archaeology and GIS; open access and
-    online teaching of digital humanities; and, books, texts and digital
-    editing. This is an essential practical guide for academics, researchers,
-    librarians and professionals involved in the digital humanities. It will
-    also be core reading for all humanities students and those taking courses in
-    the digital humanities in particular.
-  accessed:
-    - year: 2024
-      month: 4
-      day: 19
-  citation-key: warwickDigitalHumanitiesPractice2012
-  DOI: 10.29085/9781856049054
-  editor:
-    - family: Warwick
-      given: Claire
-    - family: Terras
-      given: Melissa
-    - family: Nyhan
-      given: Julianne
-  ISBN: 978-1-85604-766-1
-  issued:
-    - year: 2012
-  publisher: Facet
-  source: Cambridge University Press
-  title: Digital Humanities in Practice
+    - year: 1997
+  publisher: Bloomsbury Publishing Plc
+  publisher-place: London, UNITED KINGDOM
+  source: ProQuest Ebook Central
+  title: 'No Other Gods: Emergent Monotheism in Israel'
+  title-short: No Other Gods
   type: book
   URL: >-
-    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/digital-humanities-in-practice/4BCAD84F87BA8BCB3E0010FB1BFC333A
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D436625
+
+- id: langMonotheismus1998a
+  author:
+    - family: Lang
+      given: Bernard
+  call-number: '2'
+  citation-key: langMonotheismus1998a
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1998
+  language: de
+  number-of-volumes: '5'
+  page: 148-165
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Monotheismus
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
+  volume: '4'
+
+- id: markschiesPriceMonotheismNew2010a
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Markschies
+      given: Christoph
+  citation-key: markschiesPriceMonotheismNew2010a
+  container-title: One God
+  DOI: 10.1017/CBO9780511730115.007
+  editor:
+    - family: Mitchell
+      given: Stephen
+    - family: Van Nuffelen
+      given: Peter
+  event-place: Cambridge
+  ISBN: 978-0-511-73011-5
+  issued:
+    - year: 2010
+  page: 100-111
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: DOI.org (Crossref)
+  title: >-
+    The price of monotheism: Some new observations on a current debate about
+    late antiquity
+  title-short: The price of monotheism
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/CBO9780511730115A013/type/book_part
+
+- id: mcgrathOnlyTrueGod2009a
+  abstract: >-
+    Monotheism is a powerful religious concept shaped by competing ideas and the
+    problems they raised. Surveying New Testament writings and Jewish sources
+    from before and after the rise of Christianity, James F. McGrath argues that
+    even the most developed Christologies in the New Testament fit within the
+    context of first century Jewish monotheism. McGrath pinpoints when the
+    parting of ways took place over the issue of God's oneness, and explores
+    philosophical ideas such as "creation out of nothing" which caused Jews and
+    Christians to develop differing concepts and definitions about God.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: McGrath
+      given: James F.
+  citation-key: mcgrathOnlyTrueGod2009a
+  event-place: Champaign, UNITED STATES
+  ISBN: 978-0-252-09189-6
+  issued:
+    - year: 2009
+  publisher: University of Illinois Press
+  publisher-place: Champaign, UNITED STATES
+  source: ProQuest Ebook Central
+  title: 'The Only True God: Early Christian Monotheism in Its Jewish Context'
+  title-short: The Only True God
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
+
+- id: pongratz-leistenNewAgendaStudy2011a
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Pongratz-Leisten
+      given: Beate
+  citation-key: pongratz-leistenNewAgendaStudy2011a
+  container-title: Reconsidering the Concept of Revolutionary Monotheism
+  editor:
+    - family: Pongratz-Leisten
+      given: Beate
+  event-place: Winona Lake
+  ISBN: 978-1-57506-648-6
+  issued:
+    - year: 2011
+  language: en
+  page: 1-40
+  publisher: Pennsylvania State University Press
+  publisher-place: Winona Lake
+  source: ProQuest Ebook Central
+  title: A New Agenda for the Study of the Rise of Monotheism
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+
+- id: pongratz-leistenReconsideringConceptRevolutionary2011a
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  citation-key: pongratz-leistenReconsideringConceptRevolutionary2011a
+  editor:
+    - family: Pongratz-Leisten
+      given: Beate
+  event-place: Winona Lake
+  ISBN: 978-1-57506-648-6
+  issued:
+    - year: 2011
+  language: en
+  publisher: Pennsylvania State University Press
+  publisher-place: Winona Lake
+  source: ProQuest Ebook Central
+  title: Reconsidering the Concept of Revolutionary Monotheism
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+
+- id: schmidQuestGodMonotheistic2011a
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Schmid
+      given: Konrad
+  citation-key: schmidQuestGodMonotheistic2011a
+  container-title: Reconsidering the Concept of Revolutionary Monotheism
+  editor:
+    - family: Pongratz-Leisten
+      given: Beate
+  event-place: Winona Lake
+  ISBN: 978-1-57506-648-6
+  issued:
+    - year: 2011
+  language: en
+  page: 271-290
+  publisher: Pennsylvania State University Press
+  publisher-place: Winona Lake
+  source: ProQuest Ebook Central
+  title: >-
+    The Quest for “God”: Monotheistic Arguments in the Priestly Texts of the
+    Hebrew Bible
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+
+- id: stroumsaIdeaSemiticMonotheism2021a
+  abstract: |-
+    In this work, a sequel to my
+                  A New Science: The Discovery of Religion in an Age of Reason
+                  (Cambridge, MA: Harvard University Press, 2010), I study some major aspects of the scholarly study of religion in the long nineteenth century—from the Enlightenment to the First World War. More precisely, I seek to understand the new status of Judaism and Islam in the formative period of the new discipline. In order to do that, I focus on the concept of Semitic monotheism, a concept developed by Ernest Renan around the mid-nineteenth century, on the basis of the postulated (and highly problematic) contradistinction between Aryan and Semitic families of peoples, cultures, and religions. This contradistinction grew from the Western discovery of Sanskrit and its relationship with European languages, at the time of the Enlightenment and Romanticism. Together with the rise of scholarly Orientalism, this discovery offered new perspectives on the East, as a consequence of which the Near East was demoted, as it were, from its traditional status as the locus of the biblical revelations. The book essentially studies a central issue in the modern study of religion. Doing so, however, it emphasizes that the new dualistic taxonomy of religions had major consequences and sheds new light on the roots of European attitudes to Jews and Muslims in the twentieth century and up to the present day.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Stroumsa
+      given: Guy G.
+  citation-key: stroumsaIdeaSemiticMonotheism2021a
+  DOI: 10.1093/oso/9780192898685.001.0001
+  edition: '1'
+  event-place: Oxford
+  ISBN: 978-0-19-289868-5 978-0-19-192520-7
+  issued:
+    - year: 2021
+      month: 5
+      day: 20
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: DOI.org (Crossref)
+  title: 'The Idea of Semitic Monotheism: The Rise and Fall of a Scholarly Myth'
+  title-short: The Idea of Semitic Monotheism
+  type: book
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oso/9780192898685.001.0001
+
+- id: stuckenbruckEarlyJewishChristian2004a
+  abstract: >-
+    Early Christology must focus not simply on "historical" but also on
+    theological ideas found in contemporary Jewish thought and practice. In this
+    book, a range of distinguished contributors considers the context and
+    formation of early Jewish and Christian devotion to God alone-the emergence
+    of "monotheism." The idea of monotheism is critically examined from various
+    perspectives, including the history of ideas, Graeco-Roman religions, early
+    Jewish mediator figures, scripture exegesis, and the history of its use as a
+    theological category.The studies explore different ways of conceiving of
+    early Christian monotheism today, asking whether monotheism is a
+    conceptually useful category, whether it may be applied cautiously and with
+    qualifications, or whether it is to be questioned in favor of different
+    approaches to understanding the origins of Jewish and Christian beliefs and
+    worship.This is volume 1 in the Early Christianity in Context series and
+    volume 263 in the Journal for the Study of the New Testament Supplement
+    Series
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Stuckenbruck
+      given: Loren T.
+    - family: North
+      given: Wendy
+  citation-key: stuckenbruckEarlyJewishChristian2004a
+  event-place: London, UNITED KINGDOM
+  ISBN: 978-0-567-42917-9
+  issued:
+    - year: 2004
+  publisher: Bloomsbury Publishing Plc
+  publisher-place: London, UNITED KINGDOM
+  source: ProQuest Ebook Central
+  title: Early Jewish and Christian Monotheism
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1749447
+
+- id: triggMonotheismReligiousDiversity2020a
+  abstract: >-
+    Cambridge Core - Religion: General Interest - Monotheism and Religious
+    Diversity
+  accessed:
+    - year: 2023
+      month: 10
+      day: 20
+  author:
+    - family: Trigg
+      given: Roger
+  citation-key: triggMonotheismReligiousDiversity2020a
+  collection-title: Elements in Religion and Monotheism
+  DOI: 10.1017/9781108637503
+  event-place: Cambridge
+  ISBN: 978-1-108-63750-3 978-1-108-71445-7
+  issued:
+    - year: 2020
+      month: 8
+  language: en
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: www-cambridge-org.proxy.ub.uni-frankfurt.de
+  title: Monotheism and Religious Diversity
+  type: book
+  URL: >-
+    https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
 ...

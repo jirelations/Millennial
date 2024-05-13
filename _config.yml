@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 future:              true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Working with Digital Data"
-description:	       "Working with Digital Data in Religious Studies (course website, summer semester 2024)"
+title:		           "Entangled Stories"
+description:	       "The History of Jewish-Christian-Muslim Relations in the Premodern Near East (course website, winter semester 2023)"
 author:              "Nathan Gibson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
