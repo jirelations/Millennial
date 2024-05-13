@@ -83,6 +83,67 @@ references:
   title-short: Juden, Christen, Heiden?
   type: book
 
+- id: arteroMigrationReligionResidential2020
+  author:
+    - family: Artero
+      given: Maurizio
+    - family: Chiodelli
+      given: Francesco
+  citation-key: arteroMigrationReligionResidential2020
+  container-title: Sociological inquiry
+  ISSN: 0038-0245
+  issue: '4'
+  issued:
+    - year: 2020
+  language: English
+  page: 867-890
+  title: >-
+    Migration, Religion, and Residential Segregation at the Urban Level: The
+    Case of Muslim Migrants in Rome and Milan
+  title-short: Migration, Religion, and Residential Segregation at the Urban Level
+  type: article-journal
+  volume: '90'
+
+- id: baumann-neuhausGlaubeMigrationReligion2019
+  abstract: >-
+    Migration bedeutet Veränderung. Menschen verlagern ihren Lebensmittelpunkt
+    in ein anderes Land. Dort sind sie mit einem fremden kulturellen und
+    religiösen Kontext konfrontiert. Sie erleben häufig starke Brüche und
+    Diskontinuitäten. Entsprechend gross ist das Bedürfnis nach neuer
+    Orientierung und nach geeigneten Strategien für die Bewältigung der
+    Situation. Religion kann in solchen Zeiten zu einer Ressource werden. Als
+    Sinn- und Orientierungssystem vermag Religion Erfahrungen der Diskontinuität
+    aufzufangen. Menschen, die über ein religiöses Deutungsrepertoire verfügen,
+    finden in ihrem Glauben oft eine Quelle des Trostes, der Ermutigung, der
+    Selbstvergewisserung und der Handlungsorientierung. Christliche Migrantinnen
+    und Migranten aus Spanien und Lateinamerika erzählen, wie ihr Glaube in der
+    Situation der Migration für sie relevant wurde. Die Studie rekonstruiert
+    daraus verschiedene Typen der religiösen Verarbeitung von
+    Migrationserfahrungen und vergleicht unterschiedliche Formen von
+    Religiosität und Spiritualität. Die Studie zeigt, wie Migrantinnen und
+    Migranten, geprägt durch ihre Herkunft und ihre (Migrations-)Erfahrungen,
+    unterschiedliche Formen von Religiosität vertreten und praktizieren. Mit
+    ihrer Gegenwart tragen sie dazu bei, dass sich das Christentum in der
+    Schweiz weiter vervielfältigt und verändert.
+  author:
+    - family: Baumann-Neuhaus
+      given: Eva
+  citation-key: baumann-neuhausGlaubeMigrationReligion2019
+  event-place: St. Gallen
+  ISBN: 978-3-906018-16-4
+  issued:
+    - year: 2019
+  language: de
+  number-of-pages: '346'
+  publisher: Edition SPI
+  publisher-place: St. Gallen
+  source: SSOAR
+  title: >-
+    Glaube in Migration: Religion als Ressource in Biographien christlicher
+    Migrantinnen und Migranten
+  title-short: Glaube in Migration
+  type: book
+
 - id: beckerWaysThatNever2003c
   author:
     - family: Becker
@@ -276,6 +337,38 @@ references:
   URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0047/html
   volume: '3'
 
+- id: brunnKonvergenzReligionsUnd2008
+  author:
+    - family: Brunn
+      given: 'Bearbeitung: Christine'
+    - family: Schneider
+      given: 'Betreuung: Prof Dr Karlheinz'
+  citation-key: brunnKonvergenzReligionsUnd2008
+  issued:
+    - year: 2008
+  publisher: GESIS - Leibniz-Institut f&#252;r Sozialwissenschaften, 2008.
+  title: >-
+    Die Konvergenz von Religions- und Integrationspolitik angesichts
+    muslimischer Zuwanderung. Ein Vergleich des Stellenwertes von Religion für
+    die Innenpolitik in Großbritannien, Deutschland und Frankreich
+  type: article-journal
+
+- id: brunnKonvergenzReligionsUnd2008a
+  author:
+    - family: Brunn
+      given: 'Bearbeitung: Christine'
+    - family: Schneider
+      given: 'Betreuung: Prof Dr Karlheinz'
+  citation-key: brunnKonvergenzReligionsUnd2008a
+  issued:
+    - year: 2008
+  publisher: GESIS - Leibniz-Institut f&#252;r Sozialwissenschaften, 2008.
+  title: >-
+    Die Konvergenz von Religions- und Integrationspolitik angesichts
+    muslimischer Zuwanderung. Ein Vergleich des Stellenwertes von Religion für
+    die Innenpolitik in Großbritannien, Deutschland und Frankreich
+  type: article-journal
+
 - id: buttsHistorySlaveChrist2017c
   abstract: >-
     "The History of the 'Slave of Christ' : From Jewish Child to Christian
@@ -323,6 +416,24 @@ references:
   title: The Center for the Study of Conversion - Conversion Database
   type: webpage
   URL: https://in.bgu.ac.il/en/csoc/Pages/Conversion-Database.aspx
+
+- id: ciocanCrosscultureReligiousRealm2022
+  author:
+    - family: CIOCAN
+      given: Cosmin-Tudor
+    - family: CIOCAN
+      given: Cosmin-Tudor
+  citation-key: ciocanCrosscultureReligiousRealm2022
+  container-title: 'Dialogo: Journal of the Dialogue between Science & Theology'
+  ISSN: 2457-9297
+  issue: '1'
+  issued:
+    - year: 2022
+  language: English
+  page: 87-94
+  title: Cross-culture in the religious realm due to migration.
+  type: article-journal
+  volume: '9'
 
 - id: cornilleManyMansionsMultiple2010b
   author:
@@ -719,6 +830,35 @@ references:
     Interreligious Dialogue in the Squeeze between Diplomacy and Contextual
     Practices
   type: article-journal
+
+- id: guhinColorblindIslamRacial2018
+  abstract: Jeffrey Guhin
+  accessed:
+    - year: 2024
+      month: 5
+      day: 13
+  author:
+    - family: Guhin
+      given: Jeffrey
+  citation-key: guhinColorblindIslamRacial2018
+  container-title: Social Inclusion
+  DOI: 10.17645/si.v6i2.1422
+  ISSN: 2183-2803
+  issue: '2'
+  issued:
+    - year: 2018
+      month: 6
+      day: 22
+  language: en
+  page: 87-97
+  source: www.cogitatiopress.com
+  title: >-
+    Colorblind Islam: The Racial Hinges of Immigrant Muslims in the United
+    States
+  title-short: Colorblind Islam
+  type: article-journal
+  URL: https://www.cogitatiopress.com/socialinclusion/article/view/1422
+  volume: '6'
 
 - id: gunthnerInterculturalCommunicationRelevance2008b
   abstract: |-
@@ -2278,6 +2418,48 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D6516853
+
+- id: schmitz-veltinReligioeseVielfaltWachsenden2015
+  abstract: >-
+    Stuttgart hat sich seit dem Beginn des 20. Jahrhunderts von einer weitgehend
+    durch die evangelische Kirche geprägten Stadt zu einer Stadt der religiösen
+    Vielfalt entwickelt. Hinter diesem Wandel stehen gesellschaftliche
+    Veränderungen ebenso wie die Zuwanderung aus anderen Regionen Deutschlands
+    und dem Ausland, die zunächst die Zahl der Katholiken und bis heute die Zahl
+    der Anhänger anderer Religionen haben steigen lassen. Dies äußert sich
+    besonders deutlich an der Mitgliederentwicklung der großen christlichen
+    Kirchen. Gehörten um 1900 noch über 80 Prozent der Stuttgarterinnen und
+    Stuttgarter der evangelischen Kirche und weitere 15 Prozent der
+    römisch-katholischen Kirche an, so machen die Mitglieder der einst großen
+    Volkskirchen heute nur noch jeweils ein Viertel der Einwohner aus. Die
+    Heterogenisierung der Gesellschaft im Sinne einer zunehmenden Vielfalt kann
+    als eine Komponente des demografischen Wandels interpretiert werden. Zu
+    dieser Komponente gehört auch die zunehmende religiöse Vielfalt, die in
+    Stuttgart wie in anderen Großstädten zu einem Neben- und Miteinander sehr
+    unterschiedlicher Religionen und Weltanschauungen geführt hat. Diese
+    Vielfalt bildet sich neben den religiösen Einstellungen in der Bevölkerung
+    auch in Veränderungen der religiösen Infrastruktur ab. Zunehmend treten
+    neben die kirchlichen Bauten und Institutionen Einrichtungen anderer
+    weltanschaulicher Gruppen und unterstreichen hiermit die religiöse Vielfalt
+    der Stadt.
+  author:
+    - family: Schmitz-Veltin
+      given: Ansgar
+  citation-key: schmitz-veltinReligioeseVielfaltWachsenden2015
+  container-title: 'Statistik und Informationsmanagement : Monatshefte'
+  ISSN: 1431-1003
+  issue: '7'
+  issued:
+    - year: 2015
+  language: de
+  page: 203-217
+  source: SSOAR
+  title: >-
+    Religiöse Vielfalt in einer wachsenden Stadt: Kirche und Religion in
+    Stuttgart im Zeitverlauf
+  title-short: Religiöse Vielfalt in einer wachsenden Stadt
+  type: article-journal
+  volume: '74'
 
 - id: sharmaHinduismConversion2014b
   accessed:
