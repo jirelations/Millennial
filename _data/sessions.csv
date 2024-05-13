@@ -1,92 +1,88 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
+,1,2024-04-19,2024-04-19-1.md,Introduction,Chocolate,Make Chocolate and Unwrap Your Sources,"chocolate model, data formats, data provenance",1. Introduction: Make Chocolate and Unwrap Your Sources,1,chocolate-keyboard-2050.jpg,1-Chocolate,,Consider your personal goals for the semester within the big picture of digital data in religious studies.,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,2024-04-26,2024-04-26-2.md,Working with Text,Text,"Get the Most out of ""Plain"" Text and Regular Expressions","ASCII, Unicode, plain text, rich text, RegEx","2. Working with Text: Get the Most out of ""Plain"" Text and Regular Expressions",2,printing-types-2050.jpg,2-Text,"[unicodeinc.WhatUnicode2017, UnicodeCharacterTable2024]",Understand plain text as a foundational type of data.,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,2024-05-03,2024-05-03-3.md,Working with Text,Git,Git Versioning and Archiving Your Data,"git, repositories, local, remote",3. Working with Text: Git Versioning and Archiving Your Data,3,vw-beetles-2050.jpg,3-Git,berryComputationalTurnThinking2011a,Be able to use basic features of git to track changes to your data.,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,2024-05-10,2024-05-10-4.md,Working with Text,Markdown & Markup,Mark it down and Mark it up (HTML and XML),"markdown, markup, html, xml",4. Working with Text: Mark it down and Mark it up (HTML and XML),4,breakdance-2050.jpg,4-Markdown-Markup,None,Be able to add formatting or structure to your text with markdown and markup (HTML and XML).,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,5,2024-05-17,2024-05-17-5.md,Accessing & Structuring Datasets,Tables,Structure Your Data with Tables and Databases,"IDs, data types, formulas",5. Accessing & Structuring Datasets: Structure Your Data with Tables and Databases,5,tables-2050.jpg,5-Tables,,,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,2024-05-24,2024-05-24-6.md,Accessing & Structuring Datasets,OpenRefine,Clean and Augment Your Data with OpenRefine,"data cleaning, entity resolution, URIs",6. Accessing & Structuring Datasets: Clean and Augment Your Data with OpenRefine,6,refrigerator-2050.jpg,6-OpenRefine,,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,7,2024-05-31,2024-05-31-7.md,Accessing & Structuring Datasets,Code,Don't Freak out When You See Code (It's Only Python!),"debugging, documentation",7. Accessing & Structuring Datasets: Don't Freak out When You See Code (It's Only Python!),7,python-2050.jpg,7-Code,,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,2024-06-07,2024-06-07-8.md,Accessing & Structuring Datasets,Scraping,Grab More Data with Scraping and Querying ,"data scraping, APIs",8. Accessing & Structuring Datasets: Grab More Data with Scraping and Querying ,8,baby-chocolate-2050.jpg,8-Scraping,,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,2024-06-14,2024-06-14-9.md,Accessing & Structuring Datasets,FAIR Data,"Go Meta with ""FAIR"" Principles","open access, open source, creative commons, public domain, copyright","9. Accessing & Structuring Datasets: Go Meta with ""FAIR"" Principles",9,scale-2050.jpg,9-FAIR-Data,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,2024-06-21,2024-06-21-10.md,Advanced Processing & AI,Big Data,Get a Grip on Big Data,"querying data, filtering data, heterogeneous data, machine learning, training data",10. Advanced Processing & AI: Get a Grip on Big Data,10,city-in-hand-2050.jpg,10-Big-Data,,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,2024-06-28,2024-06-28-11.md,Advanced Processing & AI,Images,Process Images and Recognize Text,"computer vision, OCR, HTR",11. Advanced Processing & AI: Process Images and Recognize Text,11,photos-conveyor-2050.jpg,11-Images,,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+,12,2024-07-05,2024-07-05-12.md,Advanced Processing & AI,Audio & Video,Generate and Transcribe Audio and Video,"voice recognition, generative AI",12. Advanced Processing & AI: Generate and Transcribe Audio and Video,12,droid-camera-2050.jpg,12-Audio-Video,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
+,13,2024-07-12,2024-07-12-13.md,Advanced Processing & AI,AI Labeling,Use AI to Label Your Data,"machine Learning, Named Entity Recognition, algorithms",13. Advanced Processing & AI: Use AI to Label Your Data,13,robot-2050.jpg,13-AI-Labeling,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
+,14,2024-07-19,2024-07-19-14.md,Conclusion,Presentations,Present Your Dataset,,14. Conclusion: Present Your Dataset,14,girl-projector-2050.jpg,14-Presentations,,,[14],"---
 layout: post
 session: 14
 tags: [14]
 level: overview
 ---"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
-layout: post
-session: 15
-tags: [15]
-level: overview
----"
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
