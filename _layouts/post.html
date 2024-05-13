@@ -6,7 +6,7 @@ layout: default
 %}
 
 <!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
-{% assign title = sessions.title | default: page.title %} {% assign image =
+{% assign title = sessions.title | default: page.title %} {% assign long-topic = sessions.long-topic | default: page.long-topic %} {% assign image =
 page.image | default: sessions.image %} {% assign zotero-tag = page.zotero-tag |
 default: sessions.zotero-tag %} {% assign poll-slug = page.poll-slug |
   default: zotero-tag %} {% assign zotero-readings = page.zotero-readings
@@ -17,6 +17,9 @@ sessions.objective %}
 <div class="post-content">
   <h1>{{ title }}</h1>
   {% if site.hide_post_date != true %} {% include post-date.html %} {% endif %}
+  {% if long-topic %}
+  <h2>{{ long-topic }}</h2>
+  {% endif %}
   {% if image %}
   <div class="featured-image">
     <figure>
