@@ -10,6 +10,14 @@ article h2, .related h2 {
 .related-title {
     float: none;
 }
+
+em {
+    font-style:italic; // Was set to inherit by reset.css
+}
+
+strong {
+    font-weight: bold; // Was set to inherit by reset.css
+}
 /*********************************************
  * REVEAL SLIDE THEME CUSTOMIZATION
  *********************************************/
