@@ -3,10 +3,13 @@ figcaption {
     color: #999;
     text-align: right;
 }
-article h2 {
+article h2, .related h2 {
     margin-top: 2.5rem;
 }
 
+.related-title {
+    float: none;
+}
 /*********************************************
  * REVEAL SLIDE THEME CUSTOMIZATION
  *********************************************/

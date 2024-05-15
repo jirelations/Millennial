@@ -10,78 +10,29 @@
     {% if slide_posts.size > 0 %}
     <h2>
       <i class="fa-solid fa-person-chalkboard"></i>
-      <a href="{{ site.github.url }}{{ slides.url }}" target="_blank"
-        >Slides</a
-      >
+      Slides
     </h2>
     {% endif %}
-    {% for slides in slide_posts %}
-    <li>      
-      <h3>
-        <a href="{{ site.github.url }}{{ slides.url }}" target="_blank">
-          <div class="related-thumbnail">
-            {% if slides.image %}
-            <img
-              src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ slides.image }}"
-            />
-            {% endif %}
-          </div>
-          <div class="related-title">{{ slides.title }}</div>
-          <!--<small>{{ slides.date | date: "%B %-d, %Y" }}</small>-->
-        </a>
-      </h3>
-    </li>
+    {% for item in slide_posts %}
+    {% include related-post-preview.html %}
     {% endfor %}
     {% if tutorials.size > 0 %}
     <h2>
       <i class="fa-solid fa-laptop-code"></i>
-      <a href="{{ site.github.url }}{{ tutorial.url }}" target="_blank"
-        >Tutorials</a
-      >
+      Tutorials
     </h2>
     {% endif %}
-    {% for tutorial in tutorials %}
-    <li>
-      
-      <h3>
-        <a href="{{ site.github.url }}{{ tutorial.url }}" target="_blank">
-          <div class="related-thumbnail">
-            {% if tutorial.image %}
-            <img
-              src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ tutorial.image }}"
-            />
-            {% endif %}
-          </div>
-          <div class="related-title">{{ tutorial.title }}</div>
-          <!--<small>{{ tutorial.date | date: "%B %-d, %Y" }}</small>-->
-        </a>
-      </h3>
-    </li>
+    {% for item in tutorials %}
+    {% include related-post-preview.html %}
     {% endfor %}
     {% if others.size > 0 %}
     <h2>
       <i class="fa-solid fa-arrows-to-circle"></i>
-      <a href="{{ site.github.url }}{{ slides.url }}" target="_blank"
-        >Related</a
-      >
+      Related
     </h2>
     {% endif %}
-    {% for other in others %}
-    <li>
-      <h3>
-        <a href="{{ site.github.url }}{{ mypost.url }}">
-          <div class="related-thumbnail">
-            {% if other.image %}
-            <img
-              src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ other.image }}"
-            />
-            {% endif %}
-          </div>
-          <div class="related-title">{{ other.title }}</div>
-          <!--<small>{{ other.date | date: "%B %-d, %Y" }}</small>-->
-        </a>
-      </h3>
-    </li>
+    {% for item in others %}
+    {% include related-post-preview.html %}
     {% endfor %}
     {% assign listed_posts_urls = listed_posts_urls | push: other.url %} {%
     endif %} {% endfor %} 
