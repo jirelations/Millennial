@@ -31,5 +31,5 @@ author: "Nathan Gibson"
 #feed:
 #  path: rss-feed.xml
 
-hide_related_posts: true
+hide_related_posts: false
 hide_post_share: true

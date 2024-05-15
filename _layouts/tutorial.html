@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+
+<div class="post-content">
+  <h1>{{ title }}</h1>
+  {% if image %}
+  <div class="featured-image">
+    <figure>
+      <img src="{{ site.github.url }}/assets/img/{{ image }}" />
+      <figcaption>
+        Image: {% capture image_attribution %} {% include_relative {{ image
+        }}-attribution.md %} {% endcapture %} {{ image_attribution }}
+        <!-- Markdownify is rendering this as a code block instead of transforming MD > HTML  -->
+        <!-- {{ image_attribution | markdownify }} -->
+      </figcaption>
+    </figure>
+  </div>
+  {% endif %}
+  <article>
+    {{ content }}
+  </article>
+</div>
