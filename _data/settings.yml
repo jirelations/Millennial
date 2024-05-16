@@ -7,12 +7,14 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 # To change the external link values for the below, do so in the pages directory, where their redirects live.
+
 menu:
 - {name: 'OLAT',  url: 'olat'}
 - {name: 'Etherpad',  url: 'pad'}
 - {name: 'Polls',  url: 'poll'}
 - {name: 'Zotero',  url: 'zotero'}
 - {name: 'Chat',  url: 'chat'}
+- {name: 'Podcast',  url: 'podcast'} 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
