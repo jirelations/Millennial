@@ -1,6 +1,6 @@
 ---
-layout: page
-title: podcast
+layout: podcast
+title: Podcast
 permalink: /podcast/
 ---
 
@@ -8,7 +8,9 @@ permalink: /podcast/
 
 Welcome to Ulis podcast page. Here are our latest episodes:
 
-{% for post in site.categories.podcast %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
+{% for entry in site.podcast_entries %}
+  <article>
+    <h2><a href="{{ entry.url }}">{{ entry.title }}</a></h2>
+    <p>{{ entry.short_description }}</p>
+  </article>
 {% endfor %}

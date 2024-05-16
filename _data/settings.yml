@@ -12,6 +12,7 @@ menu:
 - {name: 'Polls',  url: 'poll'}
 - {name: 'Zotero',  url: 'zotero'}
 - {name: 'Chat',  url: 'chat'}
+- {name: 'Podcast',  url: 'podcast'} 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
