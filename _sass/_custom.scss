@@ -47,7 +47,7 @@ automatically flex and fill row. */
 /* Images can be as background image in separate divs. */
 .img-row>div {
     background-position: center; 
-    background-size: cover; 
+    background-size: center; 
     width: 100%;
 }
 
@@ -56,6 +56,10 @@ automatically flex and fill row. */
     width: 100%;
     object-fit: cover;
     object-position: center;
+}
+
+.contain>img {
+    object-fit: contain;
 }
 
 /* Row height, if specified, is proportional to 12. */
