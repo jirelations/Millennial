@@ -1,0 +1,6 @@
+{% assign image = include.image | default: page.image %}
+<div class="featured-image">
+    <figure>
+        <img src="{{ site.github.url }}/assets/img/{{ image }}" />
+    </figure>
+</div>

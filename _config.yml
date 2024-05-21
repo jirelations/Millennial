@@ -5,11 +5,9 @@ paginate:
             50
 # Collections for podcast and RSS feeds
 collections:
-  rss_entries:
+  podcasts:
     output: true
-  podcast_entries:
-    output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:title
     
 # Build settings
 markdown:            kramdown
