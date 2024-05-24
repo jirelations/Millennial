@@ -40,4 +40,7 @@ sharing_button_prompt: "Feel free to share!"
 
 related_posts: 'Related'
 
-post_date_prefix: "Written on"
+post_date_prefix: 'Written on'
+
+reveal-slides:
+  background-opacity: 0.3
