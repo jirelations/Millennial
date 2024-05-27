@@ -1,5 +1,7 @@
 # Site Build Settings
 
+website: https://24inter.pages.gwdg.de
+
 # jekyll-paginate configuration
 paginate:
             50
