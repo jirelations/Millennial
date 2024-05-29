@@ -1,20 +1,21 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: "millennial-3"
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: "UA-112060364-2"
 
 # To change the external link values for the below, do so in the pages directory, where their redirects live.
 
 menu:
-- {name: 'OLAT',  url: 'olat'}
-- {name: 'Etherpad',  url: 'pad'}
-- {name: 'Polls',  url: 'poll'}
-- {name: 'Zotero',  url: 'zotero'}
-- {name: 'Chat',  url: 'chat'}
-- {name: 'Podcast',  url: 'podcast'} 
+  - { name: "OLAT", url: "olat" }
+  - { name: "Etherpad", url: "pad" }
+  - { name: "Polls", url: "poll" }
+  - { name: "Zotero", url: "zotero" }
+  - { name: "Chat", url: "chat" }
+  - { name: "Podcast", url: "podcast" }
+  - { name: "Glossar", url: "glossary" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -26,17 +27,17 @@ social:
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 base-urls:
-  pad: 'https://etherpad.studiumdigitale.uni-frankfurt.de/p/24inter'
-  polls: 'https://ars.particify.de/p/55069903/series'
-  zotero: 'https://www.zotero.org/groups/5490829/24inter'
+  pad: "https://etherpad.studiumdigitale.uni-frankfurt.de/p/23entangled"
+  polls: "https://ars.particify.de/p/83029916/series"
+  zotero: "https://www.zotero.org/groups/5227670/23entangled"
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: "Newer"
+  previous_page: "Older"
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: "Feel free to share!"
 
-related_posts: 'You may also enjoy...'
+related_posts: "You may also enjoy..."
 
-post_date_prefix: 'Written on'
+post_date_prefix: "Written on"
