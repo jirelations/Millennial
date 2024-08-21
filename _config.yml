@@ -1,25 +1,31 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:
-            50
+paginate: 50
 # Collections for podcast and RSS feeds
 collections:
   podcasts:
     output: true
     permalink: /:collection/:title
-    
+
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-future:              true
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+plugins:
+  [
+    jekyll-paginate,
+    jekyll-sitemap,
+    jekyll-feed,
+    jekyll-seo-tag,
+    jekyll-include-cache,
+  ]
+future: true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Interkulturelle Kommunikationswege"
-description:	       "Interkulturelle Kommunikationswege in sich wandelnden religiösen Umfeldern (course website, summer semester 2024)"
-author:              "Nathan Gibson"
+title: "Interkulturelle Kommunikationswege"
+description: "Interkulturelle Kommunikationswege in sich wandelnden religiösen Umfeldern (course website, summer semester 2024)"
+author: "Nathan Gibson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
