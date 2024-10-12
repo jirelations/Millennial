@@ -20,18 +20,9 @@ sessions.objective %}
   {% if site.hide_post_date != true %} {% include post-date.html %} {% endif %}
   {% if long-topic %}
   <h2>{{ long-topic }}</h2>
-  {% endif %} {% if image %}
-  <div class="featured-image">
-    <figure>
-      <img src="{{ site.github.url }}/assets/img/{{ image }}" />
-      <figcaption>
-        Image: {% capture image_attribution %} {% include_relative {{ image
-        }}-attribution.md %} {% endcapture %} {{ image_attribution }}
-        <!-- Markdownify is rendering this as a code block instead of transforming MD > HTML  -->
-        <!-- {{ image_attribution | markdownify }} -->
-      </figcaption>
-    </figure>
-  </div>
+  {% endif %}
+  {% if image %}
+  {% include featured-image.html image=image %}
   {% endif %}
   <article>
     <!-- <a href="{{ site.data.settings.base-urls.zotero }}/tags/{{ zotero-tag }}/library" class="menu-link">
