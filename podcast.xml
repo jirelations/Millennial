@@ -12,7 +12,7 @@ layout: null
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         <image>
-            <url>{{ site.url }}{{ site.baseurl }}/assets/img/{{ post.image }}</url>
+            <url>{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.data.settings.cover_image }}</url>
             <title>{{ site.title | xml_escape }}</title>
             <link>{{ site.url }}{{ site.baseurl }}/podcast</link>
         </image>
@@ -24,7 +24,7 @@ layout: null
             <author>{{ post.author | xml_escape }}</author>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <guid isPermaLink="true">{{ site.url }}{{ post.url | prepend: site.baseurl }}</guid>
-            <enclosure url="{{ post.mp3 }}" type="audio/mpeg"/>
+            <enclosure url="{{ site.url }}{{ site.baseurl }}{{ post.mp3 }}" type="audio/mpeg"/>
             <podcast:episode>{{ post.episode }}</podcast:episode>
             <itunes:episode>{{ post.episode }}</itunes:episode>
             <itunes:explicit>false</itunes:explicit>

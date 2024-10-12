@@ -1,5 +1,7 @@
 # Site Build Settings
 
+url: https://24inter.pages.gwdg.de
+
 # jekyll-paginate configuration
 paginate: 50
 # Collections for podcast and RSS feeds

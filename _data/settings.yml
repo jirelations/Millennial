@@ -42,5 +42,7 @@ related_posts: 'Related'
 
 post_date_prefix: 'Written on'
 
+cover_image: interreligious-conversation.png
+
 reveal-slides:
   background-opacity: 0.3
