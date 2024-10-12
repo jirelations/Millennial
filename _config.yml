@@ -25,9 +25,9 @@ plugins:
 future: true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Interkulturelle Kommunikationswege"
-description: "Interkulturelle Kommunikationswege in sich wandelnden religiösen Umfeldern (course website, summer semester 2024)"
-author: "Nathan Gibson"
+title:		           "Entangled Stories"
+description:	       "The History of Jewish-Christian-Muslim Relations in the Premodern Near East (course website, winter semester 2023)"
+author:              "Nathan Gibson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
