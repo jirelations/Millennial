@@ -50,4 +50,15 @@
   ></script>
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
+  {% if page.background-opacity %}
+  {% assign background-opacity = page.background-opacity %}
+  {% else %}
+  {% assign background-opacity = site.data.settings.reveal-slides.background-opacity %}
+  {% endif %}
+  <style>
+    .reveal .backgrounds {
+      opacity: {{ background-opacity }};
+    }
+  </style>
+    
 </head>

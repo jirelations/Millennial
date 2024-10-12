@@ -1,0 +1,14 @@
+<li>      
+    <h3>
+      <a href="{{ site.github.url }}{{ item.url }}" target="_blank">
+        <div class="related-title">{{ item.title }}</div>
+        <div class="related-thumbnail">
+          {% if item.image %}
+          <img
+            src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ item.image }}"
+          />
+          {% endif %}
+        </div>
+      </a>
+    </h3>
+  </li>
