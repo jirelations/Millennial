@@ -1,22 +1,28 @@
 # Site Build Settings
 
+url: https://24inter.pages.gwdg.de
+
 # jekyll-paginate configuration
-paginate:
-            50
+paginate: 50
 # Collections for podcast and RSS feeds
 collections:
-  rss_entries:
+  podcasts:
     output: true
-  podcast_entries:
-    output: true
-    permalink: /:collection/:name/
-    
+    permalink: /:collection/:title
+
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-future:              true
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+plugins:
+  [
+    jekyll-paginate,
+    jekyll-sitemap,
+    jekyll-feed,
+    jekyll-seo-tag,
+    jekyll-include-cache,
+  ]
+future: true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Entangled Stories"
@@ -27,5 +33,5 @@ author:              "Nathan Gibson"
 #feed:
 #  path: rss-feed.xml
 
-hide_related_posts: true
+hide_related_posts: false
 hide_post_share: true

@@ -1,20 +1,21 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: "millennial-3"
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ""
 
 # To change the external link values for the below, do so in the pages directory, where their redirects live.
 
 menu:
-- {name: 'OLAT',  url: 'olat'}
-- {name: 'Etherpad',  url: 'pad'}
-- {name: 'Polls',  url: 'poll'}
-- {name: 'Zotero',  url: 'zotero'}
-- {name: 'Chat',  url: 'chat'}
-- {name: 'Podcast',  url: 'podcast'} 
+  - { name: "OLAT", url: "olat" }
+  - { name: "Etherpad", url: "pad" }
+  - { name: "Polls", url: "poll" }
+  - { name: "Zotero", url: "zotero" }
+  - { name: "Chat", url: "chat" }
+  - { name: "Podcast", url: "podcast" }
+  - { name: "Glossar", url: "glossary" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -32,11 +33,16 @@ base-urls:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: "Newer"
+  previous_page: "Older"
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: "Feel free to share!"
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Related'
 
 post_date_prefix: 'Written on'
+
+cover_image: interreligious-conversation.png
+
+reveal-slides:
+  background-opacity: 0.3
