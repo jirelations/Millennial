@@ -17,8 +17,8 @@ sessions.objective %}
 
 <div class="post-content">
   <h1>{{ title }}</h1>
-  {% if site.hide_post_date != true %} {% include post-date.html %} {% endif %}
-  {% if long-topic %}
+  {% if site.hide_post_date != true and page.hide_post_date != true %} {%
+  include post-date.html %} {% endif %} {% if long-topic %}
   <h2>{{ long-topic }}</h2>
   {% endif %} {% if image %} {% include featured-image.html image=image %} {%
   endif %}
