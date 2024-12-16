@@ -1,0 +1,20 @@
+---
+layout: default
+title: Course Requirements
+---
+
+<div class="course-requirements">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.image %}
+  <div class="featured-image" style="text-align: left; margin-bottom: 20px">
+    <img
+      src="{{ site.baseurl }}/assets/img/{{ page.image }}"
+      alt="{{ page.title }}"
+      style="width: auto; height: auto; max-width: 100%"
+    />
+  </div>
+  {% endif %} {% if page.description %}
+  <p>{{ page.description }}</p>
+  {% endif %} {{ content }}
+</div>
