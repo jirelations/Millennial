@@ -1,7 +1,5 @@
 # Documentation Course Websites: A Jekyll theme (based on Millennial)
 
-[Documentation Course Websites: A Jekyll theme (based on Millennial)](#documentation-course-websites-a-jekyll-theme-based-on-millennial)
-
 ## Table of Contents
 
 [1. Introduction](#1-introduction)
@@ -77,11 +75,14 @@ You will create and edit content for your course website on your own device in M
 
 ## 1.2 Remote Build Prerequisites
 
-On GitHub Pages, you can create and serve your website with a free user account, but your website and its code will have to be public.
+If you use GitHub Pages, you can create and serve your website with a free user account, but your website and its code will have to be public.
 
-GitLab is not centralized, so you may be using an instance from your university. You will need an account with permissions to create “organizations” and “projects,” and your administrator must have GitLab Pipelines and Pages enabled. Using the process described here, your website created with GitLab will be public, but the code you use to create it doesn’t have to be.
+If you use GitLab, it is not centralized, so you may be using an instance from your university. You will need an account with permissions to create “organizations” and “projects,” and your administrator must have GitLab Pipelines and Pages enabled. Using the process described here, your website created with GitLab will be public, but the code you use to create it doesn’t have to be.
 
 ## 1.3 Local Build Prerequisites
+
+> [!TIP]
+> Skip to [2. Installation](#2-installation) if you are using only the remote build option (GitHub or GitLab).
 
 To run and use Course Websites on your own computer, you need to install Ruby and [Jekyll](https://jekyllrb.com). Jekyll is a static site generator that transforms [Markdown](https://www.markdownguide.org/) content and [Liquid](https://jekyllrb.com/docs/liquid/) templates into a complete static website, blog, or documentation site. Ruby plays a critical role as the programming language that powers the tool. It is a dynamic, open-source programming language with a focus on simplicity and productivity. Additionally, using a source editor like Visual Studio Code is highly recommended, as it offers plugins that make working with your Jekyll page much easier.
 
@@ -106,7 +107,7 @@ Once you have met the prerequisites, there are several ways to install Course We
 
 The first method to install Course Websites is by downloading it from [this link](https://github.com/jirelations/Millennial/archive/refs/heads/gh-pages.zip) and adding it to your local files. Simply unzip the file and place it in its own directory. Once done, open the directory with your preferred source editor. First, run `bundle install`, then run `jekyll serve` in a new terminal. Your Jekyll page will now be running locally at [`http://localhost:4000/`](http://localhost:4000/).
 
-## 2.2 Installation via Github and Github Desktop
+## 2.2 Installation via GitHub and GitHub Desktop
 
 Another method of installing Course Websites is through GitHub or GitHub Desktop. To use the GitHub web interface, navigate to [this repository](https://github.com/jirelations/Millennial) and fork it. You can then edit your version in a codespace or download it and use it with your preferred source editor. If you prefer GitHub Desktop, simply clone the repository using the same link and open it directly in a source editor to start working.
 
