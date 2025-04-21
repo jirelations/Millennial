@@ -1,95 +1,95 @@
-# **Documentation Course Websites: A Jekyll theme (based on Millennial)** {#documentation-course-websites:-a-jekyll-theme-(based-on-millennial)}
+# **Documentation Course Websites: A Jekyll theme (based on Millennial)**
 
-[Documentation Course Websites: A Jekyll theme (based on Millennial)](<#documentation-course-websites:-a-jekyll-theme-(based-on-millennial)>)
+[Documentation Course Websites: A Jekyll theme (based on Millennial)](#documentation-course-websites-a-jekyll-theme-based-on-millennial)
 
 ## Table of Contents
 
-[1\. Introduction](#1.-introduction)
+[1. Introduction](#1-introduction)
 
-[1.1 Publishing Scenarios](#1.1-publishing-scenarios)
+[1.1 Publishing Scenarios](#11-publishing-scenarios)
 
-[1.2 Remote Build Prerequisites](#1.2-remote-build-prerequisites)
+[1.2 Remote Build Prerequisites](#12-remote-build-prerequisites)
 
-[1.3 Local Build Prerequisites](#1.3-local-build-prerequisites)
+[1.3 Local Build Prerequisites](#13-local-build-prerequisites)
 
-[1.3.1 Jekyll](#1.3.1-jekyll)
+[1.3.1 Jekyll](#131-jekyll)
 
-[1.3.2 Visual Studio Code](#1.3.2-visual-studio-code)
+[1.3.2 Visual Studio Code](#132-visual-studio-code)
 
-[2\. Installation](#2.-installation)
+[2. Installation](#2-installation)
 
-[2.1 Local installation](#2.1-local-installation)
+[2.1 Local installation](#21-local-installation)
 
-[2.2 Installation via Github and Github Desktop](#2.2-installation-via-github-and-github-desktop)
+[2.2 Installation via Github and Github Desktop](#22-installation-via-github-and-github-desktop)
 
-[2.3 GitLab](#2.3-gitlab)
+[2.3 GitLab](#23-gitlab)
 
-[2.3.1 Advanced Github-GitLab Sync](#2.3.1-advanced-github-gitlab-sync)
+[2.3.1 Advanced Github-GitLab Sync](#231-advanced-github-gitlab-sync)
 
-[2.3.1.1 .git config](#2.3.1.1-.git-config)
+[2.3.1.1 .git config](#2311-git-config)
 
-[2.3.2 Enable pages and CI Pipelines](#2.3.2-enable-pages-and-ci-pipelines)
+[2.3.2 Enable pages and CI Pipelines](#232-enable-pages-and-ci-pipelines)
 
-[2.4 Directory Structure](#2.4-directory-structure)
+[2.4 Directory Structure](#24-directory-structure)
 
-[3\. Configuration / Features](#3.-configuration-/-features)
+[3. Configuration / Features](#3-configuration--features)
 
-[3.1 Posts](#3.1-posts)
+[3.1 Posts](#31-posts)
 
-[3.2 Slides / Reveal.JS](#3.2-slides-/-reveal.js)
+[3.2 Slides / Reveal.JS](#32-slides--revealjs)
 
-[3.2.1 Sidebar-Menu](#3.2.1-sidebar-menu)
+[3.2.1 Sidebar-Menu](#321-sidebar-menu)
 
-[3.3 Zotero / Bibliography integration](#3.3-zotero-/-bibliography-integration)
+[3.3 Zotero / Bibliography integration](#33-zotero--bibliography-integration)
 
-[3.4 Pages](#3.4-pages)
+[3.4 Pages](#34-pages)
 
-[3.4.1 Redirects](#3.4.1-redirects)
+[3.4.1 Redirects](#341-redirects)
 
-[3.5 HTML-Layouts](#3.5-html-layouts)
+[3.5 HTML-Layouts](#35-html-layouts)
 
-[3.6 Glossary](#3.6-glossary)
+[3.6 Glossary](#36-glossary)
 
-[3.7 Podcast](#3.7-podcast)
+[3.7 Podcast](#37-podcast)
 
-[3.7.1 Podcast-Page](#3.7.1-podcast-page)
+[3.7.1 Podcast-Page](#371-podcast-page)
 
-[3.7.2 Podcast-Posts](#3.7.2-podcast-posts)
+[3.7.2 Podcast-Posts](#372-podcast-posts)
 
-[3.7.3 Podcast.xml](#3.7.3-podcast.xml)
+[3.7.3 Podcast.xml](#373-podcastxml)
 
-[4\. Further modifications](#4.-further-modifications)
+[4. Further modifications](#4-further-modifications)
 
-[4.1 Ruby Gems](#4.1-ruby-gems)
+[4.1 Ruby Gems](#41-ruby-gems)
 
-[4.2 GitHub](#4.2-github)
+[4.2 GitHub](#42-github)
 
-# **1\. Introduction** {#1.-introduction}
+# **1. Introduction**
 
 Course Websites is a customized Jekyll theme inspired by the layout and structure of the [Millennial theme](https://github.com/LeNPaul/Millennial). Students can easily follow the structure of your course with pages for each class session, reading assignments from Zotero, slides using RevealJS, glossary pages, and podcasts. Creating content is primarily done with Markdown, but you can also use HTML where you need more advanced options. Detailed information about this theme is provided below in the README.
 
-## **1.1 Publishing Scenarios** {#1.1-publishing-scenarios}
+## **1.1 Publishing Scenarios**
 
 You will create and edit content for your course website on your own device in Markdown. To publish it to a website, you have the following options:
 
 1. **Remote build:** Upload your files to GitHub Pages or GitLab Pages, where they are converted to an HTML website. _Optional_: If you want to test your website _before_ uploading, you should install Jekyll on your own computer (see Local build below).
 2. **Local build:** Install Jekyll on your own computer and use it to create the HTML website, then upload these HTML pages to any server.
 
-## **1.2 Remote Build Prerequisites** {#1.2-remote-build-prerequisites}
+## **1.2 Remote Build Prerequisites**
 
 On GitHub Pages, you can create and serve your website with a free user account, but your website and its code will have to be public.
 
 GitLab is not centralized, so you may be using an instance from your university. You will need an account with permissions to create “organizations” and “projects,” and your administrator must have GitLab Pipelines and Pages enabled. Using the process described here, your website created with GitLab will be public, but the code you use to create it doesn’t have to be.
 
-## **1.3 Local Build Prerequisites** {#1.3-local-build-prerequisites}
+## **1.3 Local Build Prerequisites**
 
 To run and use Course Websites on your own computer, you need to install Ruby and [Jekyll](https://jekyllrb.com). Jekyll is a static site generator that transforms [Markdown](https://www.markdownguide.org/) content and [Liquid](https://jekyllrb.com/docs/liquid/) templates into a complete static website, blog, or documentation site. Ruby plays a critical role as the programming language that powers the tool. It is a dynamic, open-source programming language with a focus on simplicity and productivity. Additionally, using a source editor like Visual Studio Code is highly recommended, as it offers plugins that make working with your Jekyll page much easier.
 
-### 1.3.1 Jekyll {#1.3.1-jekyll}
+### 1.3.1 Jekyll
 
 As Course Websites is a customized Jekyll theme, the first step is to install Jekyll and Ruby on your device. For detailed installation instructions, please visit [Jekyll's official installation guide](https://jekyllrb.com/docs/installation/). This step-by-step tutorial provides comprehensive instructions for different operating systems.
 
-### 1.3.2 Visual Studio Code {#1.3.2-visual-studio-code}
+### 1.3.2 Visual Studio Code
 
 Using a source editor like Visual Studio Code will significantly enhance your workflow when working with a Jekyll page. It offers several useful plugins that can greatly improve your efficiency. Notable plugins for improving your Jekyll workflow in Visual Studio Code include:
 
@@ -98,19 +98,19 @@ Using a source editor like Visual Studio Code will significantly enhance your wo
 
 To install Visual Studio Code on your device, please follow the instructions at [Visual Studio Code download page](https://code.visualstudio.com/download).
 
-# **2\. Installation** {#2.-installation}
+# **2. Installation**
 
 Once you have met the prerequisites, there are several ways to install Course Websites on your device. The following section outlines the different methods for a successful installation.
 
-## **2.1 Local installation** {#2.1-local-installation}
+## **2.1 Local installation**
 
 The first method to install Course Websites is by downloading it from [this link](https://github.com/jirelations/Millennial/archive/refs/heads/gh-pages.zip) and adding it to your local files. Simply unzip the file and place it in its own directory. Once done, open the directory with your preferred source editor. First, run `bundle install`, then run `jekyll serve` in a new terminal. Your Jekyll page will now be running locally at [`http://localhost:4000/`](http://localhost:4000/).
 
-## **2.2 Installation via Github and Github Desktop** {#2.2-installation-via-github-and-github-desktop}
+## **2.2 Installation via Github and Github Desktop**
 
 Another method of installing Course Websites is through GitHub or GitHub Desktop. To use the GitHub web interface, navigate to [this repository](https://github.com/jirelations/Millennial) and fork it. You can then edit your version in a codespace or download it and use it with your preferred source editor. If you prefer GitHub Desktop, simply clone the repository using the same link and open it directly in a source editor to start working.
 
-## **2.3 GitLab** {#2.3-gitlab}
+## **2.3 GitLab**
 
 First, navigate to **“Groups"** in the sidebar navigation and create a new group by clicking the **“create group”** button. The website can get its own subdomain only if it is a website for a group. Name the new group. The group name also will be part of the url for your course. Once everything is done, click on the blue **“create group”** at the bottom of the page and your group is created.
 
@@ -122,7 +122,7 @@ Now it's time to configure some settings. For this, navigate to your project set
 
 Once you successfully set the correct settings, it is time to dive deeper into the configuration section of your project.
 
-### 2.3.1 Advanced Github-GitLab Sync {#2.3.1-advanced-github-gitlab-sync}
+### 2.3.1 Advanced Github-GitLab Sync
 
 In this project setup, we manage the repository by forking it from the original "Millennial" repository on GitHub. To maintain a synchronized backup, we utilize a "push-only" version of the repository on GitLab. This means the GitLab repository is never directly modified—changes are exclusively pushed from the GitHub version.
 
@@ -134,7 +134,7 @@ To establish and maintain advanced synchronization between GitHub and GitLab, th
 
 For a better understanding of the file, please find a detailed explanation here:
 
-#### **2.3.1.1 .git config** {#2.3.1.1-.git-config}
+#### **2.3.1.1 .git config**
 
 First of all, there are some **core settings** (line 1-7) which are explained in the following part.
 
@@ -164,7 +164,7 @@ Furthermore, we have the **remote settings** (line 11-12,24-32):
 Once you have successfully configured the settings as shown in the example, your repository will be ready to push changes to GitLab. To verify that everything is working correctly, open a new terminal and execute the following command: **git push all**  
 This command ensures that your changes are pushed to all configured remotes, including GitHub and GitLab. If the setup is correct, the push should complete without errors, and your changes will be mirrored to the GitLab repository as intended.
 
-### **2.3.2 Enable pages and CI Pipelines** {#2.3.2-enable-pages-and-ci-pipelines}
+### **2.3.2 Enable pages and CI Pipelines**
 
 After successfully completing the previous steps, the next step is to enable Pages for your project. This involves configuring the CI/CD pipeline to ensure that the deployment process functions correctly. Here's how to proceed:
 
@@ -201,7 +201,7 @@ If the issue persists, revisit the configuration:
 
 Once these steps are corrected and the pipeline is restarted, everything should run as intended, successfully setting up your GitLab Pages deployment.
 
-## **2.4 Directory Structure** {#2.4-directory-structure}
+## **2.4 Directory Structure**
 
 In this section, you will explore the key components of the GH-Pages directory.
 
@@ -220,11 +220,11 @@ be included in multiple layouts or pages.
 
 You will see some additional files, some of which are necessary for Course Websites to function. Don’t delete or change these manually unless you know what you’re doing\!
 
-# **3\. Configuration / Features** {#3.-configuration-/-features}
+# **3. Configuration / Features**
 
 GH-Pages provides a range of features designed for innovative teaching. The following section will highlight the most important features and explain how to use them.
 
-## **3.1 Posts** {#3.1-posts}
+## **3.1 Posts**
 
 One of the key features of Course Website is the Post structure, which enables you to organize your page according to your course sessions. In this setup, posts function as your course sessions. When users navigate to the page, they will see the sessions listed in chronological order (provided the dates are set correctly), as shown here:
 
@@ -251,7 +251,7 @@ level: overview //
 
 If you want to add additional instructions, like to-dos for your students, simply place them under a heading such as `## To-Do` after the front matter (i.e., after the \--- ).
 
-## **3.2 Slides / Reveal.JS** {#3.2-slides-/-reveal.js}
+## **3.2 Slides / Reveal.JS**
 
 As indicated in the previously mentioned directory structure, each session post can have an assigned slide presentation, which can be accessed on the specific post page, as shown in the earlier section. The slides are powered by [Reveal.js](https://revealjs.com/), which is already integrated into GH-Pages. To add a new presentation to your post, start by creating a new markdown file in the `_posts` folder using the `YYYY-MM-DD-SESSIONNUMBER-slides` format (`-slides` follow the session number).
 
@@ -295,7 +295,7 @@ This is the content of the next slide
 
 By following these steps, you can easily add a new presentation to your post
 
-### 3.2.1 Sidebar-Menu {#3.2.1-sidebar-menu}
+### 3.2.1 Sidebar-Menu
 
 In the slides, you can utilize a built-in sidebar menu based on the GitHub repository denehyg/reveal.js-menu. The menu layout is included in the reveal.html file, located in the \_layouts folder, starting at line 42\. To access the menu within the slides, click on the button located at the bottom-left corner of the screen, as shown in the image below:
 
@@ -320,7 +320,7 @@ Here you can jump to a particular slide or go to external links relevant to the 
 
 Please note that there are several settings you can adjust for the sidebar menu, including an option to automatically include slide navigation within the sidebar. You can find these settings in the `reveal.html` file located in the `_layouts` folder, along with detailed instructions for each additional setting and how to configure them. See the Reveal.js documentation for more details.
 
-## **3.3 Zotero / Bibliography integration** {#3.3-zotero-/-bibliography-integration}
+## **3.3 Zotero / Bibliography integration**
 
 A particularly useful feature, especially in academic settings, is the ability to integrate your Zotero bibliography. This allows you to directly link specific readings to individual sessions within your Zotero library.
 
@@ -332,7 +332,7 @@ A particularly useful feature, especially in academic settings, is the ability t
 
 For each session for which you want to assign a reading, add the “Citation key” for that item from your Zotero library to the zotero-readings column of the \_data/sessions.csv file or to a zotero-readings front matter item for that session’s post. (Currently, only one reading per session is supported in the CSV file, so if you want to add multiple readings, use comma-separated citation keys in the zotero-readings front matter of a post.).
 
-## **3.4 Pages** {#3.4-pages}
+## **3.4 Pages**
 
 In GH-Pages, you can create new pages and add them to the navigation bar, like the previously mentioned Glossary page.
 
@@ -357,7 +357,7 @@ After creating the Markdown file and editing the Front Matter, go to the `settin
 
 If you want to remove a bar from the menu, simply delete the corresponding line in the menu section of `settings.yml`.
 
-### 3.4.1 Redirects {#3.4.1-redirects}
+### 3.4.1 Redirects
 
 In the navigation bar, some pages, such as Zotero, act as redirects to external or new pages to efficiently handle and manage redirections. The layout used for these redirects is located in the `_layouts` folder and is named `redirect.html`.
 
@@ -372,7 +372,7 @@ redirect: https://zotero.org
 ---
 ```
 
-## **3.5 HTML-Layouts** {#3.5-html-layouts}
+## **3.5 HTML-Layouts**
 
 This section will cover the previously mentioned HTML-Layouts which are needed to create new pages as well as new sessions and more. You can find the HTML-Layouts within the \_layouts folder. As we previously mentioned, the HTML-Layouts are needed for the Front Matter when you create a new file. In case we want to create a new session post, we use the post.html layout. In most cases, you will use the existing layouts provided; however, for special scenarios, you can create a custom layout if needed. The following example of the glossary page shows how a custom layout is structured.
 
@@ -398,7 +398,7 @@ layout: default
 
 ```
 
-## **3.6 Glossary** {#3.6-glossary}
+## **3.6 Glossary**
 
 The built-in glossary page allows you to add specific glossary terms to various sessions and display all terms on a dedicated glossary page. To add new glossary terms, first navigate to glossary.csv. Enter your data in the following format:
 
@@ -424,17 +424,17 @@ As we can see, the glossary term is correctly assigned to the first session when
 
 In this example, the glossary term appears only in Session 1, making it the only session listed for this term. If a term is relevant to multiple sessions, you can assign several sessions to the `sessionname` tag.
 
-## **3.7 Podcast** {#3.7-podcast}
+## **3.7 Podcast**
 
 Since Jekyll supports RSS, you can use GH-Pages to create a podcast. The following section will guide you through on how to use the podcast function.
 
-### 3.7.1 Podcast-Page {#3.7.1-podcast-page}
+### 3.7.1 Podcast-Page
 
 In the `pages` folder, you'll find the dedicated `podcast` page, which serves as the central hub for displaying all entries from the `_podcast` folder. This page dynamically lists and organizes your podcast episodes for easy browsing.
 
 If you'd like to customize the appearance or layout of the podcast page, navigate to the `_layouts` folder and modify the `podcast.html` file. This file controls the structure and design of the podcast page. Remember to save your changes and rebuild the site to apply the updates.
 
-### 3.7.2 Podcast-Posts {#3.7.2-podcast-posts}
+### 3.7.2 Podcast-Posts
 
 The `_podcasts` folder is where new podcast entries are created and managed. To add a new podcast entry, follow these steps:
 
@@ -468,18 +468,18 @@ This is a test podcast episode.
 
 ```
 
-### 3.7.3 Podcast.xml {#3.7.3-podcast.xml}
+### 3.7.3 Podcast.xml
 
 The `podcast.xml` file serves as a customizable RSS feed template for hosting and distributing podcast episodes. Designed with Jekyll, it dynamically generates RSS feeds that are fully compatible with major podcast directories, including Apple Podcasts and Spotify. In this setup, its primary role is to process and display the podcast entries from the “\_podcast”-folder.
 
-## **4\. Further modifications** {#4.-further-modifications}
+## **4. Further modifications**
 
 As we already pointed out in the beginning, GH-Pages is based on Jekyll, which can be extended in its functionality by implementing the so-called “gems”. In Jekyll, "gems" are Ruby libraries, also known as RubyGems, that extend the functionality of your Jekyll site. They can provide a wide range of features, from adding support for different markup languages to integrating with third-party services.
 
-## **4.1 Ruby Gems** {#4.1-ruby-gems}
+## **4.1 Ruby Gems**
 
 As mentioned in the introduction to this section, Ruby Gems are essential for modifying this Jekyll-based page. You can explore a full list of available Ruby Gems at [https://rubygems.org/gems](https://rubygems.org/gems). It's important to note that some gems may not be compatible with the latest version of Ruby, as certain Ruby Gems have not been updated recently.
 
-## **4.2 GitHub** {#4.2-github}
+## **4.2 GitHub**
 
 For features like the previously mentioned sidebar menu, GitHub can be a valuable resource for finding modifications to enhance your Jekyll page. However, similar to Ruby Gems, some modifications you find on GitHub may not be compatible with the latest version of Ruby.
